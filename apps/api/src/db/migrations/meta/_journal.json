@@ -22,6 +22,34 @@
       "when": 1725825879651,
       "tag": "0002_typical_demogoblin",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726136041776,
+      "tag": "0003_faulty_omega_red",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1726136274021,
+      "tag": "0004_sturdy_frightful_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1726150942950,
+      "tag": "0005_small_morbius",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1726155306095,
+      "tag": "0006_romantic_slapstick",
+      "breakpoints": true
     }
   ]
 }
