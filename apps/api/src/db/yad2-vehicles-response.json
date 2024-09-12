@@ -1,0 +1,2884 @@
+{
+  "data": [
+    [
+      {
+        "token": "m3by4kww",
+        "orderId": 54134665,
+        "adNumber": 72285694,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 72990,
+        "customer": {
+          "name": "יהונתן",
+          "id": 6981898,
+          "phone": "055-4358078",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "אביה car"
+        },
+        "packages": {
+          "isRecommendation": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 100,
+            "text": "מחוז ירושלים",
+            "textEng": "jerusalem_area"
+          },
+          "area": {
+            "id": 69,
+            "text": "אזור בית שמש והסביבה",
+            "textEng": "beit_shemesh_and_surroundings"
+          },
+          "city": {
+            "text": "בית שמש"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_9_lpMR2p0Ufs_20240728.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_9_lpMR2p0Ufs_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_2__jvvjxy5Xh_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_4_w7xFqvGMGC_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_5_wORpHCXWL6_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_3_yTrX9zo9Lp_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_6_ISCZ2v4Soy_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_8_kQJBZXW9Y4_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_7_VNStHMXmZq_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_10_gFlIqbInN9_20240728.jpg",
+            "https://img.yad2.co.il/Pic/202407/28/1_3/o/y2_11_Jq0ikqwqpz_20240728.jpg"
+          ],
+          "description": "מיצובישי אאוטלנדר 7 מקומות \nמנוע 2000 סמק האמין והמבוקש\nתא מטען הכי גדול ביחס לרוב הרכבים עם 7 מקומות \nמושבי עור \nאפשרות מימון \nלא בשבת"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T22:12:43",
+          "createdAt": "2024-07-24T12:55:46",
+          "endsAt": "2025-07-22T00:00:00",
+          "rebouncedAt": "2024-09-08T22:12:43"
+        },
+        "manufacturer": {
+          "id": 30,
+          "text": "מיצובישי",
+          "textEng": "mitsubishi"
+        },
+        "color": {
+          "id": 35,
+          "text": "לבן שנהב",
+          "textEng": "Ivory White"
+        },
+        "km": 140000,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 1998,
+        "horsePower": 150,
+        "abovePrice": "50000",
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2016,
+          "monthOfProduction": {
+            "id": 2,
+            "text": "פברואר"
+          },
+          "testDate": "2025-02-01T00:00:00"
+        },
+        "model": {
+          "id": 1486,
+          "text": "אאוטלנדר",
+          "textEng": "Outlander"
+        },
+        "subModel": {
+          "id": 29537,
+          "text": "Intense אוט' 7 מק' 2.0 (150 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 5,
+            "text": "ג'יפים",
+            "textEng": "jeep"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "identifyPedestrians": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 1,
+          "pollutionLevel": 14,
+          "seats": 7,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "c21x8iet",
+        "orderId": 54074122,
+        "adNumber": 49456511,
+        "adType": "private",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 40000,
+        "customer": {
+          "name": "שגיב",
+          "id": 2593086,
+          "phone": "054-6920692"
+        },
+        "address": {
+          "topArea": {
+            "id": 101,
+            "text": "חדרה, זכרון והעמקים",
+            "textEng": "hadera_zichron_valley"
+          },
+          "area": {
+            "id": 67,
+            "text": "אזור זכרון יעקב וחוף הכרמל",
+            "textEng": "zichron_and_hof_hacarmel"
+          },
+          "city": {
+            "id": "0053",
+            "text": "עתלית"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010931_20240711230340.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010931_20240711230340.jpeg",
+            "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010601_20240711230335.jpeg",
+            "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010985_20240711230338.jpeg",
+            "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010392_20240711230335.jpeg",
+            "https://img.yad2.co.il/Pic/202407/11/1_3/o/y2_1pa_010786_20240711230346.jpeg",
+            "https://img.yad2.co.il/Pic/202408/05/1_3/o/y2_7_09616_20240805085711.jpeg",
+            "https://img.yad2.co.il/Pic/202408/05/1_3/o/y2_8_06220_20240805085717.jpeg",
+            "https://img.yad2.co.il/Pic/202408/05/1_3/o/y2_9_03268_20240805085724.jpeg"
+          ],
+          "description": "יד ראשונה בעלים 00 פרטי\nנקנה אצל היבואן סמלת.\nללא תאונות,  \n קודן , מערכת מובילאיי, מצלמת רוורס.\nטופל במוסך מורשה עם היסטורית טיפולים\nמצב מצויין!!"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T17:53:36",
+          "createdAt": "2024-07-11T20:05:16",
+          "endsAt": "2024-10-18T00:00:00",
+          "rebouncedAt": "2024-09-08T17:53:36"
+        },
+        "manufacturer": {
+          "id": 35,
+          "text": "סובארו",
+          "textEng": "subaru"
+        },
+        "color": {
+          "id": 34,
+          "text": "לבן פנינה",
+          "textEng": "Pearl White"
+        },
+        "km": 0,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 1995,
+        "horsePower": 150,
+        "abovePrice": "40000",
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2015,
+          "monthOfProduction": {
+            "id": 1,
+            "text": "ינואר"
+          },
+          "testDate": "2025-01-01T00:00:00"
+        },
+        "model": {
+          "id": 1507,
+          "text": "פורסטר",
+          "textEng": "Forester"
+        },
+        "subModel": {
+          "id": 26441,
+          "text": "4X4 X אוט' 2.0 (150 כ\"ס) [2012-2016]"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 5,
+            "text": "ג'יפים",
+            "textEng": "jeep"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 17,
+            "text": "4X4"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 15,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "awqtq40r",
+        "orderId": 53469134,
+        "adNumber": 45276471,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 19999,
+        "customer": {
+          "name": "רועי",
+          "id": 3594721,
+          "phone": "055-4354270",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "טרייד אין"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPlatinumMobile": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 9,
+            "text": "אזור ראשון לציון והסביבה",
+            "textEng": "rishon_leziion_area"
+          },
+          "city": {
+            "text": "ראשון לציון"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_1_WnBjRGo4uN_20240413.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_1_WnBjRGo4uN_20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_2_P1hQHC0AiR_20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_3_v_VugJ0Dl__20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_4_e5BV6DVA9__20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_5_5xJrxbHnJT_20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_6_RLTG7k3Ysl_20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_7_UqGXa7_4SJ_20240413.jpeg",
+            "https://img.yad2.co.il/Pic/202404/13/1_8/o/y2_8_l1y2K8XdDP_20240413.jpeg"
+          ],
+          "description": "שמור מאוד לאחר טיפול גדול התחייבות מלאה בבדיקה אפשרות החלפה ומימון",
+          "priceBeforeTag": 23000
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T21:21:42",
+          "createdAt": "2024-04-13T21:21:22",
+          "endsAt": "2025-07-07T00:00:00",
+          "rebouncedAt": "2024-09-08T21:21:42"
+        },
+        "manufacturer": {
+          "id": 27,
+          "text": "מאזדה",
+          "textEng": "mazda"
+        },
+        "color": {
+          "id": 29,
+          "text": "כסוף",
+          "textEng": "Silver"
+        },
+        "km": 140000,
+        "hand": {
+          "id": 3,
+          "text": "יד שלישית"
+        },
+        "engineVolume": 1999,
+        "horsePower": 147,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "15000",
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2011,
+          "monthOfProduction": {
+            "id": 3,
+            "text": "מרץ"
+          },
+          "testDate": "2025-03-01T00:00:00"
+        },
+        "model": {
+          "id": 1394,
+          "text": "6",
+          "textEng": "6"
+        },
+        "subModel": {
+          "id": 21299,
+          "text": "Executive סדאן אוט' 2.0 (147 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 3,
+            "text": "מנהלים",
+            "textEng": "executive"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "pollutionLevel": 15,
+          "seats": 5,
+          "numberOfDoors": 2
+        }
+      },
+      {
+        "token": "8boby6r9",
+        "orderId": 53243740,
+        "adNumber": 64031696,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 39999,
+        "customer": {
+          "name": "שחר יוניק מוטורס",
+          "id": 4954496,
+          "phone": "053-6111073",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "פריים מוטורס"
+        },
+        "packages": {
+          "isRecommendation": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 4,
+            "text": "פתח תקווה והסביבה",
+            "textEng": "petah_tikva_area"
+          },
+          "city": {
+            "text": "פתח תקווה"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_3_2aiYXoFjeB_20240905.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_3_2aiYXoFjeB_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_6_SGI1nDn0K1_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_5_Sj0K4e9JA7_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_5_VbiSslicgY_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_6_8LxT25uAUT_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_7_relC9U3x5s_20240905.jpeg",
+            "https://img.yad2.co.il/Pic/202409/05/1_8/o/y2_8_IyAzVud3zl_20240905.jpeg"
+          ],
+          "description": "שמורה ומטופלת היטב ללא תאונות רכב במצב מעולה \nהתחייבות לתקינות הרכב אפשרות החלפה \nלא להתקשר בשבת !! רכב הכי חסכוני שקיים במצב מכני מעולה טסט ארוך",
+          "priceBeforeTag": 42345
+        },
+        "dates": {
+          "updatedAt": "2024-09-09T00:09:46",
+          "createdAt": "2024-03-18T18:00:42",
+          "endsAt": "2025-01-15T00:00:00",
+          "rebouncedAt": "2024-09-09T00:09:46"
+        },
+        "manufacturer": {
+          "id": 19,
+          "text": "טויוטה",
+          "textEng": "toyota"
+        },
+        "color": {
+          "id": 4,
+          "text": "אפור מטאלי",
+          "textEng": "Metallic gray"
+        },
+        "km": 157000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1798,
+        "horsePower": 99,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "30000",
+        "commitment": [
+          "אחריות על סוללה (12 חודשים)",
+          "בדיקה מלאה",
+          "טופל במוסך מורשה בלבד",
+          "אספקה מיידית",
+          "אפשרויות מימון",
+          "טסט לשנה",
+          "טרייד אין עתידי"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2012,
+          "monthOfProduction": {
+            "id": 12,
+            "text": "דצמבר"
+          },
+          "testDate": "2024-12-01T00:00:00"
+        },
+        "model": {
+          "id": 1046,
+          "text": "פריוס ",
+          "textEng": "Prius"
+        },
+        "subModel": {
+          "id": 24708,
+          "text": "GLI הייבריד אוט' 1.8 (99 כ\"ס) "
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "autoLightingInForward": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 3,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "9h6amgv4",
+        "orderId": 54103213,
+        "adNumber": 41420754,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 24900,
+        "customer": {
+          "name": "אסף ברדה",
+          "id": 8089202,
+          "phone": "055-4317942",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "שי לי קאר"
+        },
+        "packages": {
+          "isRecommendation": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 8,
+            "text": "אזור מודיעין והסביבה",
+            "textEng": "modiin_and_surroundings"
+          },
+          "city": {
+            "text": "מודיעין מכבים רעות"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/17/1_8/o/y2_4_oPsK0Ergd4_20240717.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/17/1_8/o/y2_4_oPsK0Ergd4_20240717.jpeg",
+            "https://img.yad2.co.il/Pic/202407/17/1_8/o/y2_2_oAWy5z_5uS_20240717.jpeg",
+            "https://img.yad2.co.il/Pic/202407/17/1_8/o/y2_3__M9Fe28y_h_20240717.jpeg",
+            "https://img.yad2.co.il/Pic/202407/17/1_8/o/y2_7_iBAyR6TObh_20240717.jpeg"
+          ],
+          "description": "רכב משפחתי מרווח.\nיד 01 פרטי - בעלות קודמת השכרה. \nהרכב נוסע, אך הגיר לא תקין. (עלות החלפה 6000-8000 ¤)\nהמחיר לרכב as is וסופי!"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T22:21:42",
+          "createdAt": "2024-07-17T21:47:29",
+          "endsAt": "2025-06-15T00:00:00",
+          "rebouncedAt": "2024-09-08T22:21:42"
+        },
+        "manufacturer": {
+          "id": 21,
+          "text": "יונדאי",
+          "textEng": "hyundai"
+        },
+        "color": {
+          "id": 35,
+          "text": "לבן שנהב",
+          "textEng": "Ivory White"
+        },
+        "km": 138000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1368,
+        "horsePower": 100,
+        "previousOwner": {
+          "id": 3,
+          "text": "השכרה"
+        },
+        "abovePrice": "20000",
+        "commitment": [
+          "טסט לשנה"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2017,
+          "monthOfProduction": {
+            "id": 6,
+            "text": "יוני"
+          },
+          "testDate": "2025-06-01T00:00:00"
+        },
+        "model": {
+          "id": 1726,
+          "text": "i25",
+          "textEng": "i25"
+        },
+        "subModel": {
+          "id": 25561,
+          "text": "Inspire אוט' 1.4 (100 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "identifyPedestrians": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 4.5,
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 2
+        }
+      },
+      {
+        "token": "9a4k46ik",
+        "orderId": 54020627,
+        "adNumber": 45976100,
+        "adType": "private",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 0,
+        "customer": {
+          "name": "אביעד",
+          "id": 362967,
+          "phone": "052-8858228"
+        },
+        "address": {
+          "topArea": {
+            "id": 100,
+            "text": "מחוז ירושלים",
+            "textEng": "jerusalem_area"
+          },
+          "area": {
+            "id": 69,
+            "text": "אזור בית שמש והסביבה",
+            "textEng": "beit_shemesh_and_surroundings"
+          },
+          "city": {
+            "id": 2610,
+            "text": "בית שמש"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/01/1_1/o/y2_1pa_010830_20240701191114.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/01/1_1/o/y2_1pa_010830_20240701191114.jpeg",
+            "https://img.yad2.co.il/Pic/202407/01/1_1/o/y2_1pa_010757_20240701191114.jpeg",
+            "https://img.yad2.co.il/Pic/202407/01/1_1/o/y2_1pa_010779_20240701191114.jpeg",
+            "https://img.yad2.co.il/Pic/202407/01/1_1/o/y2_1pa_010248_20240701191229.jpeg"
+          ],
+          "description": "רכב אחרון בארץ שיצא\nמהחברה, צבע נדיר ומקורי, מקורית לחלוטין לא עברה שיפורים. \nמדבקת ppf מלא שקוף\nמטופלת במורשה בלבד אחריות יצרן לעוד שנה\nללא תאונות או תיקוני צבע \nחונה בחניה מקורה"
+        },
+        "dates": {
+          "updatedAt": "2024-09-06T11:05:08",
+          "createdAt": "2024-07-01T16:13:23",
+          "endsAt": "2024-10-16T00:00:00",
+          "rebouncedAt": "2024-09-06T11:05:08"
+        },
+        "manufacturer": {
+          "id": 32,
+          "text": "ניסאן",
+          "textEng": "nissan"
+        },
+        "color": {
+          "id": 24,
+          "text": "כחול מטאלי",
+          "textEng": "Blue Metallic"
+        },
+        "km": 17500,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 3799,
+        "horsePower": 570,
+        "abovePrice": "0",
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2022,
+          "monthOfProduction": {
+            "id": 3,
+            "text": "מרץ"
+          },
+          "testDate": "2025-03-01T00:00:00"
+        },
+        "model": {
+          "id": 1753,
+          "text": "GT-R",
+          "textEng": "GT-R"
+        },
+        "subModel": {
+          "id": 30559,
+          "text": "4X4 Black Edition קופה אוט' 3.8 (570 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 4,
+            "text": "ספורט",
+            "textEng": "sport"
+          },
+          {
+            "id": 8,
+            "text": "יוקרה",
+            "textEng": "luxury"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 2,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "identifyPedestrians": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 17,
+            "text": "4X4"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 15,
+          "seats": 4
+        }
+      },
+      {
+        "token": "sfmi1mm7",
+        "orderId": 54023355,
+        "adNumber": 55183929,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 3,
+        "price": 134000,
+        "customer": {
+          "name": "מני",
+          "id": 2312750,
+          "secondName": "עדן",
+          "phone": "055-4351374",
+          "secondPhone": "055-4315923",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "תבל יבואני רכב"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "isTradeInButton": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPlatinumSolo": true,
+          "isPlatinumMobile": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 11,
+            "text": "אזור חולון ובת ים",
+            "textEng": "holon_bat_yam"
+          },
+          "city": {
+            "text": "בת ים"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_2_RP_q5PQZBU_20240702.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_2_RP_q5PQZBU_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_4_rXg4ZyRJne_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_3_okhsrsWzVg_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_5_By33msVr8f_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_6_sVuxAGuEwf_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_7_Mpts6uP7sn_20240702.jpg",
+            "https://img.yad2.co.il/Pic/202407/02/1_8/o/y2_8_MSi07qk1K0_20240702.jpg"
+          ],
+          "description": "תבל יבואני רכב, טסלה  2021 RW  ABHV  שמורה מאוד התחייבות בבדיקה, נסיעת התרשמות במקום, טרייד אין כל סוגי הרכבים, מימון עד 100% בהחזר חודשי נמוך, התחייבות לקניה חוזרת 6 שנים קדימה. שמורה מאוד אפשרות לתשלומים חודשיים שווים",
+          "priceBeforeTag": 139000
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:09:26",
+          "createdAt": "2024-07-02T10:36:07",
+          "endsAt": "2025-04-27T00:00:00",
+          "rebouncedAt": "2024-09-08T23:09:26"
+        },
+        "manufacturer": {
+          "id": 62,
+          "text": "טסלה"
+        },
+        "color": {
+          "id": 35,
+          "text": "לבן שנהב",
+          "textEng": "Ivory White"
+        },
+        "km": 70000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "horsePower": 325,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "100000",
+        "tags": [
+          {
+            "id": 612,
+            "name": "בטיחותי",
+            "priority": 1
+          },
+          {
+            "id": 610,
+            "name": "חסכוני",
+            "priority": 1
+          },
+          {
+            "id": 608,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          }
+        ],
+        "commitment": [
+          "אספקה מיידית",
+          "אפשרויות מימון",
+          "טסט לשנה",
+          "טרייד אין עתידי"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2021,
+          "monthOfProduction": {
+            "id": 5,
+            "text": "מאי"
+          },
+          "testDate": "2025-05-01T00:00:00"
+        },
+        "model": {
+          "id": 3279,
+          "text": "מודל 3"
+        },
+        "subModel": {
+          "id": 35537,
+          "text": "RWD S.Range Plus אוט' חשמלי (325 כ''ס) A "
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 3,
+            "text": "מנהלים",
+            "textEng": "executive"
+          }
+        ],
+        "engineType": {
+          "id": 7,
+          "text": "חשמלי",
+          "textEng": "electric"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "blindSpotAssist": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 7.5,
+          "pollutionLevel": 1,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 2
+        }
+      },
+      {
+        "token": "rotso126",
+        "orderId": 54311367,
+        "adNumber": 89332122,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 12500,
+        "customer": {
+          "name": "גובו",
+          "id": 8525838,
+          "phone": "073-2050722",
+          "agencyName": "כונס yad2",
+          "agencyLogo": "//images.yad2.co.il/Pic/TradeMiniSite/447ed13e-4c84-4e1e-a6f4-d11aa3a372ae.blob?t=1725824424775"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPlatinumSolo": true,
+          "isPlatinumMobile": true,
+          "isPromo": true
+        },
+        "address": {
+          "area": {
+            "id": 44,
+            "text": "כל הארץ"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202409/02/1_8/o/xml_1_9954311366_20240902070914.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202409/02/1_8/o/xml_1_9954311366_20240902070914.jpg",
+            "https://img.yad2.co.il/Pic/202409/02/1_8/o/xml_2_9954311366_20240902070914.jpg",
+            "https://img.yad2.co.il/Pic/202409/02/1_8/o/xml_3_9954311366_20240902070915.jpg"
+          ],
+          "description": "חסכון עצום של עד 60% ממחיר השוק! בדרך לרכב חלומותיך במחיר שלא תאמין: רכישה מכונס נכסים/ בא כח הבעלים היא הזדמנות יוצאת דופן לחסוך עד 60% ממחיר השוק הרגיל. כדי להבטיח שתקבל את העסקה המושלמת, מומלץ לאמת את פרטי הרכב ישירות מול המוכר או כונס הנכסים באתר konesy2.co.il זו הדרך המושלמת להבטיח עסקה, מוצלחת וחסכונית במיוחד! למודעה konesy2.co.il/live/22977"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T22:40:19",
+          "createdAt": "2024-09-02T07:57:15",
+          "endsAt": "2024-12-31T00:00:00",
+          "rebouncedAt": "2024-09-08T22:40:19"
+        },
+        "manufacturer": {
+          "id": 36,
+          "text": "סוזוקי",
+          "textEng": "suzuki"
+        },
+        "color": {
+          "id": 1,
+          "text": "אדום",
+          "textEng": "red"
+        },
+        "km": 149000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1242,
+        "horsePower": 95,
+        "previousOwner": {
+          "id": 2,
+          "text": "חברה"
+        },
+        "abovePrice": "10000",
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2012,
+          "monthOfProduction": {
+            "id": 1,
+            "text": "ינואר"
+          }
+        },
+        "model": {
+          "id": 1655,
+          "text": "ספלאש",
+          "textEng": "Splash"
+        },
+        "subModel": {
+          "id": 25499,
+          "text": "GLS אוט' 1.2 (95 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 1,
+            "text": "קטנים",
+            "textEng": "mini"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 2,
+          "breakingAssistSystem": true,
+          "identifyPedestrians": true,
+          "autoLightingInForward": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 3,
+          "pollutionLevel": 13,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "jrohc8ol",
+        "orderId": 54030915,
+        "adNumber": 99265974,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 44900,
+        "customer": {
+          "name": "שי",
+          "id": 1269921,
+          "phone": "053-8092519",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "שי ג'רבי רכבים"
+        },
+        "packages": {
+          "isRecommendation": true,
+          "isPlatinum": true
+        },
+        "address": {
+          "topArea": {
+            "id": 19,
+            "text": "שרון",
+            "textEng": "sharon_area"
+          },
+          "area": {
+            "id": 70,
+            "text": "אזור צפון השרון",
+            "textEng": "sharon_north"
+          },
+          "city": {
+            "text": "ניצני עוז"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_2_wBD_dwxIS3_20240703.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_2_wBD_dwxIS3_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_3_mNasKo3Q6b_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_7_EOCwMMmToj_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_5_fYVRtt16L4_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_6_vcfW3XDSw9_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_9_6sXgbxLBtg_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_8_vzWXTUrgEi_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_8_q_MHlnLSMo_20240703.jpg",
+            "https://img.yad2.co.il/Pic/202407/03/1_3/o/y2_9_MaSvJHkx_m_20240703.jpg"
+          ],
+          "description": "רכב יפייפה שמור בקנאות מטורפת מאדם מבוגר מתחייב לבדיקה מקיפה...קמ נמוך מאוד מטופל מצויין רכב נהדר נוסע מצויין.. מתחייב לבדיקה מקיפה...גמיש לרצינים..שני מפתחות לרכב.. מולטימדיה מצלמת רוורס...לרכב בעבר היה בעבר הרחוק תאונה קלה עם אובדן להלכה בגלל זה הורדה משמעותית במחיר..הרכב תקין לחלוטין ומתחייב לבדיקה.."
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T20:30:20",
+          "createdAt": "2024-07-03T14:40:28",
+          "endsAt": "2025-05-12T00:00:00",
+          "rebouncedAt": "2024-09-08T20:30:20"
+        },
+        "manufacturer": {
+          "id": 27,
+          "text": "מאזדה",
+          "textEng": "mazda"
+        },
+        "color": {
+          "id": 34,
+          "text": "לבן פנינה",
+          "textEng": "Pearl White"
+        },
+        "km": 124230,
+        "hand": {
+          "id": 3,
+          "text": "יד שלישית"
+        },
+        "engineVolume": 1998,
+        "horsePower": 155,
+        "previousOwner": {
+          "id": 5,
+          "text": "ליסינג"
+        },
+        "abovePrice": "40000",
+        "commitment": [
+          "בדיקה מלאה",
+          "אספקה מיידית",
+          "טסט לשנה"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2014,
+          "monthOfProduction": {
+            "id": 3,
+            "text": "מרץ"
+          },
+          "testDate": "2025-03-01T00:00:00"
+        },
+        "model": {
+          "id": 2333,
+          "text": "CX-5",
+          "textEng": "CX-5"
+        },
+        "subModel": {
+          "id": 26117,
+          "text": "4X2 Executive אוט' 2.0 (155 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 5,
+            "text": "ג'יפים",
+            "textEng": "jeep"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "seatBeltsSensors": true,
+          "autoLightingInForward": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "yke32cij",
+        "orderId": 54290463,
+        "adNumber": 85164292,
+        "adType": "private",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 245000,
+        "customer": {
+          "name": "יוסי  ",
+          "id": 6511890,
+          "phone": "058-6160006"
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 11,
+            "text": "אזור חולון ובת ים",
+            "textEng": "holon_bat_yam"
+          },
+          "city": {
+            "id": 6200,
+            "text": "בת ים"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010586_20240827215401.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010586_20240827215401.jpeg",
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010991_20240827215401.jpeg",
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010079_20240827215401.jpeg",
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010006_20240827215401.jpeg",
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010856_20240827215400.jpeg",
+            "https://img.yad2.co.il/Pic/202408/27/1_3/o/y2_1pa_010089_20240827215401.jpeg"
+          ],
+          "description": "רכב במצב חדש , שמור ומטופל הדגם המפואר גם עם מערכת היברידית \nוגם פלאג אין להטענה "
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T17:55:30",
+          "createdAt": "2024-08-27T18:54:28",
+          "endsAt": "2024-10-18T00:00:00",
+          "rebouncedAt": "2024-09-08T17:55:30"
+        },
+        "manufacturer": {
+          "id": 26,
+          "text": "לקסוס",
+          "textEng": "lexus"
+        },
+        "color": {
+          "id": 4,
+          "text": "אפור מטאלי",
+          "textEng": "Metallic gray"
+        },
+        "km": 17000,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 2487,
+        "horsePower": 185,
+        "abovePrice": "100000",
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2023
+        },
+        "model": {
+          "id": 2578,
+          "text": "NX",
+          "textEng": "NX"
+        },
+        "subModel": {
+          "id": 36650,
+          "text": "NX450 Phev Kyushu הייבריד אוט' 2.5 (182 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 5,
+            "text": "ג'יפים",
+            "textEng": "jeep"
+          },
+          {
+            "id": 8,
+            "text": "יוקרה",
+            "textEng": "luxury"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 5,
+          "text": "היברידי חשמל / בנזין",
+          "textEng": "hybrid electric/petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 8,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "blindSpotAssist": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 17,
+            "text": "4X4"
+          },
+          "safetyPoints": 7,
+          "pollutionLevel": 1,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 3,
+          "sunRoof": true
+        }
+      },
+      {
+        "token": "d5al6i6l",
+        "orderId": 54176311,
+        "adNumber": 65781142,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 3,
+        "price": 16000,
+        "customer": {
+          "name": "_ נאדר",
+          "id": 5563312,
+          "phone": "053-4263026",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "car"
+        },
+        "packages": {
+          "isRecommendation": true
+        },
+        "address": {
+          "topArea": {
+            "id": 25,
+            "text": "צפון",
+            "textEng": "north"
+          },
+          "area": {
+            "id": 6,
+            "text": "אזור הקריות",
+            "textEng": "nesher_and_krayot"
+          },
+          "city": {
+            "text": "קרית מוצקין"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_3_997439_20240725.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_3_997439_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_10_995378_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_11_991325_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_11_999754_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_4_997337_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_5_993355_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_6_996122_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_7_992609_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_8_999725_20240725.jpg",
+            "https://img.yad2.co.il/Pic/202407/25/1_8/o/y2_9_999520_20240725.jpg"
+          ],
+          "description": "שנת 2001 . גג נפתח _טסט עד 26/12/24 מטופל ושמור  מזגן מעולה נראית מצויין . 188 אלף קמ . מירסידיס 2400סמק   מחיר 16 אלף ."
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:02:33",
+          "createdAt": "2024-04-08T05:42:52",
+          "endsAt": "2025-06-02T00:00:00",
+          "rebouncedAt": "2024-09-08T23:02:33"
+        },
+        "manufacturer": {
+          "id": 31,
+          "text": "מרצדס",
+          "textEng": "mercedes"
+        },
+        "color": {
+          "id": 4,
+          "text": "אפור מטאלי",
+          "textEng": "Metallic gray"
+        },
+        "km": 188000,
+        "hand": {
+          "id": 5,
+          "text": "יד חמישית"
+        },
+        "engineVolume": 2597,
+        "horsePower": 170,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "15000",
+        "tags": [
+          {
+            "id": 611,
+            "name": "מיכל דלק גדול",
+            "priority": 1
+          },
+          {
+            "id": 608,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          },
+          {
+            "id": 601,
+            "name": "טסט בתוקף",
+            "priority": 1
+          }
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2001,
+          "testDate": "2025-01-01T00:00:00"
+        },
+        "model": {
+          "id": 1407,
+          "text": "C-Class",
+          "textEng": "C-Class "
+        },
+        "subModel": {
+          "id": 24553,
+          "text": "C240 Luxury אוט' 2.6 (170 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 8,
+            "text": "יוקרה",
+            "textEng": "luxury"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "abs": true,
+          "airBags": 6,
+          "electricWindow": 4,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "seats": 5,
+          "numberOfDoors": 2,
+          "sunRoof": true
+        }
+      },
+      {
+        "token": "sjkkue9i",
+        "orderId": 53738804,
+        "adNumber": 83534224,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 18000,
+        "customer": {
+          "name": "איציק",
+          "id": 5666060,
+          "phone": "077-6001976",
+          "agencyName": "איציק כהן רכבים"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 19,
+            "text": "שרון",
+            "textEng": "sharon_area"
+          },
+          "area": {
+            "id": 17,
+            "text": "אזור נתניה והסביבה",
+            "textEng": "netanya"
+          },
+          "city": {
+            "text": "נתניה"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_6_XtLVRu2_W_993500_20240501.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_6_XtLVRu2_W_993500_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_1_999422_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_2_994814_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_3_cLMSwSPm_995572_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_4_993554_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_5_997663_20240501.jpeg",
+            "https://img.yad2.co.il/Pic/202405/01/1_8/o/y2_7_994539_20240501.jpeg"
+          ],
+          "description": "רכב שמור מאוד ומטופל היטב ללא תקלות וללא תאונות מתחייב לבדיקה \nנא לא לחייג בשבת"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T22:48:41",
+          "createdAt": "2024-05-01T18:46:44",
+          "endsAt": "2025-04-17T00:00:00",
+          "rebouncedAt": "2024-09-08T22:48:41"
+        },
+        "manufacturer": {
+          "id": 40,
+          "text": "סקודה",
+          "textEng": "skoda"
+        },
+        "color": {
+          "id": 47,
+          "text": "פלטינה",
+          "textEng": "platinum"
+        },
+        "km": 200000,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 1197,
+        "horsePower": 105,
+        "abovePrice": "15000",
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2013,
+          "testDate": "2025-05-01T00:00:00"
+        },
+        "model": {
+          "id": 2372,
+          "text": "ראפיד",
+          "textEng": "Rapid"
+        },
+        "subModel": {
+          "id": 26568,
+          "text": "Ambition ידני 1.2 (105 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 0,
+          "text": "ידנית",
+          "textEng": "manual"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 1.5,
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 3,
+          "sunRoof": true
+        }
+      },
+      {
+        "token": "mv9fs8ka",
+        "orderId": 53938998,
+        "adNumber": 84284692,
+        "adType": "private",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 2,
+        "price": 65000,
+        "customer": {
+          "name": "ארקי",
+          "id": 6398386,
+          "phone": "052-5911987"
+        },
+        "address": {
+          "topArea": {
+            "id": 25,
+            "text": "צפון",
+            "textEng": "north"
+          },
+          "area": {
+            "id": 5,
+            "text": "אזור חיפה והסביבה",
+            "textEng": "haifa"
+          },
+          "city": {
+            "id": 4000,
+            "text": "חיפה"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_1pa_010098_20240614193237.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_1pa_010098_20240614193237.jpeg",
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_1pa_010474_20240614193743.jpeg",
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_2pa_010688_20240614193829.jpeg",
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_2pa_010323_20240614193814.jpeg",
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_1pa_010034_20240614193747.jpeg",
+            "https://img.yad2.co.il/Pic/202406/14/1_3/o/y2_1pa_010316_20240614193750.jpeg"
+          ],
+          "description": "סוזוקי ויטרה יפהפייה יד 2, יד ראשונה השכרה 85,000 קילומטר, טסט טווח רחוק, מולטימדיה, מצלמת רוורס, מובילאי.\nהרכב חסכוני בדלק, מטופל בזמן.\nמצבר חדש ו- 2 צמיגים חדשים."
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:30:51",
+          "createdAt": "2024-06-14T16:38:11",
+          "endsAt": "2024-10-19T00:00:00",
+          "rebouncedAt": "2024-09-08T23:30:52"
+        },
+        "manufacturer": {
+          "id": 36,
+          "text": "סוזוקי",
+          "textEng": "suzuki"
+        },
+        "color": {
+          "id": 32,
+          "text": "לבן",
+          "textEng": "white"
+        },
+        "km": 82000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1586,
+        "horsePower": 120,
+        "previousOwner": {
+          "id": 3,
+          "text": "השכרה"
+        },
+        "abovePrice": "50000",
+        "tags": [
+          {
+            "id": 213,
+            "name": "בקרת שמירת מרחק",
+            "priority": 1
+          },
+          {
+            "id": 208,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          }
+        ],
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2018,
+          "monthOfProduction": {
+            "id": 5,
+            "text": "מאי"
+          },
+          "testDate": "2025-05-01T00:00:00"
+        },
+        "model": {
+          "id": 606,
+          "text": "ויטרה",
+          "textEng": "Vitara"
+        },
+        "subModel": {
+          "id": 28668,
+          "text": "GLX אוט' 1.6 (120 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 13,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "ft0vampz",
+        "orderId": 54072463,
+        "adNumber": 52129662,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 2,
+        "price": 24000,
+        "customer": {
+          "name": "איליי",
+          "id": 2293870,
+          "secondName": "יאן",
+          "phone": "052-8021129",
+          "secondPhone": "052-8021127",
+          "agencyName": "יאן רכבים",
+          "agencyLogo": "//images.yad2.co.il/Pic/TradeMiniSite/23af9872-f999-403c-87c6-c5524b8d0e6f.jpeg?t=1725820802565"
+        },
+        "packages": {
+          "isRecommendation": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 11,
+            "text": "אזור חולון ובת ים",
+            "textEng": "holon_bat_yam"
+          },
+          "city": {
+            "text": "חולון"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_1_05073_20240722143119.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_1_05073_20240722143119.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_2_01450_20240722143119.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_3_08337_20240722143113.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_4_01050_20240722143121.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_5_08877_20240722143121.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_6_04164_20240722143121.jpeg",
+            "https://img.yad2.co.il/Pic/202407/22/1_8/o/y2_7_06111_20240722143119.jpeg"
+          ],
+          "description": "רכב יד שניה פרטית דגם אסנטה עם גלגלי מגנזיום\r\nרכב שמור מאוד מטופל תמיד בזמן ונוסע כמו חדש\r\nטסט לשנה מלאה !",
+          "priceBeforeTag": 25000
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T21:40:01",
+          "createdAt": "2024-07-11T16:30:56",
+          "endsAt": "2024-12-31T00:00:00",
+          "rebouncedAt": "2024-09-08T21:40:01"
+        },
+        "manufacturer": {
+          "id": 32,
+          "text": "ניסאן",
+          "textEng": "nissan"
+        },
+        "color": {
+          "id": 35,
+          "text": "לבן שנהב",
+          "textEng": "Ivory White"
+        },
+        "km": 160000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1598,
+        "horsePower": 117,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "20000",
+        "tags": [
+          {
+            "id": 608,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          },
+          {
+            "id": 601,
+            "name": "טסט בתוקף",
+            "priority": 1
+          }
+        ],
+        "commitment": [
+          "אספקה מיידית",
+          "אפשרויות מימון",
+          "חבילת הטבות",
+          "טסט לשנה",
+          "טרייד אין עתידי"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2012,
+          "testDate": "2025-06-01T00:00:00"
+        },
+        "model": {
+          "id": 1704,
+          "text": "ג'וק / Juke",
+          "textEng": "Juke"
+        },
+        "subModel": {
+          "id": 25222,
+          "text": "Acenta אוט' 1.6 (117 כ\"ס) "
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          },
+          {
+            "id": 10,
+            "text": "קרוסאוברים",
+            "textEng": "crossover"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "autoLightingInForward": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 4,
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 3,
+          "sunRoof": true
+        }
+      },
+      {
+        "token": "44dr50vh",
+        "orderId": 53667297,
+        "adNumber": 51895795,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 55000,
+        "customer": {
+          "name": "Shlomi",
+          "id": 7125817,
+          "secondName": "שלומי",
+          "phone": "053-5983766",
+          "secondPhone": "053-4234446",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "shlomi car"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "isTradeInButton": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPlatinumSolo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 19,
+            "text": "שרון",
+            "textEng": "sharon_area"
+          },
+          "area": {
+            "id": 17,
+            "text": "אזור נתניה והסביבה",
+            "textEng": "netanya"
+          },
+          "city": {
+            "text": "אביחיל"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_4_yQlJa7tTd5_20240513.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_4_yQlJa7tTd5_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_8_vBPZbXclhc_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_1_FO0MCPrxLd_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_2_V6QI5WHGQi_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_3_A1WhLZrbbg_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_9_J6Ntul4Hau_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_5_aa5ogJ1Q6l_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_6_qc1edKkgaK_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_7_SyBtz9OAHw_20240513.jpg",
+            "https://img.yad2.co.il/Pic/202405/13/1_8/o/y2_10_tQoWnwW2OA_20240513.jpg"
+          ],
+          "description": "בס\"ד \nפריוס מודל 2017 שמורה מאוד מצב מכני מצויין מיד 01 מתחייב בבדיקה מושקעת מאוד עם טסט לשנה יש אפשרות למימון מלא ללא מקדמה בכלל עם החזר חודשי נמוך ובנוסף טרייד אין על כל סוגי הרכבים \nהעברת בעלות במקום!!הרכב זמין באספקה מיידית!!",
+          "priceBeforeTag": 59900
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:27:45",
+          "createdAt": "2024-05-09T11:38:52",
+          "endsAt": "2025-02-18T00:00:00",
+          "rebouncedAt": "2024-09-08T23:27:45"
+        },
+        "paymentInstallments": {
+          "monthlyPayment": 699,
+          "numberOfPayment": 72
+        },
+        "manufacturer": {
+          "id": 19,
+          "text": "טויוטה",
+          "textEng": "toyota"
+        },
+        "color": {
+          "id": 2,
+          "text": "אדום מטאלי",
+          "textEng": "Red Metallic"
+        },
+        "km": 195000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1798,
+        "horsePower": 98,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "50000",
+        "commitment": [
+          "אחריות שלדה",
+          " מנוע וגיר (3 חודשים)",
+          "בדיקה מלאה",
+          "טופל במוסך מורשה בלבד",
+          "ספר טיפולים מלא",
+          "אספקה מיידית",
+          "אפשרויות מימון",
+          "חבילת הטבות",
+          "טסט לשנה",
+          "טרייד אין עתידי"
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2017,
+          "monthOfProduction": {
+            "id": 10,
+            "text": "אוקטובר"
+          },
+          "testDate": "2024-10-01T00:00:00"
+        },
+        "model": {
+          "id": 1046,
+          "text": "פריוס ",
+          "textEng": "Prius"
+        },
+        "subModel": {
+          "id": 33870,
+          "text": "TSS הייבריד אוט' 1.8 (98 כ''ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "seatBeltsSensors": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 1.5,
+          "pollutionLevel": 4,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "7ajsv10t",
+        "orderId": 53438207,
+        "adNumber": 44413199,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 99000,
+        "customer": {
+          "name": "רפאל",
+          "id": 2847970,
+          "phone": "054-7928844",
+          "agencyName": "Collection"
+        },
+        "packages": {
+          "isRecommendation": true
+        },
+        "address": {
+          "topArea": {
+            "id": 19,
+            "text": "שרון",
+            "textEng": "sharon_area"
+          },
+          "area": {
+            "id": 18,
+            "text": "אזור רמת השרון והרצליה",
+            "textEng": "ramat_hasharon_herzeliya"
+          },
+          "city": {
+            "text": "הרצליה"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_1_lzfyF4_ZnB_20240409.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_1_lzfyF4_ZnB_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_6_PWJjU5COK7_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_2_918x6KmY7g_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_3_IDbzpvQVe0_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_7_VvLCvyxjsp_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_4_Sz9y_AuOtg_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_5_k9Ri8rtS3z_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_8_Cg925Awaqy_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_10_1XNvix_fST_20240409.jpeg",
+            "https://img.yad2.co.il/Pic/202404/09/1_8/o/y2_9_eH_miOP18g_20240409.jpeg"
+          ],
+          "description": "רכב פרטי, מטופל רק בלקסוס, דגם פרימיום המפואר, היברידי חסכוני וחזק. יד ראשונה 00 ברשיון."
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T22:40:14",
+          "createdAt": "2024-04-09T18:32:22",
+          "endsAt": "2025-05-28T00:00:00",
+          "rebouncedAt": "2024-09-08T22:40:14"
+        },
+        "manufacturer": {
+          "id": 26,
+          "text": "לקסוס",
+          "textEng": "lexus"
+        },
+        "color": {
+          "id": 35,
+          "text": "לבן שנהב",
+          "textEng": "Ivory White"
+        },
+        "km": 95000,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 2494,
+        "horsePower": 181,
+        "abovePrice": "50000",
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2016,
+          "testDate": "2025-01-01T00:00:00"
+        },
+        "model": {
+          "id": 2408,
+          "text": "IS300h",
+          "textEng": "IS300h"
+        },
+        "subModel": {
+          "id": 26896,
+          "text": "Premium הייבריד אוט' 2.5 (181 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 3,
+            "text": "מנהלים",
+            "textEng": "executive"
+          },
+          {
+            "id": 8,
+            "text": "יוקרה",
+            "textEng": "luxury"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 8,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 1.5,
+          "pollutionLevel": 8,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 2,
+          "sunRoof": true
+        }
+      },
+      {
+        "token": "hsn87wr5",
+        "orderId": 53163266,
+        "adNumber": 76331129,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 5500,
+        "customer": {
+          "name": "ניסים",
+          "id": 1235087,
+          "phone": "053-4249482",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "ניסים אלזם רכבים"
+        },
+        "packages": {
+          "isRecommendation": true
+        },
+        "address": {
+          "topArea": {
+            "id": 2,
+            "text": "מרכז",
+            "textEng": "hamerkaz_area"
+          },
+          "area": {
+            "id": 11,
+            "text": "אזור חולון ובת ים",
+            "textEng": "holon_bat_yam"
+          },
+          "city": {
+            "text": "חולון"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202403/10/1_8/o/y2_1_KHM7AyJ7Sx_20240310.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202403/10/1_8/o/y2_1_KHM7AyJ7Sx_20240310.jpg",
+            "https://img.yad2.co.il/Pic/202403/10/1_8/o/y2_2_SalhFAXiXY_20240310.jpg"
+          ],
+          "description": "מנוע הוחלף לפני שנתיים ועשה סביבת ה90 אלף קמ נוסע מעולה ללא רעשים\nמזגן מקפיא חדש \nיש טסט עד 1.7.24\nצריכה צבע \nלמהירי החלטה"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:27:36",
+          "createdAt": "2024-03-10T15:20:42",
+          "endsAt": "2025-07-16T00:00:00",
+          "rebouncedAt": "2024-09-08T23:27:36"
+        },
+        "manufacturer": {
+          "id": 36,
+          "text": "סוזוקי",
+          "textEng": "suzuki"
+        },
+        "color": {
+          "id": 34,
+          "text": "לבן פנינה",
+          "textEng": "Pearl White"
+        },
+        "km": 300000,
+        "hand": {
+          "id": 3,
+          "text": "יד שלישית"
+        },
+        "engineVolume": 1586,
+        "horsePower": 119,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "5000",
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2010,
+          "monthOfProduction": {
+            "id": 7,
+            "text": "יולי"
+          },
+          "testDate": "2024-08-01T00:00:00"
+        },
+        "model": {
+          "id": 1284,
+          "text": "SX4",
+          "textEng": "SX4"
+        },
+        "subModel": {
+          "id": 21320,
+          "text": "GLX סדאן אוט' 1.6 (119 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "abs": true,
+          "airBags": 6,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 2
+        }
+      },
+      {
+        "token": "mmxlv5ba",
+        "orderId": 54032401,
+        "adNumber": 52478837,
+        "adType": "private",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 1,
+        "price": 23000,
+        "customer": {
+          "name": "מחמד",
+          "id": 7493653,
+          "phone": "050-3090213"
+        },
+        "address": {
+          "topArea": {
+            "id": 43,
+            "text": "דרום",
+            "textEng": "south_area"
+          },
+          "area": {
+            "id": 22,
+            "text": "אזור באר שבע והסביבה",
+            "textEng": "beer_sheva_area"
+          },
+          "city": {
+            "id": 9000,
+            "text": "באר שבע"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010802_20240703184011.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010802_20240703184011.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010143_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010361_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010271_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010638_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010560_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010345_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010696_20240703184012.jpeg",
+            "https://img.yad2.co.il/Pic/202407/03/1_1/o/y2_1pa_010835_20240703184013.jpeg"
+          ],
+          "description": "למכירה טויוטה קורולה,\nשנת 2011\nיד 2\nטסט לשנה \nמזגן מקפיא \nמערכת מולטימדיה ומצלמת רוורס\nמצב מכני טוב, שמורה וחסכונית מאוד \nדורש 23אלף\nלרציניים בלבד!"
+        },
+        "dates": {
+          "updatedAt": "2024-09-07T14:26:07",
+          "createdAt": "2024-07-03T15:42:41",
+          "endsAt": "2024-10-17T00:00:00",
+          "rebouncedAt": "2024-09-07T14:26:07"
+        },
+        "manufacturer": {
+          "id": 19,
+          "text": "טויוטה",
+          "textEng": "toyota"
+        },
+        "color": {
+          "id": 32,
+          "text": "לבן",
+          "textEng": "white"
+        },
+        "km": 263000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1598,
+        "horsePower": 124,
+        "previousOwner": {
+          "id": 13,
+          "text": "השכרה / החכר"
+        },
+        "abovePrice": "20000",
+        "isContactLeadSupported": false,
+        "vehicleDates": {
+          "yearOfProduction": 2011,
+          "monthOfProduction": {
+            "id": 6,
+            "text": "יוני"
+          },
+          "testDate": "2025-06-01T00:00:00"
+        },
+        "model": {
+          "id": 1428,
+          "text": "קורולה",
+          "textEng": "Corolla"
+        },
+        "subModel": {
+          "id": 24026,
+          "text": "Sun אוט' 1.6 (124 כ\"ס) "
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "abs": true,
+          "airBags": 4,
+          "controlStability": true,
+          "electricWindow": 2,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "pollutionLevel": 15,
+          "seats": 5,
+          "numberOfDoors": 2
+        }
+      },
+      {
+        "token": "05794htu",
+        "orderId": 53766747,
+        "adNumber": 83026823,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 2,
+        "price": 22500,
+        "customer": {
+          "name": "איציק",
+          "id": 5666060,
+          "phone": "077-3142432",
+          "agencyName": "איציק כהן רכבים"
+        },
+        "packages": {
+          "isOnMyAlerts": true,
+          "isRecommendation": true,
+          "hasMiniSite": true,
+          "isPlatinum": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 19,
+            "text": "שרון",
+            "textEng": "sharon_area"
+          },
+          "area": {
+            "id": 17,
+            "text": "אזור נתניה והסביבה",
+            "textEng": "netanya"
+          },
+          "city": {
+            "text": "נתניה"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_1_sZqZm2lS6X_20240521.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_1_sZqZm2lS6X_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_2_lbKuUugIxB_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_3_kM1U3ymL44_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_4_rNJAZb04ba_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_5_kjx5F7Vn3y_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_6_xC3nY6fOtb_20240521.jpeg",
+            "https://img.yad2.co.il/Pic/202405/21/1_8/o/y2_7_JZb1UsJJVL_20240521.jpeg"
+          ],
+          "description": "רכב שמור מאוד ומטופל היטב ללא תקלות וללא תאונות מתחייב לבדיקה \nנא לא לחייג בשבת"
+        },
+        "dates": {
+          "updatedAt": "2024-09-08T23:33:51",
+          "createdAt": "2024-05-21T22:10:37",
+          "endsAt": "2025-04-17T00:00:00",
+          "rebouncedAt": "2024-09-08T23:33:51"
+        },
+        "manufacturer": {
+          "id": 21,
+          "text": "יונדאי",
+          "textEng": "hyundai"
+        },
+        "color": {
+          "id": 3,
+          "text": "אפור",
+          "textEng": "gray"
+        },
+        "km": 200000,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineVolume": 1591,
+        "horsePower": 135,
+        "previousOwner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "abovePrice": "20000",
+        "tags": [
+          {
+            "id": 608,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          },
+          {
+            "id": 601,
+            "name": "טסט בתוקף",
+            "priority": 1
+          }
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2014,
+          "testDate": "2025-05-01T00:00:00"
+        },
+        "model": {
+          "id": 1281,
+          "text": "i30",
+          "textEng": "i30"
+        },
+        "subModel": {
+          "id": 26308,
+          "text": "Inspire סטיישן אוט' 1.6 (135 כ\"ס)"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 0.5,
+          "pollutionLevel": 14,
+          "seats": 5,
+          "numberOfDoors": 3
+        }
+      },
+      {
+        "token": "l8n4kg6b",
+        "orderId": 54200842,
+        "adNumber": 89257532,
+        "adType": "commercial",
+        "categoryId": 1,
+        "subcategoryId": 21,
+        "priority": 3,
+        "price": 135000,
+        "customer": {
+          "name": "יוסי",
+          "id": 8535514,
+          "phone": "055-4355119",
+          "isVirtualPhoneNumber": true,
+          "agencyName": "לוק וביטון קאר"
+        },
+        "packages": {
+          "isRecommendation": true,
+          "isPromo": true
+        },
+        "address": {
+          "topArea": {
+            "id": 100,
+            "text": "מחוז ירושלים",
+            "textEng": "jerusalem_area"
+          },
+          "area": {
+            "id": 7,
+            "text": "אזור ירושלים",
+            "textEng": "jerusalem_area_and_surroundings"
+          },
+          "city": {
+            "text": "ירושלים"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_6_dSEgv4VwSr_20240807.jpg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_6_dSEgv4VwSr_20240807.jpg",
+            "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_2_0SkKFYLL5k_20240807.jpg",
+            "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_3_yPMyhxu5va_20240807.jpg",
+            "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_4_AT8N4xIR2v_20240807.jpg",
+            "https://img.yad2.co.il/Pic/202408/07/1_8/o/y2_5_vZWO795nJ1_20240807.jpg"
+          ],
+          "description": "טויוטה קורולה , גג נפתח , כל התוספות \nהדגם המפואר \nאפשרות מימון 100 אחוז"
+        },
+        "dates": {
+          "updatedAt": "2024-09-09T00:09:51",
+          "createdAt": "2024-08-07T13:44:33",
+          "endsAt": "2025-09-02T00:00:00",
+          "rebouncedAt": "2024-09-09T00:09:51"
+        },
+        "manufacturer": {
+          "id": 19,
+          "text": "טויוטה",
+          "textEng": "toyota"
+        },
+        "color": {
+          "id": 43,
+          "text": "תכלת מטאלי",
+          "textEng": "Metallic blue"
+        },
+        "km": 19071,
+        "hand": {
+          "id": 1,
+          "text": "יד ראשונה"
+        },
+        "engineVolume": 1798,
+        "horsePower": 97,
+        "abovePrice": "100000",
+        "tags": [
+          {
+            "id": 614,
+            "name": "בקרת שיוט אדפטיבית",
+            "priority": 1
+          },
+          {
+            "id": 608,
+            "name": "גלגלי מגנזיום",
+            "priority": 1
+          },
+          {
+            "id": 603,
+            "name": "היברידי",
+            "priority": 1
+          }
+        ],
+        "isContactLeadSupported": true,
+        "vehicleDates": {
+          "yearOfProduction": 2023,
+          "monthOfProduction": {
+            "id": 6,
+            "text": "יוני"
+          },
+          "testDate": "2025-06-01T00:00:00"
+        },
+        "model": {
+          "id": 1428,
+          "text": "קורולה",
+          "textEng": "Corolla"
+        },
+        "subModel": {
+          "id": 39107,
+          "text": "COROLLA SDN HSD - LIMITED"
+        },
+        "gearBox": {
+          "id": 1,
+          "text": "אוטומט",
+          "textEng": "automatic"
+        },
+        "carFamilyType": [
+          {
+            "id": 2,
+            "text": "משפחתיים",
+            "textEng": "family"
+          }
+        ],
+        "engineType": {
+          "id": 1,
+          "text": "בנזין",
+          "textEng": "petrol"
+        },
+        "owner": {
+          "id": 1,
+          "text": "פרטית"
+        },
+        "specification": {
+          "airConditioner": true,
+          "powerSteering": true,
+          "magnesiumWheel": true,
+          "tirePressureMonitoringSystem": true,
+          "abs": true,
+          "airBags": 7,
+          "controlStability": true,
+          "electricWindow": 4,
+          "breakingAssistSystem": true,
+          "reverseCamera": true,
+          "adaptiveCruiseControl": true,
+          "highBeamsAutoControl": true,
+          "blindSpotAssist": true,
+          "identifyPedestrians": true,
+          "seatBeltsSensors": true,
+          "identifyingDangerousNearing": true,
+          "autoLightingInForward": true,
+          "identifyTrafficSigns": true,
+          "ignition": {
+            "id": 15,
+            "text": "4X2"
+          },
+          "safetyPoints": 7,
+          "pollutionLevel": 3,
+          "isHybrid": true,
+          "seats": 5,
+          "numberOfDoors": 2,
+          "sunRoof": true
+        }
+      }
+    ]
+  ],
+  "message": "OK"
+}

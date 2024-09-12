@@ -4,22 +4,31 @@
   "private": true,
   "scripts": {
     "start": "node dist/index.js",
-    "dev": "tsup --watch --onSuccess \"node dist/index.js\"",
+    "dev": "dotenv -- tsup --watch --onSuccess \"node dist/index.js\"",
     "build": "tsup",
     "clean": "rm -rf dist",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src/",
-    "test": "jest --detectOpenHandles"
+    "test": "jest --detectOpenHandles",
+    "generate": "drizzle-kit generate",
+    "push": "drizzle-kit push",
+    "drizzle-studio": "pnpm drizzle-kit studio"
   },
   "jest": {
     "preset": "@repo/jest-presets/node"
   },
   "dependencies": {
+    "@graphql-tools/schema": "^10.0.6",
     "@repo/logger": "workspace:*",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "drizzle-graphql": "^0.8.5",
+    "drizzle-orm": "^0.33.0",
     "express": "^4.18.3",
-    "morgan": "^1.10.0"
+    "graphql": "^16.9.0",
+    "graphql-yoga": "^5.7.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.12.0"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
@@ -31,7 +40,10 @@
     "@types/jest": "^29.5.12",
     "@types/morgan": "^1.9.9",
     "@types/node": "^20.11.24",
+    "@types/pg": "^8.11.8",
     "@types/supertest": "^6.0.2",
+    "dotenv": "^16.4.5",
+    "drizzle-kit": "^0.24.2",
     "jest": "^29.7.0",
     "supertest": "^6.3.4",
     "tsup": "^8.0.2",
