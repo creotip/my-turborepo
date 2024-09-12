@@ -1,0 +1,1 @@
+ALTER TABLE "brands" ALTER COLUMN "id" SET DATA TYPE char(26);

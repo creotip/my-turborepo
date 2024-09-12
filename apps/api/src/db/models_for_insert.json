@@ -1,0 +1,8648 @@
+[
+  {
+    "id": 5,
+    "name": "100",
+    "engName": "100",
+    "brandId": 1
+  },
+  {
+    "id": 4,
+    "name": "80",
+    "engName": "80",
+    "brandId": 1
+  },
+  {
+    "id": 1687,
+    "name": "A1",
+    "engName": "A1",
+    "brandId": 1
+  },
+  {
+    "id": 1468,
+    "name": "A3",
+    "engName": "A3",
+    "brandId": 1
+  },
+  {
+    "id": 1593,
+    "name": "A4",
+    "engName": "A4",
+    "brandId": 1
+  },
+  {
+    "id": 1270,
+    "name": "A5",
+    "engName": "A5",
+    "brandId": 1
+  },
+  {
+    "id": 1,
+    "name": "A6",
+    "engName": "A6",
+    "brandId": 1
+  },
+  {
+    "id": 1792,
+    "name": "A7",
+    "engName": "A7",
+    "brandId": 1
+  },
+  {
+    "id": 6,
+    "name": "A8",
+    "engName": "A8",
+    "brandId": 1
+  },
+  {
+    "id": 3112,
+    "name": "E-tron",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 3609,
+    "name": "E-tron GT",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 3610,
+    "name": "E-tron Q4",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 4035,
+    "name": "E-tron Q8",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 2854,
+    "name": "Q2",
+    "engName": "Q2",
+    "brandId": 1
+  },
+  {
+    "id": 1795,
+    "name": "Q3",
+    "engName": "Q3",
+    "brandId": 1
+  },
+  {
+    "id": 3993,
+    "name": "Q4",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 1522,
+    "name": "Q5",
+    "engName": "Q5",
+    "brandId": 1
+  },
+  {
+    "id": 982,
+    "name": "Q7",
+    "engName": "Q7",
+    "brandId": 1
+  },
+  {
+    "id": 3083,
+    "name": "Q8",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 1433,
+    "name": "R8",
+    "engName": "R8",
+    "brandId": 1
+  },
+  {
+    "id": 2941,
+    "name": "RS3",
+    "engName": "RS3",
+    "brandId": 1
+  },
+  {
+    "id": 3444,
+    "name": "RS4",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 2942,
+    "name": "RS5",
+    "engName": "RS5",
+    "brandId": 1
+  },
+  {
+    "id": 3035,
+    "name": "RS6",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 2903,
+    "name": "RS7",
+    "engName": "RS7",
+    "brandId": 1
+  },
+  {
+    "id": 3310,
+    "name": "RSQ3",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 3371,
+    "name": "RSQ8",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 7,
+    "name": "S3",
+    "engName": "S3",
+    "brandId": 1
+  },
+  {
+    "id": 895,
+    "name": "S4",
+    "engName": "S4",
+    "brandId": 1
+  },
+  {
+    "id": 1309,
+    "name": "S5",
+    "engName": "S5",
+    "brandId": 1
+  },
+  {
+    "id": 1253,
+    "name": "S6",
+    "engName": "S6",
+    "brandId": 1
+  },
+  {
+    "id": 2902,
+    "name": "S7",
+    "engName": "S7",
+    "brandId": 1
+  },
+  {
+    "id": 910,
+    "name": "S8",
+    "engName": "S8",
+    "brandId": 1
+  },
+  {
+    "id": 3637,
+    "name": "SQ5",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 3442,
+    "name": "SQ7",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 3720,
+    "name": "SQ8",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 4036,
+    "name": "SQ8 e-tron",
+    "engName": null,
+    "brandId": 1
+  },
+  {
+    "id": 8,
+    "name": "TT",
+    "engName": "TT",
+    "brandId": 1
+  },
+  {
+    "id": 1272,
+    "name": "אולרוד",
+    "engName": "Allroad",
+    "brandId": 1
+  },
+  {
+    "id": 2496,
+    "name": "אדם",
+    "engName": "Adam",
+    "brandId": 2
+  },
+  {
+    "id": 19,
+    "name": "אומגה",
+    "engName": "Omega",
+    "brandId": 2
+  },
+  {
+    "id": 1734,
+    "name": "אינסיגניה",
+    "engName": "Insegnia",
+    "brandId": 2
+  },
+  {
+    "id": 20,
+    "name": "אסטרה",
+    "engName": "Astra",
+    "brandId": 2
+  },
+  {
+    "id": 3859,
+    "name": "אסטרה החדשה",
+    "engName": null,
+    "brandId": 2
+  },
+  {
+    "id": 3015,
+    "name": "גרנדלנד X",
+    "engName": null,
+    "brandId": 2
+  },
+  {
+    "id": 22,
+    "name": "וקטרה",
+    "engName": "Vectra",
+    "brandId": 2
+  },
+  {
+    "id": 23,
+    "name": "זאפירה",
+    "engName": "Zafira",
+    "brandId": 2
+  },
+  {
+    "id": 24,
+    "name": "טיגרה",
+    "engName": "Tigra",
+    "brandId": 2
+  },
+  {
+    "id": 2536,
+    "name": "מוקה",
+    "engName": "Mokka",
+    "brandId": 2
+  },
+  {
+    "id": 2846,
+    "name": "מוקה X",
+    "engName": "Mokka-X",
+    "brandId": 2
+  },
+  {
+    "id": 1737,
+    "name": "מריבה",
+    "engName": "Meriva",
+    "brandId": 2
+  },
+  {
+    "id": 547,
+    "name": "פרונטרה",
+    "engName": "Frontera",
+    "brandId": 2
+  },
+  {
+    "id": 25,
+    "name": "קדט",
+    "engName": "Kadett",
+    "brandId": 2
+  },
+  {
+    "id": 26,
+    "name": "קורסה",
+    "engName": "Corsa",
+    "brandId": 2
+  },
+  {
+    "id": 2461,
+    "name": "קסקדה",
+    "engName": "Cascada",
+    "brandId": 2
+  },
+  {
+    "id": 3002,
+    "name": "קרוסלנד X",
+    "engName": null,
+    "brandId": 2
+  },
+  {
+    "id": 427,
+    "name": "ויוארו ארוך",
+    "engName": "Vivaro Long",
+    "brandId": 2
+  },
+  {
+    "id": 3445,
+    "name": "ויוארו קירור",
+    "engName": null,
+    "brandId": 2
+  },
+  {
+    "id": 2777,
+    "name": "ויוארו קצר",
+    "engName": "Vivaro Short",
+    "brandId": 2
+  },
+  {
+    "id": 2752,
+    "name": "מובאנו",
+    "engName": "Movano",
+    "brandId": 2
+  },
+  {
+    "id": 428,
+    "name": "קומבו",
+    "engName": "Combo",
+    "brandId": 2
+  },
+  {
+    "id": 1772,
+    "name": "FX30 D",
+    "engName": "FX30 D",
+    "brandId": 3
+  },
+  {
+    "id": 1497,
+    "name": "FX35",
+    "engName": "FX35",
+    "brandId": 3
+  },
+  {
+    "id": 1495,
+    "name": "FX50",
+    "engName": "FX50",
+    "brandId": 3
+  },
+  {
+    "id": 1548,
+    "name": "G37",
+    "engName": "G37 ",
+    "brandId": 3
+  },
+  {
+    "id": 2883,
+    "name": "Q30",
+    "engName": "Q30",
+    "brandId": 3
+  },
+  {
+    "id": 2494,
+    "name": "Q50",
+    "engName": "Q50",
+    "brandId": 3
+  },
+  {
+    "id": 2900,
+    "name": "Q60",
+    "engName": "Q60",
+    "brandId": 3
+  },
+  {
+    "id": 1739,
+    "name": "Q70 / M37",
+    "engName": "Q70 / M37",
+    "brandId": 3
+  },
+  {
+    "id": 3104,
+    "name": "QX30",
+    "engName": null,
+    "brandId": 3
+  },
+  {
+    "id": 1771,
+    "name": "QX50 / EX37",
+    "engName": "QX50 / EX37",
+    "brandId": 3
+  },
+  {
+    "id": 3766,
+    "name": "QX55",
+    "engName": null,
+    "brandId": 3
+  },
+  {
+    "id": 2853,
+    "name": "QX56",
+    "engName": "QX56",
+    "brandId": 3
+  },
+  {
+    "id": 2547,
+    "name": "QX60",
+    "engName": "QX60",
+    "brandId": 3
+  },
+  {
+    "id": 1494,
+    "name": "QX70 / FX37",
+    "engName": "QX70 / FX37",
+    "brandId": 3
+  },
+  {
+    "id": 549,
+    "name": "טרופר ארוך",
+    "engName": "Trooper",
+    "brandId": 4
+  },
+  {
+    "id": 1523,
+    "name": "טרופר קצר",
+    "engName": "Trooper",
+    "brandId": 4
+  },
+  {
+    "id": 551,
+    "name": "רודאו",
+    "engName": "Rodeo",
+    "brandId": 4
+  },
+  {
+    "id": 1563,
+    "name": "2X4 D-MAX",
+    "engName": "2X4 D-MAX",
+    "brandId": 4
+  },
+  {
+    "id": 429,
+    "name": "4X4 D-MAX",
+    "engName": "4X4 D-MAX",
+    "brandId": 4
+  },
+  {
+    "id": 430,
+    "name": "איפון 2X4",
+    "engName": "Ippon 2X4",
+    "brandId": 4
+  },
+  {
+    "id": 1564,
+    "name": "איפון 4X4",
+    "engName": "Ippon 4X4",
+    "brandId": 4
+  },
+  {
+    "id": 2641,
+    "name": "אקסיום",
+    "engName": "Axiom",
+    "brandId": 4
+  },
+  {
+    "id": 431,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 4
+  },
+  {
+    "id": 550,
+    "name": "סומו",
+    "engName": "Sumo",
+    "brandId": 4
+  },
+  {
+    "id": 27,
+    "name": "145",
+    "engName": "145",
+    "brandId": 5
+  },
+  {
+    "id": 28,
+    "name": "146",
+    "engName": "146",
+    "brandId": 5
+  },
+  {
+    "id": 29,
+    "name": "147",
+    "engName": "147",
+    "brandId": 5
+  },
+  {
+    "id": 30,
+    "name": "156",
+    "engName": "156",
+    "brandId": 5
+  },
+  {
+    "id": 1075,
+    "name": "159",
+    "engName": "159",
+    "brandId": 5
+  },
+  {
+    "id": 31,
+    "name": "164",
+    "engName": "164",
+    "brandId": 5
+  },
+  {
+    "id": 32,
+    "name": "166",
+    "engName": "166",
+    "brandId": 5
+  },
+  {
+    "id": 33,
+    "name": "33",
+    "engName": "33",
+    "brandId": 5
+  },
+  {
+    "id": 2484,
+    "name": "4C",
+    "engName": "4C",
+    "brandId": 5
+  },
+  {
+    "id": 34,
+    "name": "75",
+    "engName": "75",
+    "brandId": 5
+  },
+  {
+    "id": 35,
+    "name": "90",
+    "engName": "90",
+    "brandId": 5
+  },
+  {
+    "id": 1102,
+    "name": "GT",
+    "engName": "GT",
+    "brandId": 5
+  },
+  {
+    "id": 36,
+    "name": "GTV",
+    "engName": "GTV",
+    "brandId": 5
+  },
+  {
+    "id": 1306,
+    "name": "בררה",
+    "engName": "Brera",
+    "brandId": 5
+  },
+  {
+    "id": 2844,
+    "name": "ג'וליה",
+    "engName": "Giulia",
+    "brandId": 5
+  },
+  {
+    "id": 1719,
+    "name": "ג'ולייטה",
+    "engName": "Giulietta",
+    "brandId": 5
+  },
+  {
+    "id": 3765,
+    "name": "טונלה",
+    "engName": null,
+    "brandId": 5
+  },
+  {
+    "id": 1557,
+    "name": "מיטו / MITO",
+    "engName": "Mito",
+    "brandId": 5
+  },
+  {
+    "id": 2888,
+    "name": "סטלויו",
+    "engName": "Stelvio",
+    "brandId": 5
+  },
+  {
+    "id": 38,
+    "name": "ספיידר",
+    "engName": "Spider",
+    "brandId": 5
+  },
+  {
+    "id": 2677,
+    "name": "159.3.2.JTS",
+    "engName": "159.3.2.JTS",
+    "brandId": 5
+  },
+  {
+    "id": 37,
+    "name": "סוד",
+    "engName": "Sud",
+    "brandId": 5
+  },
+  {
+    "id": 39,
+    "name": "ספרינט",
+    "engName": "Sprinter",
+    "brandId": 5
+  },
+  {
+    "id": 2323,
+    "name": "350",
+    "engName": "350",
+    "brandId": 6
+  },
+  {
+    "id": 1686,
+    "name": "550",
+    "engName": "550",
+    "brandId": 6
+  },
+  {
+    "id": 3417,
+    "name": "EHS PHEV",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 2521,
+    "name": "MG3",
+    "engName": "MG3",
+    "brandId": 6
+  },
+  {
+    "id": 3929,
+    "name": "MG4",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 3930,
+    "name": "MG5",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 3732,
+    "name": "Marvel R",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 3038,
+    "name": "RX5",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 3036,
+    "name": "ZS",
+    "engName": null,
+    "brandId": 6
+  },
+  {
+    "id": 3908,
+    "name": "I7",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 3571,
+    "name": "IX",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 1628,
+    "name": "M1",
+    "engName": "M1",
+    "brandId": 7
+  },
+  {
+    "id": 2705,
+    "name": "M2",
+    "engName": "M2 ",
+    "brandId": 7
+  },
+  {
+    "id": 888,
+    "name": "M3",
+    "engName": "M3",
+    "brandId": 7
+  },
+  {
+    "id": 2706,
+    "name": "M4",
+    "engName": "M4",
+    "brandId": 7
+  },
+  {
+    "id": 1008,
+    "name": "M5",
+    "engName": "M5",
+    "brandId": 7
+  },
+  {
+    "id": 3925,
+    "name": "M550",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 1274,
+    "name": "M6",
+    "engName": "M6",
+    "brandId": 7
+  },
+  {
+    "id": 3294,
+    "name": "M8",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 1773,
+    "name": "X1",
+    "engName": "X1",
+    "brandId": 7
+  },
+  {
+    "id": 2965,
+    "name": "X2",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 552,
+    "name": "X3",
+    "engName": "X3",
+    "brandId": 7
+  },
+  {
+    "id": 2526,
+    "name": "X4",
+    "engName": "X4",
+    "brandId": 7
+  },
+  {
+    "id": 553,
+    "name": "X5",
+    "engName": "X5",
+    "brandId": 7
+  },
+  {
+    "id": 1343,
+    "name": "X6",
+    "engName": "X6",
+    "brandId": 7
+  },
+  {
+    "id": 3959,
+    "name": "X6M Competition",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 3175,
+    "name": "X7",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 4054,
+    "name": "XM",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 65,
+    "name": "Z3",
+    "engName": "Z3",
+    "brandId": 7
+  },
+  {
+    "id": 66,
+    "name": "Z4",
+    "engName": "Z4",
+    "brandId": 7
+  },
+  {
+    "id": 2837,
+    "name": "i3",
+    "engName": "i3",
+    "brandId": 7
+  },
+  {
+    "id": 3636,
+    "name": "i4",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 4034,
+    "name": "i5",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 2820,
+    "name": "i8",
+    "engName": "i8",
+    "brandId": 7
+  },
+  {
+    "id": 4043,
+    "name": "iX1",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 3478,
+    "name": "iX3",
+    "engName": null,
+    "brandId": 7
+  },
+  {
+    "id": 1269,
+    "name": "סדרה 1",
+    "engName": "1 Series",
+    "brandId": 7
+  },
+  {
+    "id": 2503,
+    "name": "סדרה 2",
+    "engName": "2 Series",
+    "brandId": 7
+  },
+  {
+    "id": 68,
+    "name": "סדרה 3",
+    "engName": "3 Series",
+    "brandId": 7
+  },
+  {
+    "id": 1670,
+    "name": "סדרה 3 קופה / קבריולט",
+    "engName": "Series 3 Coupe",
+    "brandId": 7
+  },
+  {
+    "id": 2407,
+    "name": "סדרה 4",
+    "engName": "4 Series",
+    "brandId": 7
+  },
+  {
+    "id": 1267,
+    "name": "סדרה 5",
+    "engName": "5 Series",
+    "brandId": 7
+  },
+  {
+    "id": 69,
+    "name": "סדרה 6",
+    "engName": "6 Series",
+    "brandId": 7
+  },
+  {
+    "id": 1063,
+    "name": "סדרה 7",
+    "engName": "7 Series",
+    "brandId": 7
+  },
+  {
+    "id": 1305,
+    "name": "סדרה 8",
+    "engName": "8 Series",
+    "brandId": 7
+  },
+  {
+    "id": 1351,
+    "name": "אנקלייב",
+    "engName": "Enclave",
+    "brandId": 8
+  },
+  {
+    "id": 70,
+    "name": "לה סייבר",
+    "engName": "LeSabre",
+    "brandId": 8
+  },
+  {
+    "id": 984,
+    "name": "לה קרוס",
+    "engName": "LaCrosse",
+    "brandId": 8
+  },
+  {
+    "id": 993,
+    "name": "לוצרן",
+    "engName": "Lucerne",
+    "brandId": 8
+  },
+  {
+    "id": 73,
+    "name": "פארק אבניו",
+    "engName": "Park Avenue",
+    "brandId": 8
+  },
+  {
+    "id": 2612,
+    "name": "ריביירה",
+    "engName": "Riviera",
+    "brandId": 8
+  },
+  {
+    "id": 554,
+    "name": "רנדוו",
+    "engName": "Rendezvous",
+    "brandId": 8
+  },
+  {
+    "id": 71,
+    "name": "סנצ'ורי",
+    "engName": "Century",
+    "brandId": 8
+  },
+  {
+    "id": 74,
+    "name": "ריגל",
+    "engName": "Regal",
+    "brandId": 8
+  },
+  {
+    "id": 1479,
+    "name": "אכאדיה/Acadia ",
+    "engName": "Denali Acadia",
+    "brandId": 9
+  },
+  {
+    "id": 555,
+    "name": "ג'ימי",
+    "engName": "Jimmy",
+    "brandId": 9
+  },
+  {
+    "id": 557,
+    "name": "יוקון",
+    "engName": "Yukon",
+    "brandId": 9
+  },
+  {
+    "id": 2936,
+    "name": "יוקון דנאלי",
+    "engName": "Yukon Denali",
+    "brandId": 9
+  },
+  {
+    "id": 558,
+    "name": "סאברבן",
+    "engName": "Suburban",
+    "brandId": 9
+  },
+  {
+    "id": 4031,
+    "name": "HUMMER EV",
+    "engName": null,
+    "brandId": 9
+  },
+  {
+    "id": 1444,
+    "name": "אינווי",
+    "engName": "Envoy",
+    "brandId": 9
+  },
+  {
+    "id": 2778,
+    "name": "ונדורה ארוך",
+    "engName": "Vandura",
+    "brandId": 9
+  },
+  {
+    "id": 437,
+    "name": "ונדורה קצר",
+    "engName": "Vandura",
+    "brandId": 9
+  },
+  {
+    "id": 438,
+    "name": "טנדר 4X4",
+    "engName": "Tender",
+    "brandId": 9
+  },
+  {
+    "id": 439,
+    "name": "סואנה",
+    "engName": "Savana",
+    "brandId": 9
+  },
+  {
+    "id": 440,
+    "name": "סונומה",
+    "engName": "Sonoma",
+    "brandId": 9
+  },
+  {
+    "id": 2613,
+    "name": "סיירה",
+    "engName": "Sierra",
+    "brandId": 9
+  },
+  {
+    "id": 3869,
+    "name": "סיירה 4X4",
+    "engName": null,
+    "brandId": 9
+  },
+  {
+    "id": 442,
+    "name": "ספארי",
+    "engName": "Safari",
+    "brandId": 9
+  },
+  {
+    "id": 443,
+    "name": "ראלי",
+    "engName": "Rally",
+    "brandId": 9
+  },
+  {
+    "id": 4044,
+    "name": "אוונגר/ AVENGER",
+    "engName": null,
+    "brandId": 10
+  },
+  {
+    "id": 3222,
+    "name": "גלדיאטור",
+    "engName": null,
+    "brandId": 10
+  },
+  {
+    "id": 3756,
+    "name": "גראנד וואגוניר",
+    "engName": null,
+    "brandId": 10
+  },
+  {
+    "id": 1022,
+    "name": "גרנד צ'ירוקי",
+    "engName": "Grand Cherokee",
+    "brandId": 10
+  },
+  {
+    "id": 561,
+    "name": "גרנד צ'ירוקי (עד 2004)",
+    "engName": "Grand Cherokee",
+    "brandId": 10
+  },
+  {
+    "id": 3666,
+    "name": "וגוניר",
+    "engName": null,
+    "brandId": 10
+  },
+  {
+    "id": 560,
+    "name": "ליברטי (עד 2013)",
+    "engName": "Liberty",
+    "brandId": 10
+  },
+  {
+    "id": 1434,
+    "name": "פטריוט",
+    "engName": "Patriot",
+    "brandId": 10
+  },
+  {
+    "id": 563,
+    "name": "צ'ירוקי",
+    "engName": "Cherokee",
+    "brandId": 10
+  },
+  {
+    "id": 1104,
+    "name": "קומנדר",
+    "engName": "Comandor",
+    "brandId": 10
+  },
+  {
+    "id": 1093,
+    "name": "קומפאס",
+    "engName": "Compass",
+    "brandId": 10
+  },
+  {
+    "id": 2816,
+    "name": "רנגייד",
+    "engName": "Renegade",
+    "brandId": 10
+  },
+  {
+    "id": 564,
+    "name": "רנגלר ארוך",
+    "engName": "Wrangler Long",
+    "brandId": 10
+  },
+  {
+    "id": 1518,
+    "name": "רנגלר קצר",
+    "engName": "Wrangler Short",
+    "brandId": 10
+  },
+  {
+    "id": 3353,
+    "name": "רנגלר רוביקון",
+    "engName": null,
+    "brandId": 10
+  },
+  {
+    "id": 562,
+    "name": "סי ג'יי",
+    "engName": "SG",
+    "brandId": 10
+  },
+  {
+    "id": 2418,
+    "name": "C10",
+    "engName": "C10",
+    "brandId": 11
+  },
+  {
+    "id": 2700,
+    "name": "Cool Bear",
+    "engName": "Cool Bear",
+    "brandId": 11
+  },
+  {
+    "id": 2701,
+    "name": "Florid",
+    "engName": "Florid ",
+    "brandId": 11
+  },
+  {
+    "id": 2699,
+    "name": "Haval H6",
+    "engName": "Haval H6",
+    "brandId": 11
+  },
+  {
+    "id": 1732,
+    "name": "סטיד / Steed",
+    "engName": "Steed",
+    "brandId": 11
+  },
+  {
+    "id": 3752,
+    "name": "ג'וגר",
+    "engName": null,
+    "brandId": 12
+  },
+  {
+    "id": 2590,
+    "name": "דאסטר",
+    "engName": "Duster",
+    "brandId": 12
+  },
+  {
+    "id": 3130,
+    "name": "דאסטר החדש",
+    "engName": null,
+    "brandId": 12
+  },
+  {
+    "id": 2814,
+    "name": "לוגאן / MCV",
+    "engName": "Logan",
+    "brandId": 12
+  },
+  {
+    "id": 2594,
+    "name": "לודג'י",
+    "engName": "Lodgy",
+    "brandId": 12
+  },
+  {
+    "id": 2714,
+    "name": "סנדרו",
+    "engName": "Sandero",
+    "brandId": 12
+  },
+  {
+    "id": 2592,
+    "name": "סנדרו Stepway",
+    "engName": "Sandero Stepaway",
+    "brandId": 12
+  },
+  {
+    "id": 3673,
+    "name": "ספרינג",
+    "engName": null,
+    "brandId": 12
+  },
+  {
+    "id": 2596,
+    "name": "דוקר",
+    "engName": "Dokker",
+    "brandId": 12
+  },
+  {
+    "id": 1344,
+    "name": "אוונג'ר",
+    "engName": "Avenger",
+    "brandId": 13
+  },
+  {
+    "id": 1471,
+    "name": "ג'רני",
+    "engName": "Journey",
+    "brandId": 13
+  },
+  {
+    "id": 2628,
+    "name": "גראנד קראוון",
+    "engName": "Grand Caravan",
+    "brandId": 13
+  },
+  {
+    "id": 1082,
+    "name": "דורנגו",
+    "engName": "Durango",
+    "brandId": 13
+  },
+  {
+    "id": 1095,
+    "name": "ניטרו",
+    "engName": "Nitro",
+    "brandId": 13
+  },
+  {
+    "id": 1207,
+    "name": "צ'ארג'ר",
+    "engName": "Charger",
+    "brandId": 13
+  },
+  {
+    "id": 2511,
+    "name": "צ'לנג'ר",
+    "engName": "Challenger",
+    "brandId": 13
+  },
+  {
+    "id": 1206,
+    "name": "קאליבר",
+    "engName": "Caliber",
+    "brandId": 13
+  },
+  {
+    "id": 78,
+    "name": "אספן",
+    "engName": "Espan",
+    "brandId": 13
+  },
+  {
+    "id": 79,
+    "name": "אריס",
+    "engName": "Aries",
+    "brandId": 13
+  },
+  {
+    "id": 80,
+    "name": "דארט",
+    "engName": "Dart",
+    "brandId": 13
+  },
+  {
+    "id": 1476,
+    "name": "וייפר",
+    "engName": "Viper",
+    "brandId": 13
+  },
+  {
+    "id": 81,
+    "name": "ולי",
+    "engName": "Wally",
+    "brandId": 13
+  },
+  {
+    "id": 82,
+    "name": "פלימות'",
+    "engName": "Plimot",
+    "brandId": 13
+  },
+  {
+    "id": 2779,
+    "name": "ראם ארוך",
+    "engName": "Ram Short",
+    "brandId": 13
+  },
+  {
+    "id": 1794,
+    "name": "ראם קצר",
+    "engName": "Ram Long",
+    "brandId": 13
+  },
+  {
+    "id": 3085,
+    "name": "DS3",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 3188,
+    "name": "DS3 Crossback / קרוסבק",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 3086,
+    "name": "DS3 קבריולט",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 3781,
+    "name": "DS4",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 3088,
+    "name": "DS5",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 3084,
+    "name": "DS7 Crossback / קרוסבק",
+    "engName": null,
+    "brandId": 14
+  },
+  {
+    "id": 93,
+    "name": "YRV",
+    "engName": "YRV",
+    "brandId": 15
+  },
+  {
+    "id": 94,
+    "name": "אפלאוז",
+    "engName": "Applause",
+    "brandId": 15
+  },
+  {
+    "id": 95,
+    "name": "גרנדמוב",
+    "engName": "Grandmove",
+    "brandId": 15
+  },
+  {
+    "id": 96,
+    "name": "טריוס",
+    "engName": "Terios",
+    "brandId": 15
+  },
+  {
+    "id": 1346,
+    "name": "מאטריה",
+    "engName": "Matria",
+    "brandId": 15
+  },
+  {
+    "id": 97,
+    "name": "סיריון",
+    "engName": "Sirion",
+    "brandId": 15
+  },
+  {
+    "id": 566,
+    "name": "פרוזה",
+    "engName": "Feroza",
+    "brandId": 15
+  },
+  {
+    "id": 99,
+    "name": "קורה",
+    "engName": "Cuore",
+    "brandId": 15
+  },
+  {
+    "id": 100,
+    "name": "שרייד",
+    "engName": "Charade",
+    "brandId": 15
+  },
+  {
+    "id": 101,
+    "name": "שרמנט",
+    "engName": "Charmant",
+    "brandId": 15
+  },
+  {
+    "id": 3691,
+    "name": "H1",
+    "engName": null,
+    "brandId": 16
+  },
+  {
+    "id": 947,
+    "name": "H2",
+    "engName": "H2",
+    "brandId": 16
+  },
+  {
+    "id": 948,
+    "name": "H3",
+    "engName": "H3",
+    "brandId": 16
+  },
+  {
+    "id": 4027,
+    "name": "ACURA INTEGRA",
+    "engName": null,
+    "brandId": 17
+  },
+  {
+    "id": 4008,
+    "name": "ACURA MDX",
+    "engName": null,
+    "brandId": 17
+  },
+  {
+    "id": 567,
+    "name": "CR-V",
+    "engName": "CR-V",
+    "brandId": 17
+  },
+  {
+    "id": 1680,
+    "name": "CR-Z",
+    "engName": "CR-Z",
+    "brandId": 17
+  },
+  {
+    "id": 1079,
+    "name": "FR-V",
+    "engName": "FR-V",
+    "brandId": 17
+  },
+  {
+    "id": 568,
+    "name": "HR-V",
+    "engName": "HR-V",
+    "brandId": 17
+  },
+  {
+    "id": 102,
+    "name": "S 2000",
+    "engName": "S 2000",
+    "brandId": 17
+  },
+  {
+    "id": 1454,
+    "name": "אודיסיי",
+    "engName": "Odyssey",
+    "brandId": 17
+  },
+  {
+    "id": 1586,
+    "name": "אינסייט",
+    "engName": "Insight",
+    "brandId": 17
+  },
+  {
+    "id": 104,
+    "name": "אקורד",
+    "engName": "Accord",
+    "brandId": 17
+  },
+  {
+    "id": 105,
+    "name": "ג'אז ",
+    "engName": "Jazz",
+    "brandId": 17
+  },
+  {
+    "id": 2673,
+    "name": "ג'אז הייבריד",
+    "engName": "Jazz Hybrid",
+    "brandId": 17
+  },
+  {
+    "id": 3951,
+    "name": "הונדה סיטי",
+    "engName": null,
+    "brandId": 17
+  },
+  {
+    "id": 107,
+    "name": "לג'נד",
+    "engName": "Legend",
+    "brandId": 17
+  },
+  {
+    "id": 1268,
+    "name": "סטרים",
+    "engName": "Stream",
+    "brandId": 17
+  },
+  {
+    "id": 109,
+    "name": "סיוויק (עד 2006)",
+    "engName": "Civic",
+    "brandId": 17
+  },
+  {
+    "id": 1558,
+    "name": "סיוויק Type-R",
+    "engName": "TYPE R",
+    "brandId": 17
+  },
+  {
+    "id": 1559,
+    "name": "סיוויק האצ'בק החדשה",
+    "engName": "Civic Hachback",
+    "brandId": 17
+  },
+  {
+    "id": 1561,
+    "name": "סיוויק הייבריד",
+    "engName": "Civic hybrid",
+    "brandId": 17
+  },
+  {
+    "id": 1560,
+    "name": "סיוויק סדאן החדשה",
+    "engName": "Sierra sedan",
+    "brandId": 17
+  },
+  {
+    "id": 2500,
+    "name": "סיוויק סטיישן",
+    "engName": "Civic station",
+    "brandId": 17
+  },
+  {
+    "id": 1562,
+    "name": "סיוויק קופה / הצ'בק",
+    "engName": "Civic",
+    "brandId": 17
+  },
+  {
+    "id": 2525,
+    "name": "פיילוט",
+    "engName": "Pilot",
+    "brandId": 17
+  },
+  {
+    "id": 110,
+    "name": "פרלוד",
+    "engName": "Prelude",
+    "brandId": 17
+  },
+  {
+    "id": 111,
+    "name": "שאטל",
+    "engName": "Shuttle",
+    "brandId": 17
+  },
+  {
+    "id": 113,
+    "name": "240",
+    "engName": "240",
+    "brandId": 18
+  },
+  {
+    "id": 114,
+    "name": "244",
+    "engName": "244",
+    "brandId": 18
+  },
+  {
+    "id": 121,
+    "name": "740/744",
+    "engName": "740/744",
+    "brandId": 18
+  },
+  {
+    "id": 122,
+    "name": "745",
+    "engName": "745",
+    "brandId": 18
+  },
+  {
+    "id": 123,
+    "name": "760",
+    "engName": "760",
+    "brandId": 18
+  },
+  {
+    "id": 125,
+    "name": "850",
+    "engName": "850",
+    "brandId": 18
+  },
+  {
+    "id": 1264,
+    "name": "854",
+    "engName": "854",
+    "brandId": 18
+  },
+  {
+    "id": 1666,
+    "name": "855",
+    "engName": "855",
+    "brandId": 18
+  },
+  {
+    "id": 128,
+    "name": "940",
+    "engName": "940",
+    "brandId": 18
+  },
+  {
+    "id": 1265,
+    "name": "944",
+    "engName": "944",
+    "brandId": 18
+  },
+  {
+    "id": 129,
+    "name": "945",
+    "engName": "945",
+    "brandId": 18
+  },
+  {
+    "id": 130,
+    "name": "960",
+    "engName": "960",
+    "brandId": 18
+  },
+  {
+    "id": 1277,
+    "name": "C30",
+    "engName": "C30",
+    "brandId": 18
+  },
+  {
+    "id": 3891,
+    "name": "C40",
+    "engName": null,
+    "brandId": 18
+  },
+  {
+    "id": 131,
+    "name": "C70",
+    "engName": "C70",
+    "brandId": 18
+  },
+  {
+    "id": 3394,
+    "name": "CX11",
+    "engName": null,
+    "brandId": 18
+  },
+  {
+    "id": 4055,
+    "name": "EX30",
+    "engName": null,
+    "brandId": 18
+  },
+  {
+    "id": 132,
+    "name": "S40",
+    "engName": "S40",
+    "brandId": 18
+  },
+  {
+    "id": 133,
+    "name": "S60",
+    "engName": "S60",
+    "brandId": 18
+  },
+  {
+    "id": 134,
+    "name": "S70",
+    "engName": "S70",
+    "brandId": 18
+  },
+  {
+    "id": 135,
+    "name": "S80",
+    "engName": "S80",
+    "brandId": 18
+  },
+  {
+    "id": 136,
+    "name": "S90",
+    "engName": "S90",
+    "brandId": 18
+  },
+  {
+    "id": 2366,
+    "name": "V40",
+    "engName": "V40",
+    "brandId": 18
+  },
+  {
+    "id": 137,
+    "name": "V40 הישנה",
+    "engName": "V40",
+    "brandId": 18
+  },
+  {
+    "id": 2371,
+    "name": "V40 קרוס קאנטרי ",
+    "engName": "V40 CC",
+    "brandId": 18
+  },
+  {
+    "id": 1278,
+    "name": "V50",
+    "engName": "V50",
+    "brandId": 18
+  },
+  {
+    "id": 1743,
+    "name": "V60",
+    "engName": "V60",
+    "brandId": 18
+  },
+  {
+    "id": 138,
+    "name": "V70",
+    "engName": "V70",
+    "brandId": 18
+  },
+  {
+    "id": 2973,
+    "name": "XC40",
+    "engName": null,
+    "brandId": 18
+  },
+  {
+    "id": 1584,
+    "name": "XC60",
+    "engName": "XC60",
+    "brandId": 18
+  },
+  {
+    "id": 909,
+    "name": "XC70",
+    "engName": "XC70",
+    "brandId": 18
+  },
+  {
+    "id": 569,
+    "name": "XC90",
+    "engName": "XC90",
+    "brandId": 18
+  },
+  {
+    "id": 115,
+    "name": "245",
+    "engName": "245",
+    "brandId": 18
+  },
+  {
+    "id": 116,
+    "name": "264",
+    "engName": "264",
+    "brandId": 18
+  },
+  {
+    "id": 117,
+    "name": "340/345",
+    "engName": "340/345",
+    "brandId": 18
+  },
+  {
+    "id": 575,
+    "name": "4Runner",
+    "engName": "4RUNNER",
+    "brandId": 19
+  },
+  {
+    "id": 3750,
+    "name": "BZ4X",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2847,
+    "name": "C-HR",
+    "engName": "C-HR",
+    "brandId": 19
+  },
+  {
+    "id": 1002,
+    "name": "FJ קרוזר",
+    "engName": "FJ Cruiser",
+    "brandId": 19
+  },
+  {
+    "id": 4010,
+    "name": "GR86",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2360,
+    "name": "GT86",
+    "engName": "GT86",
+    "brandId": 19
+  },
+  {
+    "id": 2678,
+    "name": "IQ",
+    "engName": "IQ",
+    "brandId": 19
+  },
+  {
+    "id": 139,
+    "name": "MR2",
+    "engName": "MR2",
+    "brandId": 19
+  },
+  {
+    "id": 1516,
+    "name": "RAV4 ארוך",
+    "engName": "RAV4",
+    "brandId": 19
+  },
+  {
+    "id": 3114,
+    "name": "RAV4 הייבריד",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 573,
+    "name": "RAV4 קצר",
+    "engName": "RAV4",
+    "brandId": 19
+  },
+  {
+    "id": 1673,
+    "name": "אוולון",
+    "engName": "Avelon",
+    "brandId": 19
+  },
+  {
+    "id": 2614,
+    "name": "אוולון הייבריד",
+    "engName": "Avelon Hybrid",
+    "brandId": 19
+  },
+  {
+    "id": 140,
+    "name": "אוונסיס",
+    "engName": "Avensis",
+    "brandId": 19
+  },
+  {
+    "id": 2548,
+    "name": "אוונסיס ורסו",
+    "engName": "Avensis Verso",
+    "brandId": 19
+  },
+  {
+    "id": 1201,
+    "name": "אוריס",
+    "engName": "Auris",
+    "brandId": 19
+  },
+  {
+    "id": 2969,
+    "name": "אוריס הייבריד",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2336,
+    "name": "אייגו (AYGO)",
+    "engName": "AYGO",
+    "brandId": 19
+  },
+  {
+    "id": 3726,
+    "name": "אייגו קרוס (AYGO X)",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 4024,
+    "name": "גרנד היילנדר",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 1712,
+    "name": "היילנדר",
+    "engName": "Highlander",
+    "brandId": 19
+  },
+  {
+    "id": 2826,
+    "name": "ונזה",
+    "engName": "Venza",
+    "brandId": 19
+  },
+  {
+    "id": 3490,
+    "name": "ונזה (2021 ואילך)",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 1654,
+    "name": "ורסו",
+    "engName": "Verso",
+    "brandId": 19
+  },
+  {
+    "id": 1470,
+    "name": "יאריס",
+    "engName": "Yaris",
+    "brandId": 19
+  },
+  {
+    "id": 2344,
+    "name": "יאריס הייבריד",
+    "engName": "Yaris Hybrid",
+    "brandId": 19
+  },
+  {
+    "id": 3491,
+    "name": "יאריס קרוס",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 1515,
+    "name": "לנד קרוזר V8",
+    "engName": "Land Cruiser V8",
+    "brandId": 19
+  },
+  {
+    "id": 1387,
+    "name": "לנד קרוזר ארוך",
+    "engName": "Land Cruiser Long",
+    "brandId": 19
+  },
+  {
+    "id": 1554,
+    "name": "לנד קרוזר סדרה 70",
+    "engName": "Land Cruiser 70",
+    "brandId": 19
+  },
+  {
+    "id": 1480,
+    "name": "לנד קרוזר פרדו ארוך",
+    "engName": "Land Cruiser Prado Long",
+    "brandId": 19
+  },
+  {
+    "id": 1481,
+    "name": "לנד קרוזר פרדו קצר",
+    "engName": "Land Cruiser Prado Short",
+    "brandId": 19
+  },
+  {
+    "id": 574,
+    "name": "לנד קרוזר קצר",
+    "engName": "Land Cruiser Short",
+    "brandId": 19
+  },
+  {
+    "id": 3485,
+    "name": "סופרה",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 143,
+    "name": "סטארלט",
+    "engName": "Starlet",
+    "brandId": 19
+  },
+  {
+    "id": 1092,
+    "name": "סיינה",
+    "engName": "Siena",
+    "brandId": 19
+  },
+  {
+    "id": 3437,
+    "name": "סיינה הייבריד",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 144,
+    "name": "סליקה",
+    "engName": "Celika",
+    "brandId": 19
+  },
+  {
+    "id": 2293,
+    "name": "ספייס ורסו",
+    "engName": "Space Verso",
+    "brandId": 19
+  },
+  {
+    "id": 1090,
+    "name": "סקויה",
+    "engName": "Sequoia",
+    "brandId": 19
+  },
+  {
+    "id": 452,
+    "name": "פריוויה",
+    "engName": "Previa",
+    "brandId": 19
+  },
+  {
+    "id": 1046,
+    "name": "פריוס ",
+    "engName": "Prius",
+    "brandId": 19
+  },
+  {
+    "id": 2527,
+    "name": "פריוס C הייבריד",
+    "engName": "Prius C",
+    "brandId": 19
+  },
+  {
+    "id": 3397,
+    "name": "פריוס פלאג-אין",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2376,
+    "name": "פריוס פלוס הייבריד",
+    "engName": "Prius Plus",
+    "brandId": 19
+  },
+  {
+    "id": 146,
+    "name": "קאמרי",
+    "engName": "Camry",
+    "brandId": 19
+  },
+  {
+    "id": 1428,
+    "name": "קורולה",
+    "engName": "Corolla",
+    "brandId": 19
+  },
+  {
+    "id": 944,
+    "name": "קורולה RUN-X",
+    "engName": "Corolla Run-x",
+    "brandId": 19
+  },
+  {
+    "id": 3534,
+    "name": "קורולה TS סטיישן",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 3132,
+    "name": "קורולה הייבריד",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 3667,
+    "name": "קורולה קרוס",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 4069,
+    "name": "קראון/ Crown",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 148,
+    "name": "קרינה",
+    "engName": "Carina",
+    "brandId": 19
+  },
+  {
+    "id": 451,
+    "name": "הייאס ארוך",
+    "engName": "Hiace",
+    "brandId": 19
+  },
+  {
+    "id": 2780,
+    "name": "הייאס קצר",
+    "engName": "Hiace",
+    "brandId": 19
+  },
+  {
+    "id": 450,
+    "name": "היילקס 2X4",
+    "engName": "Hilux",
+    "brandId": 19
+  },
+  {
+    "id": 1352,
+    "name": "היילקס 4X4",
+    "engName": "Hilux",
+    "brandId": 19
+  },
+  {
+    "id": 1567,
+    "name": "היילקס ויגו 2X4",
+    "engName": "Hilux Vigo",
+    "brandId": 19
+  },
+  {
+    "id": 1568,
+    "name": "היילקס ויגו 4X4",
+    "engName": "Hilux Vigo",
+    "brandId": 19
+  },
+  {
+    "id": 2679,
+    "name": "טאקומה",
+    "engName": "Tacuma",
+    "brandId": 19
+  },
+  {
+    "id": 3567,
+    "name": "טונדרה",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2922,
+    "name": "לנד קרוזר LC100",
+    "engName": "Land Cruiser LC100",
+    "brandId": 19
+  },
+  {
+    "id": 1525,
+    "name": "סולרה קבריולט",
+    "engName": "Solero Cabriolete",
+    "brandId": 19
+  },
+  {
+    "id": 3404,
+    "name": "סיטי",
+    "engName": null,
+    "brandId": 19
+  },
+  {
+    "id": 2761,
+    "name": "פרואייס",
+    "engName": "Proace",
+    "brandId": 19
+  },
+  {
+    "id": 2966,
+    "name": "E-Pace",
+    "engName": null,
+    "brandId": 20
+  },
+  {
+    "id": 2766,
+    "name": "F-Pace",
+    "engName": "F-PACE",
+    "brandId": 20
+  },
+  {
+    "id": 2391,
+    "name": "F-Type",
+    "engName": "F-Type",
+    "brandId": 20
+  },
+  {
+    "id": 3106,
+    "name": "I-Pace",
+    "engName": null,
+    "brandId": 20
+  },
+  {
+    "id": 153,
+    "name": "S-Type",
+    "engName": "S-TYPE",
+    "brandId": 20
+  },
+  {
+    "id": 154,
+    "name": "X-Type",
+    "engName": "X-TYPE",
+    "brandId": 20
+  },
+  {
+    "id": 2652,
+    "name": "XE",
+    "engName": "XE",
+    "brandId": 20
+  },
+  {
+    "id": 1345,
+    "name": "XF",
+    "engName": "XF",
+    "brandId": 20
+  },
+  {
+    "id": 1744,
+    "name": "XJ",
+    "engName": "XJ",
+    "brandId": 20
+  },
+  {
+    "id": 156,
+    "name": "XJ6",
+    "engName": "XJ6",
+    "brandId": 20
+  },
+  {
+    "id": 157,
+    "name": "XJ8",
+    "engName": "XJ8",
+    "brandId": 20
+  },
+  {
+    "id": 1595,
+    "name": "XJR",
+    "engName": "XJR",
+    "brandId": 20
+  },
+  {
+    "id": 2469,
+    "name": "XK",
+    "engName": "XK",
+    "brandId": 20
+  },
+  {
+    "id": 162,
+    "name": "XKR",
+    "engName": "XKR",
+    "brandId": 20
+  },
+  {
+    "id": 163,
+    "name": "דימלר",
+    "engName": "Daimler",
+    "brandId": 20
+  },
+  {
+    "id": 164,
+    "name": "סוברין",
+    "engName": "Sovereign",
+    "brandId": 20
+  },
+  {
+    "id": 1583,
+    "name": "i10",
+    "engName": "i10",
+    "brandId": 21
+  },
+  {
+    "id": 1594,
+    "name": "i20",
+    "engName": "i20",
+    "brandId": 21
+  },
+  {
+    "id": 2768,
+    "name": "i20 קרוס",
+    "engName": "i20 Cross ",
+    "brandId": 21
+  },
+  {
+    "id": 4030,
+    "name": "i20N",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 1726,
+    "name": "i25",
+    "engName": "i25",
+    "brandId": 21
+  },
+  {
+    "id": 1281,
+    "name": "i30",
+    "engName": "i30",
+    "brandId": 21
+  },
+  {
+    "id": 2347,
+    "name": "i30CW",
+    "engName": "i30CW",
+    "brandId": 21
+  },
+  {
+    "id": 3126,
+    "name": "i30N",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 1745,
+    "name": "i35",
+    "engName": "i35/Elantra",
+    "brandId": 21
+  },
+  {
+    "id": 2313,
+    "name": "i40",
+    "engName": "i40",
+    "brandId": 21
+  },
+  {
+    "id": 1801,
+    "name": "iX20",
+    "engName": "iX20",
+    "brandId": 21
+  },
+  {
+    "id": 1683,
+    "name": "iX35",
+    "engName": "iX35",
+    "brandId": 21
+  },
+  {
+    "id": 1776,
+    "name": "iX55",
+    "engName": "iX55",
+    "brandId": 21
+  },
+  {
+    "id": 165,
+    "name": "אטוס",
+    "engName": "Atos",
+    "brandId": 21
+  },
+  {
+    "id": 2825,
+    "name": "איוניק",
+    "engName": "ioniq",
+    "brandId": 21
+  },
+  {
+    "id": 3451,
+    "name": "איוניק 5",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 3965,
+    "name": "איוניק 6",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 166,
+    "name": "אלנטרה (2001-2007)",
+    "engName": "Elantra",
+    "brandId": 21
+  },
+  {
+    "id": 3059,
+    "name": "אלנטרה (2016 ואילך)",
+    "engName": "Elantra",
+    "brandId": 21
+  },
+  {
+    "id": 3686,
+    "name": "אלנטרה הייבריד (2021 ואילך)",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 168,
+    "name": "אקסנט (עד 2012)",
+    "engName": "Accent",
+    "brandId": 21
+  },
+  {
+    "id": 3131,
+    "name": "אקסנט/ i25 החדשה (2019 ואילך)",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 3764,
+    "name": "באיון",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 1389,
+    "name": "גאלופר ארוך",
+    "engName": "Galloper",
+    "brandId": 21
+  },
+  {
+    "id": 576,
+    "name": "גאלופר קצר",
+    "engName": "Galloper",
+    "brandId": 21
+  },
+  {
+    "id": 169,
+    "name": "גטס",
+    "engName": "Getz",
+    "brandId": 21
+  },
+  {
+    "id": 1746,
+    "name": "ולוסטר",
+    "engName": "Veloster",
+    "brandId": 21
+  },
+  {
+    "id": 3327,
+    "name": "וניו",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 577,
+    "name": "טאראקן",
+    "engName": "Terracan",
+    "brandId": 21
+  },
+  {
+    "id": 578,
+    "name": "טוסון",
+    "engName": "Tuscon",
+    "brandId": 21
+  },
+  {
+    "id": 1747,
+    "name": "טרג'ט",
+    "engName": "Trajet",
+    "brandId": 21
+  },
+  {
+    "id": 170,
+    "name": "לנטרה",
+    "engName": "Lantra",
+    "brandId": 21
+  },
+  {
+    "id": 171,
+    "name": "סונטה",
+    "engName": "Sonata",
+    "brandId": 21
+  },
+  {
+    "id": 3921,
+    "name": "סונטה N",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 3116,
+    "name": "סונטה הייבריד",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 579,
+    "name": "סנטה פה",
+    "engName": "Santa fe",
+    "brandId": 21
+  },
+  {
+    "id": 3345,
+    "name": "פליסדה",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 2946,
+    "name": "קונה",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 3873,
+    "name": "קונה EV",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 172,
+    "name": "קופה",
+    "engName": "Coupe",
+    "brandId": 21
+  },
+  {
+    "id": 453,
+    "name": "H1",
+    "engName": "H1",
+    "brandId": 21
+  },
+  {
+    "id": 454,
+    "name": "H100",
+    "engName": "H100",
+    "brandId": 21
+  },
+  {
+    "id": 914,
+    "name": "H100 TRUCK",
+    "engName": "H100 TRUCK",
+    "brandId": 21
+  },
+  {
+    "id": 2968,
+    "name": "H350",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 1569,
+    "name": "i800",
+    "engName": "i800",
+    "brandId": 21
+  },
+  {
+    "id": 2477,
+    "name": "אנטרקולר",
+    "engName": "Intercooler",
+    "brandId": 21
+  },
+  {
+    "id": 1395,
+    "name": "מטריקס",
+    "engName": "Metrix",
+    "brandId": 21
+  },
+  {
+    "id": 3741,
+    "name": "סטאריה",
+    "engName": null,
+    "brandId": 21
+  },
+  {
+    "id": 918,
+    "name": "LS",
+    "engName": "LS",
+    "brandId": 23
+  },
+  {
+    "id": 2481,
+    "name": "MARK LT",
+    "engName": "MARK LT",
+    "brandId": 23
+  },
+  {
+    "id": 2415,
+    "name": "MKC",
+    "engName": "MKC",
+    "brandId": 23
+  },
+  {
+    "id": 2396,
+    "name": "MKS",
+    "engName": "MKS",
+    "brandId": 23
+  },
+  {
+    "id": 2414,
+    "name": "MKT",
+    "engName": "MKT",
+    "brandId": 23
+  },
+  {
+    "id": 2335,
+    "name": "MKX",
+    "engName": "MKX",
+    "brandId": 23
+  },
+  {
+    "id": 2397,
+    "name": "MKZ",
+    "engName": "MKZ",
+    "brandId": 23
+  },
+  {
+    "id": 921,
+    "name": "אביאטור",
+    "engName": "Aviator",
+    "brandId": 23
+  },
+  {
+    "id": 917,
+    "name": "זפיר",
+    "engName": "Zephyr",
+    "brandId": 23
+  },
+  {
+    "id": 919,
+    "name": "טאון קאר",
+    "engName": "Town Car",
+    "brandId": 23
+  },
+  {
+    "id": 924,
+    "name": "נביגטור",
+    "engName": "Navigator",
+    "brandId": 23
+  },
+  {
+    "id": 1482,
+    "name": "דיסקברי 1",
+    "engName": "Discovery1",
+    "brandId": 24
+  },
+  {
+    "id": 1483,
+    "name": "דיסקברי 2",
+    "engName": "Discovery2",
+    "brandId": 24
+  },
+  {
+    "id": 582,
+    "name": "דיסקברי 3",
+    "engName": "Discovery3",
+    "brandId": 24
+  },
+  {
+    "id": 1778,
+    "name": "דיסקברי 4",
+    "engName": "Discovery4",
+    "brandId": 24
+  },
+  {
+    "id": 2944,
+    "name": "דיסקברי 5",
+    "engName": null,
+    "brandId": 24
+  },
+  {
+    "id": 2616,
+    "name": "דיסקברי ספורט",
+    "engName": "Discovery Sport",
+    "brandId": 24
+  },
+  {
+    "id": 583,
+    "name": "דיפנדר",
+    "engName": "Defender",
+    "brandId": 24
+  },
+  {
+    "id": 584,
+    "name": "פרילנדר 1",
+    "engName": "Freelander 1",
+    "brandId": 24
+  },
+  {
+    "id": 1484,
+    "name": "פרילנדר 2",
+    "engName": "Freelander 2",
+    "brandId": 24
+  },
+  {
+    "id": 585,
+    "name": "ריינג' רובר",
+    "engName": "Range Rover",
+    "brandId": 24
+  },
+  {
+    "id": 1777,
+    "name": "ריינג' רובר איווק",
+    "engName": "Range Rover Evoque",
+    "brandId": 24
+  },
+  {
+    "id": 3146,
+    "name": "ריינג' רובר איווק MHEV",
+    "engName": null,
+    "brandId": 24
+  },
+  {
+    "id": 2904,
+    "name": "ריינג' רובר וולאר",
+    "engName": "Velar",
+    "brandId": 24
+  },
+  {
+    "id": 1485,
+    "name": "ריינג' רובר ספורט",
+    "engName": "Range Rover Sport",
+    "brandId": 24
+  },
+  {
+    "id": 1799,
+    "name": "אפסילון",
+    "engName": "Epsilon",
+    "brandId": 25
+  },
+  {
+    "id": 889,
+    "name": "בטה",
+    "engName": "Beta",
+    "brandId": 25
+  },
+  {
+    "id": 174,
+    "name": "דדרה",
+    "engName": "Dedra",
+    "brandId": 25
+  },
+  {
+    "id": 175,
+    "name": "דלתא",
+    "engName": "Delta",
+    "brandId": 25
+  },
+  {
+    "id": 176,
+    "name": "פריזמה",
+    "engName": "Prisma",
+    "brandId": 25
+  },
+  {
+    "id": 177,
+    "name": "קאפה",
+    "engName": "Kappa",
+    "brandId": 25
+  },
+  {
+    "id": 178,
+    "name": "תמה",
+    "engName": "Thema",
+    "brandId": 25
+  },
+  {
+    "id": 1015,
+    "name": "CS",
+    "engName": "CS",
+    "brandId": 26
+  },
+  {
+    "id": 1748,
+    "name": "CT200H",
+    "engName": "CT200H",
+    "brandId": 26
+  },
+  {
+    "id": 2676,
+    "name": "ES300H",
+    "engName": "ES300H",
+    "brandId": 26
+  },
+  {
+    "id": 2337,
+    "name": "GS250",
+    "engName": "GS250",
+    "brandId": 26
+  },
+  {
+    "id": 1017,
+    "name": "GS300",
+    "engName": "GS300",
+    "brandId": 26
+  },
+  {
+    "id": 2462,
+    "name": "GS300H",
+    "engName": "GS300H",
+    "brandId": 26
+  },
+  {
+    "id": 1617,
+    "name": "GS450H",
+    "engName": "GS450H",
+    "brandId": 26
+  },
+  {
+    "id": 3335,
+    "name": "GX460",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 1048,
+    "name": "IS250",
+    "engName": "IS250",
+    "brandId": 26
+  },
+  {
+    "id": 3476,
+    "name": "IS300",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 2408,
+    "name": "IS300h",
+    "engName": "IS300h",
+    "brandId": 26
+  },
+  {
+    "id": 4070,
+    "name": "LBX",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 2909,
+    "name": "LC500",
+    "engName": "LC500",
+    "brandId": 26
+  },
+  {
+    "id": 4068,
+    "name": "LM",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 1431,
+    "name": "LS400",
+    "engName": "LS400",
+    "brandId": 26
+  },
+  {
+    "id": 1037,
+    "name": "LS430",
+    "engName": "LS430",
+    "brandId": 26
+  },
+  {
+    "id": 1016,
+    "name": "LS460",
+    "engName": "LS460",
+    "brandId": 26
+  },
+  {
+    "id": 2972,
+    "name": "LS500",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 4057,
+    "name": "LS500H",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 1618,
+    "name": "LS600HL",
+    "engName": "LS600HL",
+    "brandId": 26
+  },
+  {
+    "id": 3393,
+    "name": "LX570",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 4011,
+    "name": "LX600",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 2578,
+    "name": "NX",
+    "engName": "NX",
+    "brandId": 26
+  },
+  {
+    "id": 2618,
+    "name": "RC",
+    "engName": "RC-F",
+    "brandId": 26
+  },
+  {
+    "id": 2813,
+    "name": "RX200t",
+    "engName": "RX 200t",
+    "brandId": 26
+  },
+  {
+    "id": 3010,
+    "name": "RX300",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 2660,
+    "name": "RX330",
+    "engName": "RX330",
+    "brandId": 26
+  },
+  {
+    "id": 1019,
+    "name": "RX350",
+    "engName": "RX350",
+    "brandId": 26
+  },
+  {
+    "id": 1211,
+    "name": "RX400h",
+    "engName": "RX400h",
+    "brandId": 26
+  },
+  {
+    "id": 1721,
+    "name": "RX450H",
+    "engName": "RX450h",
+    "brandId": 26
+  },
+  {
+    "id": 3964,
+    "name": "RX500H",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 4018,
+    "name": "RZ450e",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 1014,
+    "name": "SC430",
+    "engName": "SC430",
+    "brandId": 26
+  },
+  {
+    "id": 3139,
+    "name": "UX",
+    "engName": null,
+    "brandId": 26
+  },
+  {
+    "id": 1018,
+    "name": "GX470",
+    "engName": "GX470",
+    "brandId": 26
+  },
+  {
+    "id": 179,
+    "name": "121",
+    "engName": "121",
+    "brandId": 27
+  },
+  {
+    "id": 1197,
+    "name": "2",
+    "engName": "2",
+    "brandId": 27
+  },
+  {
+    "id": 2633,
+    "name": "2 דמיו",
+    "engName": "demio 2",
+    "brandId": 27
+  },
+  {
+    "id": 1645,
+    "name": "3",
+    "engName": "3",
+    "brandId": 27
+  },
+  {
+    "id": 181,
+    "name": "323",
+    "engName": "323",
+    "brandId": 27
+  },
+  {
+    "id": 189,
+    "name": "323 לאנטיס",
+    "engName": "lantis 323",
+    "brandId": 27
+  },
+  {
+    "id": 925,
+    "name": "5",
+    "engName": "5",
+    "brandId": 27
+  },
+  {
+    "id": 1394,
+    "name": "6",
+    "engName": "6",
+    "brandId": 27
+  },
+  {
+    "id": 183,
+    "name": "626",
+    "engName": "626",
+    "brandId": 27
+  },
+  {
+    "id": 2878,
+    "name": "CX-3",
+    "engName": "CX-3",
+    "brandId": 27
+  },
+  {
+    "id": 3260,
+    "name": "CX-30",
+    "engName": null,
+    "brandId": 27
+  },
+  {
+    "id": 2333,
+    "name": "CX-5",
+    "engName": "CX-5",
+    "brandId": 27
+  },
+  {
+    "id": 3924,
+    "name": "CX-50",
+    "engName": null,
+    "brandId": 27
+  },
+  {
+    "id": 4014,
+    "name": "CX-60",
+    "engName": null,
+    "brandId": 27
+  },
+  {
+    "id": 1006,
+    "name": "CX-9",
+    "engName": "CX-09",
+    "brandId": 27
+  },
+  {
+    "id": 4022,
+    "name": "CX-90",
+    "engName": null,
+    "brandId": 27
+  },
+  {
+    "id": 184,
+    "name": "MPV",
+    "engName": "MPV",
+    "brandId": 27
+  },
+  {
+    "id": 185,
+    "name": "MX-3",
+    "engName": "MX-3",
+    "brandId": 27
+  },
+  {
+    "id": 3483,
+    "name": "MX-30",
+    "engName": null,
+    "brandId": 27
+  },
+  {
+    "id": 186,
+    "name": "MX-5",
+    "engName": "MX-5",
+    "brandId": 27
+  },
+  {
+    "id": 187,
+    "name": "MX-6",
+    "engName": "MX-6",
+    "brandId": 27
+  },
+  {
+    "id": 1071,
+    "name": "RX-8",
+    "engName": "RX-8",
+    "brandId": 27
+  },
+  {
+    "id": 188,
+    "name": "דמיו",
+    "engName": "Demio",
+    "brandId": 27
+  },
+  {
+    "id": 588,
+    "name": "טריביוט",
+    "engName": "Tribute",
+    "brandId": 27
+  },
+  {
+    "id": 190,
+    "name": "פרמסי",
+    "engName": "Peremacy",
+    "brandId": 27
+  },
+  {
+    "id": 191,
+    "name": "קסדוס",
+    "engName": "ksedos",
+    "brandId": 27
+  },
+  {
+    "id": 456,
+    "name": "B2000",
+    "engName": "B2000",
+    "brandId": 27
+  },
+  {
+    "id": 457,
+    "name": "B2500 2X4",
+    "engName": "B2500 2X4",
+    "brandId": 27
+  },
+  {
+    "id": 1570,
+    "name": "B2500 4X4",
+    "engName": "B2500 4X4",
+    "brandId": 27
+  },
+  {
+    "id": 1402,
+    "name": "BT50 2X4",
+    "engName": "BT50 2X4",
+    "brandId": 27
+  },
+  {
+    "id": 1401,
+    "name": "BT50 4X4",
+    "engName": "BT50 4X4",
+    "brandId": 27
+  },
+  {
+    "id": 1005,
+    "name": "CX-07",
+    "engName": "CX-07",
+    "brandId": 27
+  },
+  {
+    "id": 458,
+    "name": "E2000",
+    "engName": "E2000",
+    "brandId": 27
+  },
+  {
+    "id": 3652,
+    "name": "MC20",
+    "engName": null,
+    "brandId": 28
+  },
+  {
+    "id": 2517,
+    "name": "גיבלי",
+    "engName": "Ghibli",
+    "brandId": 28
+  },
+  {
+    "id": 2487,
+    "name": "גראן-טוריסמו",
+    "engName": "Grantourismo",
+    "brandId": 28
+  },
+  {
+    "id": 2540,
+    "name": "גראן-קבריו",
+    "engName": "Gran-Cabrio",
+    "brandId": 28
+  },
+  {
+    "id": 3784,
+    "name": "גרקאלה",
+    "engName": "Grecale ",
+    "brandId": 28
+  },
+  {
+    "id": 2843,
+    "name": "לבנטה ",
+    "engName": "Levante",
+    "brandId": 28
+  },
+  {
+    "id": 2310,
+    "name": "קוואטרופורטה",
+    "engName": "Quattroporte",
+    "brandId": 28
+  },
+  {
+    "id": 2698,
+    "name": "JCW",
+    "engName": "JCW",
+    "brandId": 29
+  },
+  {
+    "id": 1422,
+    "name": "ONE",
+    "engName": "ONE",
+    "brandId": 29
+  },
+  {
+    "id": 2373,
+    "name": "פייסמן",
+    "engName": "Paceman",
+    "brandId": 29
+  },
+  {
+    "id": 1749,
+    "name": "קאנטרימן",
+    "engName": "Countryman",
+    "brandId": 29
+  },
+  {
+    "id": 2365,
+    "name": "קופה",
+    "engName": "Coupe",
+    "brandId": 29
+  },
+  {
+    "id": 1423,
+    "name": "קופר",
+    "engName": "Cooper",
+    "brandId": 29
+  },
+  {
+    "id": 3121,
+    "name": "קופר קבריולט",
+    "engName": null,
+    "brandId": 29
+  },
+  {
+    "id": 1424,
+    "name": "קלאבמן",
+    "engName": "Clubman",
+    "brandId": 29
+  },
+  {
+    "id": 2368,
+    "name": "רודסטר",
+    "engName": "Roadster",
+    "brandId": 29
+  },
+  {
+    "id": 1779,
+    "name": "ASX",
+    "engName": "ASX",
+    "brandId": 30
+  },
+  {
+    "id": 1582,
+    "name": "GT3000",
+    "engName": "GT3000",
+    "brandId": 30
+  },
+  {
+    "id": 1750,
+    "name": "I-MIEV",
+    "engName": "I-MIEV",
+    "brandId": 30
+  },
+  {
+    "id": 1486,
+    "name": "אאוטלנדר",
+    "engName": "Outlander",
+    "brandId": 30
+  },
+  {
+    "id": 3117,
+    "name": "אאוטלנדר PHEV",
+    "engName": null,
+    "brandId": 30
+  },
+  {
+    "id": 2465,
+    "name": "אטראז'",
+    "engName": "Attrage",
+    "brandId": 30
+  },
+  {
+    "id": 942,
+    "name": "אקליפס",
+    "engName": "Eclipse",
+    "brandId": 30
+  },
+  {
+    "id": 2940,
+    "name": "אקליפס קרוס",
+    "engName": "Eclipse Cross",
+    "brandId": 30
+  },
+  {
+    "id": 193,
+    "name": "גאלאנט",
+    "engName": "Galant",
+    "brandId": 30
+  },
+  {
+    "id": 194,
+    "name": "גרנדיס",
+    "engName": "Grandis",
+    "brandId": 30
+  },
+  {
+    "id": 195,
+    "name": "כריזמה",
+    "engName": "Carisma",
+    "brandId": 30
+  },
+  {
+    "id": 196,
+    "name": "לנסר (עד 1993)",
+    "engName": "Lancer",
+    "brandId": 30
+  },
+  {
+    "id": 192,
+    "name": "לנסר איוולושן",
+    "engName": "Lancer Evolution",
+    "brandId": 30
+  },
+  {
+    "id": 1420,
+    "name": "לנסר הדור החדש",
+    "engName": "Lancer New",
+    "brandId": 30
+  },
+  {
+    "id": 1587,
+    "name": "לנסר ספורטבק",
+    "engName": "Lancer Sportback",
+    "brandId": 30
+  },
+  {
+    "id": 197,
+    "name": "לנסר קלאסיק",
+    "engName": "Lancer Classic",
+    "brandId": 30
+  },
+  {
+    "id": 3749,
+    "name": "מונטרו ספורט",
+    "engName": null,
+    "brandId": 30
+  },
+  {
+    "id": 198,
+    "name": "סופר לנסר",
+    "engName": "Super Lancer",
+    "brandId": 30
+  },
+  {
+    "id": 199,
+    "name": "סיגמא",
+    "engName": "Sigma",
+    "brandId": 30
+  },
+  {
+    "id": 200,
+    "name": "ספייס וואגן",
+    "engName": "Space Wagon",
+    "brandId": 30
+  },
+  {
+    "id": 2380,
+    "name": "ספייס סטאר",
+    "engName": "Space Star",
+    "brandId": 30
+  },
+  {
+    "id": 201,
+    "name": "ספייס ראנר",
+    "engName": "Space Runner",
+    "brandId": 30
+  },
+  {
+    "id": 1491,
+    "name": "פאג'רו ספורט",
+    "engName": "Pajero Sport",
+    "brandId": 30
+  },
+  {
+    "id": 591,
+    "name": "פג'רו ארוך",
+    "engName": "Pajero Long",
+    "brandId": 30
+  },
+  {
+    "id": 1514,
+    "name": "פג'רו קצר",
+    "engName": "Pajero Short",
+    "brandId": 30
+  },
+  {
+    "id": 202,
+    "name": "צ'אמפ",
+    "engName": "Champ",
+    "brandId": 30
+  },
+  {
+    "id": 203,
+    "name": "קולט",
+    "engName": "Colt",
+    "brandId": 30
+  },
+  {
+    "id": 1572,
+    "name": "L200 האנטר 2X4",
+    "engName": "L200 Hunter 2X4",
+    "brandId": 30
+  },
+  {
+    "id": 1399,
+    "name": "L200 האנטר 4X4",
+    "engName": "L200 Hutner 4X4",
+    "brandId": 30
+  },
+  {
+    "id": 461,
+    "name": "L300",
+    "engName": "L300",
+    "brandId": 30
+  },
+  {
+    "id": 1400,
+    "name": "בופאלו",
+    "engName": "Buffalo",
+    "brandId": 30
+  },
+  {
+    "id": 2657,
+    "name": "טריטון",
+    "engName": "Triton",
+    "brandId": 30
+  },
+  {
+    "id": 460,
+    "name": "טרייטון / L200 2X4",
+    "engName": "Triton L200",
+    "brandId": 30
+  },
+  {
+    "id": 1571,
+    "name": "טרייטון / L200 4X4",
+    "engName": "Triton L200",
+    "brandId": 30
+  },
+  {
+    "id": 1573,
+    "name": "מאגנום 2X4",
+    "engName": "Magnum 2X4",
+    "brandId": 30
+  },
+  {
+    "id": 462,
+    "name": "מאגנום 4X4",
+    "engName": "Magnum 4X4",
+    "brandId": 30
+  },
+  {
+    "id": 463,
+    "name": "ספייס גיר L400",
+    "engName": "Space L400",
+    "brandId": 30
+  },
+  {
+    "id": 1783,
+    "name": "קאנטר",
+    "engName": "Canter",
+    "brandId": 30
+  },
+  {
+    "id": 1406,
+    "name": "A-Class",
+    "engName": "A-Class",
+    "brandId": 31
+  },
+  {
+    "id": 1413,
+    "name": "B-Class",
+    "engName": "B-Class",
+    "brandId": 31
+  },
+  {
+    "id": 3238,
+    "name": "B-Class Taxi",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 1407,
+    "name": "C-Class",
+    "engName": "C-Class ",
+    "brandId": 31
+  },
+  {
+    "id": 3239,
+    "name": "C-Class Taxi",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 1751,
+    "name": "C-Class קופה / קבריולט",
+    "engName": "C-Class Coupe",
+    "brandId": 31
+  },
+  {
+    "id": 1417,
+    "name": "CE",
+    "engName": "CE",
+    "brandId": 31
+  },
+  {
+    "id": 1416,
+    "name": "CL",
+    "engName": "CL",
+    "brandId": 31
+  },
+  {
+    "id": 2419,
+    "name": "CLA",
+    "engName": "CLA",
+    "brandId": 31
+  },
+  {
+    "id": 1590,
+    "name": "CLC",
+    "engName": "CLC",
+    "brandId": 31
+  },
+  {
+    "id": 4050,
+    "name": "CLE",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 1410,
+    "name": "CLK",
+    "engName": "CLK",
+    "brandId": 31
+  },
+  {
+    "id": 1412,
+    "name": "CLS",
+    "engName": "CLS",
+    "brandId": 31
+  },
+  {
+    "id": 1408,
+    "name": "E-Class",
+    "engName": "E-Class ",
+    "brandId": 31
+  },
+  {
+    "id": 3240,
+    "name": "E-Class Taxi",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 1623,
+    "name": "E-Class קופה / קבריולט",
+    "engName": "E-Class Coupe/Cabriolet",
+    "brandId": 31
+  },
+  {
+    "id": 3426,
+    "name": "EQA",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3933,
+    "name": "EQA250 Plus",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3693,
+    "name": "EQB",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3236,
+    "name": "EQC",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3690,
+    "name": "EQE",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 4074,
+    "name": "EQE SUV",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3611,
+    "name": "EQS",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 4095,
+    "name": "EQS SUV",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3675,
+    "name": "EQV",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 592,
+    "name": "G Class",
+    "engName": "G Class",
+    "brandId": 31
+  },
+  {
+    "id": 1070,
+    "name": "GL Class",
+    "engName": "GL Class",
+    "brandId": 31
+  },
+  {
+    "id": 2509,
+    "name": "GLA",
+    "engName": "GLA",
+    "brandId": 31
+  },
+  {
+    "id": 3341,
+    "name": "GLB",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 2667,
+    "name": "GLC",
+    "engName": "GLC",
+    "brandId": 31
+  },
+  {
+    "id": 2882,
+    "name": "GLC-Class קופה",
+    "engName": "GLC-Class Coupe",
+    "brandId": 31
+  },
+  {
+    "id": 2671,
+    "name": "GLE",
+    "engName": "GLE",
+    "brandId": 31
+  },
+  {
+    "id": 2668,
+    "name": "GLE קופה",
+    "engName": "GLE Coupe",
+    "brandId": 31
+  },
+  {
+    "id": 1492,
+    "name": "GLK Class",
+    "engName": "GLK Class",
+    "brandId": 31
+  },
+  {
+    "id": 2793,
+    "name": "GLS Class",
+    "engName": "GLS Class  ",
+    "brandId": 31
+  },
+  {
+    "id": 2617,
+    "name": "GT AMG",
+    "engName": "GT AMG",
+    "brandId": 31
+  },
+  {
+    "id": 1493,
+    "name": "ML Class",
+    "engName": "ML Class ",
+    "brandId": 31
+  },
+  {
+    "id": 1547,
+    "name": "R-Class",
+    "engName": "R-Class",
+    "brandId": 31
+  },
+  {
+    "id": 1409,
+    "name": "S-Class",
+    "engName": "S-Class",
+    "brandId": 31
+  },
+  {
+    "id": 2795,
+    "name": "S-Class קבריולט",
+    "engName": "S-Class Cabriolet",
+    "brandId": 31
+  },
+  {
+    "id": 2598,
+    "name": "S-Class קופה",
+    "engName": "S-Class Coupe",
+    "brandId": 31
+  },
+  {
+    "id": 1415,
+    "name": "SE",
+    "engName": "SE",
+    "brandId": 31
+  },
+  {
+    "id": 1414,
+    "name": "SL",
+    "engName": "SL",
+    "brandId": 31
+  },
+  {
+    "id": 2906,
+    "name": "SLC",
+    "engName": "SLC",
+    "brandId": 31
+  },
+  {
+    "id": 1411,
+    "name": "SLK",
+    "engName": "SLK",
+    "brandId": 31
+  },
+  {
+    "id": 1752,
+    "name": "SLS",
+    "engName": "SLS",
+    "brandId": 31
+  },
+  {
+    "id": 2860,
+    "name": "V-Class",
+    "engName": "V-Class",
+    "brandId": 31
+  },
+  {
+    "id": 3241,
+    "name": "V-Class Taxi",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3045,
+    "name": "מטריס",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 472,
+    "name": "313",
+    "engName": "313",
+    "brandId": 31
+  },
+  {
+    "id": 473,
+    "name": "316",
+    "engName": "316",
+    "brandId": 31
+  },
+  {
+    "id": 2338,
+    "name": "319",
+    "engName": "319",
+    "brandId": 31
+  },
+  {
+    "id": 2619,
+    "name": "413",
+    "engName": "413",
+    "brandId": 31
+  },
+  {
+    "id": 3129,
+    "name": "X-Class",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3004,
+    "name": "אטגו",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 1261,
+    "name": "ואריו",
+    "engName": "Vario",
+    "brandId": 31
+  },
+  {
+    "id": 1250,
+    "name": "ויאנו",
+    "engName": "Viano",
+    "brandId": 31
+  },
+  {
+    "id": 474,
+    "name": "ויטו",
+    "engName": "Vito",
+    "brandId": 31
+  },
+  {
+    "id": 3629,
+    "name": "ויטו חשמלי",
+    "engName": null,
+    "brandId": 31
+  },
+  {
+    "id": 3259,
+    "name": "ויטו טקסי",
+    "engName": "Vito taxi",
+    "brandId": 31
+  },
+  {
+    "id": 2478,
+    "name": "יונימוג",
+    "engName": "Unimog",
+    "brandId": 31
+  },
+  {
+    "id": 2696,
+    "name": "סיטאן / Citan",
+    "engName": "Citan",
+    "brandId": 31
+  },
+  {
+    "id": 2839,
+    "name": "ספרינטר 313/316",
+    "engName": "Sprinter 313/316",
+    "brandId": 31
+  },
+  {
+    "id": 1728,
+    "name": "ספרינטר היסעים",
+    "engName": "416",
+    "brandId": 31
+  },
+  {
+    "id": 475,
+    "name": "ספרינטר מסחרי",
+    "engName": "Sprinter",
+    "brandId": 31
+  },
+  {
+    "id": 1707,
+    "name": "370Z",
+    "engName": "Z370",
+    "brandId": 32
+  },
+  {
+    "id": 4120,
+    "name": "Ariya",
+    "engName": null,
+    "brandId": 32
+  },
+  {
+    "id": 1753,
+    "name": "GT-R",
+    "engName": "GT-R",
+    "brandId": 32
+  },
+  {
+    "id": 1311,
+    "name": "SX 200",
+    "engName": "SX 200",
+    "brandId": 32
+  },
+  {
+    "id": 1030,
+    "name": "Z350",
+    "engName": "Z350",
+    "brandId": 32
+  },
+  {
+    "id": 2515,
+    "name": "אלטימה",
+    "engName": "Altima",
+    "brandId": 32
+  },
+  {
+    "id": 222,
+    "name": "אלמרה",
+    "engName": "Almera",
+    "brandId": 32
+  },
+  {
+    "id": 595,
+    "name": "אקס טרייל",
+    "engName": "X Trail",
+    "brandId": 32
+  },
+  {
+    "id": 1441,
+    "name": "ארמדה",
+    "engName": "Armada",
+    "brandId": 32
+  },
+  {
+    "id": 1704,
+    "name": "ג'וק / Juke",
+    "engName": "Juke",
+    "brandId": 32
+  },
+  {
+    "id": 1282,
+    "name": "טידה",
+    "engName": "Tida",
+    "brandId": 32
+  },
+  {
+    "id": 1501,
+    "name": "טראנו ארוך",
+    "engName": "Terrano",
+    "brandId": 32
+  },
+  {
+    "id": 1504,
+    "name": "טראנו קצר",
+    "engName": "Terrano",
+    "brandId": 32
+  },
+  {
+    "id": 2383,
+    "name": "ליף",
+    "engName": "Leaf",
+    "brandId": 32
+  },
+  {
+    "id": 1020,
+    "name": "מוראנו",
+    "engName": "Murano",
+    "brandId": 32
+  },
+  {
+    "id": 998,
+    "name": "מיקרה",
+    "engName": "Micra",
+    "brandId": 32
+  },
+  {
+    "id": 223,
+    "name": "מקסימה",
+    "engName": "Maxima",
+    "brandId": 32
+  },
+  {
+    "id": 1072,
+    "name": "נוט / NOTE",
+    "engName": "Note",
+    "brandId": 32
+  },
+  {
+    "id": 224,
+    "name": "סאני",
+    "engName": "Suny",
+    "brandId": 32
+  },
+  {
+    "id": 1456,
+    "name": "סנטרה",
+    "engName": "Sentra",
+    "brandId": 32
+  },
+  {
+    "id": 995,
+    "name": "פאת'פיינדר",
+    "engName": "Pathfinder",
+    "brandId": 32
+  },
+  {
+    "id": 2809,
+    "name": "פולסר / Pulsar",
+    "engName": "Pulsar",
+    "brandId": 32
+  },
+  {
+    "id": 597,
+    "name": "פטרול",
+    "engName": "Patrol",
+    "brandId": 32
+  },
+  {
+    "id": 225,
+    "name": "פרימרה",
+    "engName": "Primera",
+    "brandId": 32
+  },
+  {
+    "id": 1457,
+    "name": "קווסט",
+    "engName": "Quest",
+    "brandId": 32
+  },
+  {
+    "id": 1181,
+    "name": "קשקאי",
+    "engName": "Qashqai",
+    "brandId": 32
+  },
+  {
+    "id": 1500,
+    "name": "קשקאי פלוס 2",
+    "engName": "2 Qashqai Plus",
+    "brandId": 32
+  },
+  {
+    "id": 2295,
+    "name": "NV200",
+    "engName": "NV200",
+    "brandId": 32
+  },
+  {
+    "id": 1440,
+    "name": "אקס טרה",
+    "engName": "X Terra",
+    "brandId": 32
+  },
+  {
+    "id": 476,
+    "name": "וואנט",
+    "engName": "Vanette",
+    "brandId": 32
+  },
+  {
+    "id": 1574,
+    "name": "ווינר 2X4",
+    "engName": "Winner",
+    "brandId": 32
+  },
+  {
+    "id": 938,
+    "name": "ווינר 4X4",
+    "engName": "Winner",
+    "brandId": 32
+  },
+  {
+    "id": 477,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 32
+  },
+  {
+    "id": 478,
+    "name": "טרייד",
+    "engName": "Trade",
+    "brandId": 32
+  },
+  {
+    "id": 479,
+    "name": "לארגו 2X4",
+    "engName": "Largo",
+    "brandId": 32
+  },
+  {
+    "id": 1575,
+    "name": "לארגו 4X4",
+    "engName": "Largo",
+    "brandId": 32
+  },
+  {
+    "id": 1576,
+    "name": "נבארה 2X4",
+    "engName": "Navara 2X4",
+    "brandId": 32
+  },
+  {
+    "id": 1059,
+    "name": "נבארה 4X4",
+    "engName": "Navara 4X4",
+    "brandId": 32
+  },
+  {
+    "id": 480,
+    "name": "סרנה 2X4",
+    "engName": "Serena 4X2",
+    "brandId": 32
+  },
+  {
+    "id": 1577,
+    "name": "סרנה 4X4",
+    "engName": "Serena 4X4",
+    "brandId": 32
+  },
+  {
+    "id": 481,
+    "name": "קבסטאר",
+    "engName": "Cabstar",
+    "brandId": 32
+  },
+  {
+    "id": 226,
+    "name": "9-3",
+    "engName": "03-Sep",
+    "brandId": 33
+  },
+  {
+    "id": 227,
+    "name": "9-5",
+    "engName": "05-Sep",
+    "brandId": 33
+  },
+  {
+    "id": 228,
+    "name": "900",
+    "engName": "900",
+    "brandId": 33
+  },
+  {
+    "id": 229,
+    "name": "9000",
+    "engName": "9000",
+    "brandId": 33
+  },
+  {
+    "id": 230,
+    "name": "קונברטיבל",
+    "engName": "Carnival",
+    "brandId": 33
+  },
+  {
+    "id": 1076,
+    "name": "אקטיון",
+    "engName": "Action",
+    "brandId": 34
+  },
+  {
+    "id": 2689,
+    "name": "טיבולי",
+    "engName": "Tivoli",
+    "brandId": 34
+  },
+  {
+    "id": 598,
+    "name": "מוסו",
+    "engName": "Musso",
+    "brandId": 34
+  },
+  {
+    "id": 599,
+    "name": "קורנדו",
+    "engName": "Korando",
+    "brandId": 34
+  },
+  {
+    "id": 1347,
+    "name": "קיירון",
+    "engName": "Kyron",
+    "brandId": 34
+  },
+  {
+    "id": 3110,
+    "name": "רודיוס",
+    "engName": "Rodius",
+    "brandId": 34
+  },
+  {
+    "id": 600,
+    "name": "רקסטון",
+    "engName": "Rexton",
+    "brandId": 34
+  },
+  {
+    "id": 2359,
+    "name": "אקטיון ספורט",
+    "engName": "Action",
+    "brandId": 34
+  },
+  {
+    "id": 1000,
+    "name": "מוסו 2X4",
+    "engName": "Musso 2X4",
+    "brandId": 34
+  },
+  {
+    "id": 1578,
+    "name": "מוסו 4X4",
+    "engName": "Musso 4X4",
+    "brandId": 34
+  },
+  {
+    "id": 1210,
+    "name": "B3 האצ'בק",
+    "engName": "B3 Hatchback",
+    "brandId": 35
+  },
+  {
+    "id": 1588,
+    "name": "B3 סדאן",
+    "engName": "B3 Sedan",
+    "brandId": 35
+  },
+  {
+    "id": 891,
+    "name": "B4",
+    "engName": "B4",
+    "brandId": 35
+  },
+  {
+    "id": 1029,
+    "name": "B9 טריבקה",
+    "engName": "B9 Tribeca",
+    "brandId": 35
+  },
+  {
+    "id": 2348,
+    "name": "BRZ",
+    "engName": "BRZ",
+    "brandId": 35
+  },
+  {
+    "id": 234,
+    "name": "SVX",
+    "engName": "SVX",
+    "brandId": 35
+  },
+  {
+    "id": 1755,
+    "name": "XV",
+    "engName": "XV",
+    "brandId": 35
+  },
+  {
+    "id": 239,
+    "name": "אאוטבק",
+    "engName": "Outback",
+    "brandId": 35
+  },
+  {
+    "id": 2470,
+    "name": "אאוטבק החדשה",
+    "engName": "Outback",
+    "brandId": 35
+  },
+  {
+    "id": 3395,
+    "name": "אבולטיס",
+    "engName": null,
+    "brandId": 35
+  },
+  {
+    "id": 1418,
+    "name": "אימפרזה WRX STI",
+    "engName": "Impreza WRX STI",
+    "brandId": 35
+  },
+  {
+    "id": 235,
+    "name": "אימפרזה גרנד לאונה",
+    "engName": "Impreza Grand Leone",
+    "brandId": 35
+  },
+  {
+    "id": 2379,
+    "name": "אימפרזה החדשה",
+    "engName": "Impreza",
+    "brandId": 35
+  },
+  {
+    "id": 1266,
+    "name": "אימפרזה טורבו",
+    "engName": "Impreza Turbo",
+    "brandId": 35
+  },
+  {
+    "id": 1430,
+    "name": "אימפרזה ניו אייג'",
+    "engName": "Impreza New Age",
+    "brandId": 35
+  },
+  {
+    "id": 237,
+    "name": "ג'סטי",
+    "engName": "Justy",
+    "brandId": 35
+  },
+  {
+    "id": 886,
+    "name": "לאונה",
+    "engName": "Leona",
+    "brandId": 35
+  },
+  {
+    "id": 2741,
+    "name": "לבורג",
+    "engName": "Levorg",
+    "brandId": 35
+  },
+  {
+    "id": 242,
+    "name": "לגאסי",
+    "engName": "Legacy",
+    "brandId": 35
+  },
+  {
+    "id": 1507,
+    "name": "פורסטר",
+    "engName": "Forester",
+    "brandId": 35
+  },
+  {
+    "id": 4019,
+    "name": "קרוסטרק ",
+    "engName": null,
+    "brandId": 35
+  },
+  {
+    "id": 483,
+    "name": "E10",
+    "engName": "E10",
+    "brandId": 35
+  },
+  {
+    "id": 484,
+    "name": "E12",
+    "engName": "E12",
+    "brandId": 35
+  },
+  {
+    "id": 2827,
+    "name": "GLF",
+    "engName": "GLF",
+    "brandId": 35
+  },
+  {
+    "id": 485,
+    "name": "טנדר 2X4",
+    "engName": "Tender",
+    "brandId": 35
+  },
+  {
+    "id": 1579,
+    "name": "טנדר 4X4",
+    "engName": "Tender",
+    "brandId": 35
+  },
+  {
+    "id": 245,
+    "name": "רקס",
+    "engName": "Rex",
+    "brandId": 35
+  },
+  {
+    "id": 1284,
+    "name": "SX4",
+    "engName": "SX4",
+    "brandId": 36
+  },
+  {
+    "id": 2406,
+    "name": "SX4 קרוסאובר",
+    "engName": "Crossover",
+    "brandId": 36
+  },
+  {
+    "id": 1800,
+    "name": "XL7",
+    "engName": "XL7",
+    "brandId": 36
+  },
+  {
+    "id": 246,
+    "name": "איגניס",
+    "engName": "Ignis",
+    "brandId": 36
+  },
+  {
+    "id": 247,
+    "name": "אלטו",
+    "engName": "Alto",
+    "brandId": 36
+  },
+  {
+    "id": 248,
+    "name": "בלנו",
+    "engName": "Baleno",
+    "brandId": 36
+  },
+  {
+    "id": 603,
+    "name": "ג'ימני",
+    "engName": "Jimny",
+    "brandId": 36
+  },
+  {
+    "id": 605,
+    "name": "גרנד ויטרה",
+    "engName": "Grand Vitara",
+    "brandId": 36
+  },
+  {
+    "id": 249,
+    "name": "וואגון",
+    "engName": "Wagon",
+    "brandId": 36
+  },
+  {
+    "id": 606,
+    "name": "ויטרה",
+    "engName": "Vitara",
+    "brandId": 36
+  },
+  {
+    "id": 251,
+    "name": "ליאנה",
+    "engName": "Liana",
+    "brandId": 36
+  },
+  {
+    "id": 252,
+    "name": "מרוטי",
+    "engName": "Maruti",
+    "brandId": 36
+  },
+  {
+    "id": 254,
+    "name": "סוויפט",
+    "engName": "Swift",
+    "brandId": 36
+  },
+  {
+    "id": 2740,
+    "name": "סלריו",
+    "engName": "Celerio",
+    "brandId": 36
+  },
+  {
+    "id": 604,
+    "name": "סמוראי",
+    "engName": "Samurai",
+    "brandId": 36
+  },
+  {
+    "id": 1655,
+    "name": "ספלאש",
+    "engName": "Splash",
+    "brandId": 36
+  },
+  {
+    "id": 979,
+    "name": "X90",
+    "engName": "X90",
+    "brandId": 36
+  },
+  {
+    "id": 488,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 36
+  },
+  {
+    "id": 255,
+    "name": "סופר בלנו",
+    "engName": "Super Baleno",
+    "brandId": 36
+  },
+  {
+    "id": 489,
+    "name": "קארי",
+    "engName": "Carry",
+    "brandId": 36
+  },
+  {
+    "id": 2842,
+    "name": "אטקה",
+    "engName": "Ateca",
+    "brandId": 37
+  },
+  {
+    "id": 1625,
+    "name": "איביזה",
+    "engName": "Ibiza",
+    "brandId": 37
+  },
+  {
+    "id": 2378,
+    "name": "אלהמברה",
+    "engName": "Alhambra",
+    "brandId": 37
+  },
+  {
+    "id": 1054,
+    "name": "אלתיאה",
+    "engName": "Altea",
+    "brandId": 37
+  },
+  {
+    "id": 2817,
+    "name": "אלתיאה XL",
+    "engName": "Altea XL",
+    "brandId": 37
+  },
+  {
+    "id": 2952,
+    "name": "ארונה",
+    "engName": null,
+    "brandId": 37
+  },
+  {
+    "id": 257,
+    "name": "טולדו",
+    "engName": "Toledo",
+    "brandId": 37
+  },
+  {
+    "id": 3489,
+    "name": "טראקו",
+    "engName": null,
+    "brandId": 37
+  },
+  {
+    "id": 258,
+    "name": "לאון",
+    "engName": "Leon",
+    "brandId": 37
+  },
+  {
+    "id": 2346,
+    "name": "מי / MII",
+    "engName": "MII",
+    "brandId": 37
+  },
+  {
+    "id": 259,
+    "name": "מלגה",
+    "engName": "Malaga",
+    "brandId": 37
+  },
+  {
+    "id": 261,
+    "name": "קורדובה",
+    "engName": "Cordoba",
+    "brandId": 37
+  },
+  {
+    "id": 490,
+    "name": "אינקה",
+    "engName": "Inca",
+    "brandId": 37
+  },
+  {
+    "id": 260,
+    "name": "מרבלה",
+    "engName": "Marbella",
+    "brandId": 37
+  },
+  {
+    "id": 3261,
+    "name": "קופרה אטקה",
+    "engName": null,
+    "brandId": 37
+  },
+  {
+    "id": 262,
+    "name": "רונדה",
+    "engName": "Ronda",
+    "brandId": 37
+  },
+  {
+    "id": 263,
+    "name": "AX",
+    "engName": "AX",
+    "brandId": 38
+  },
+  {
+    "id": 2364,
+    "name": "C אליזה",
+    "engName": "C Alize",
+    "brandId": 38
+  },
+  {
+    "id": 1509,
+    "name": "C קרוסר",
+    "engName": "C-CROSSER",
+    "brandId": 38
+  },
+  {
+    "id": 1756,
+    "name": "C-ZERO",
+    "engName": "C-ZERO",
+    "brandId": 38
+  },
+  {
+    "id": 1676,
+    "name": "C1",
+    "engName": "C1",
+    "brandId": 38
+  },
+  {
+    "id": 999,
+    "name": "C2",
+    "engName": "C2",
+    "brandId": 38
+  },
+  {
+    "id": 265,
+    "name": "C3",
+    "engName": "C3 ",
+    "brandId": 38
+  },
+  {
+    "id": 3009,
+    "name": "C3 איירקרוס",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 1684,
+    "name": "C3 פיקאסו",
+    "engName": "C3 Picasso",
+    "brandId": 38
+  },
+  {
+    "id": 904,
+    "name": "C4",
+    "engName": "C4 ",
+    "brandId": 38
+  },
+  {
+    "id": 4023,
+    "name": "C4 -X",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 3032,
+    "name": "C4 ספייסטורר",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 1348,
+    "name": "C4 פיקאסו",
+    "engName": "C4 Picasso",
+    "brandId": 38
+  },
+  {
+    "id": 2638,
+    "name": "C4 קקטוס",
+    "engName": "C4 Cactus",
+    "brandId": 38
+  },
+  {
+    "id": 266,
+    "name": "C5",
+    "engName": "C5 ",
+    "brandId": 38
+  },
+  {
+    "id": 3152,
+    "name": "C5 איירקרוס",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 1283,
+    "name": "C6",
+    "engName": "C6",
+    "brandId": 38
+  },
+  {
+    "id": 1032,
+    "name": "C8",
+    "engName": "C8",
+    "brandId": 38
+  },
+  {
+    "id": 267,
+    "name": "CX",
+    "engName": "CX",
+    "brandId": 38
+  },
+  {
+    "id": 1709,
+    "name": "DS3",
+    "engName": "DS3",
+    "brandId": 38
+  },
+  {
+    "id": 3087,
+    "name": "DS3 קבריולט",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 2466,
+    "name": "DS4",
+    "engName": "DS4",
+    "brandId": 38
+  },
+  {
+    "id": 2314,
+    "name": "DS5",
+    "engName": "DS5",
+    "brandId": 38
+  },
+  {
+    "id": 3783,
+    "name": "E-C4",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 269,
+    "name": "XM",
+    "engName": "XM",
+    "brandId": 38
+  },
+  {
+    "id": 270,
+    "name": "ZX",
+    "engName": "ZX",
+    "brandId": 38
+  },
+  {
+    "id": 272,
+    "name": "סקסו",
+    "engName": "Saxo",
+    "brandId": 38
+  },
+  {
+    "id": 274,
+    "name": "קסנטיה",
+    "engName": "Xantia",
+    "brandId": 38
+  },
+  {
+    "id": 275,
+    "name": "קסרה",
+    "engName": "Xsara",
+    "brandId": 38
+  },
+  {
+    "id": 273,
+    "name": "קסרה פיקאסו",
+    "engName": "Picasso",
+    "brandId": 38
+  },
+  {
+    "id": 264,
+    "name": "BX",
+    "engName": "BX",
+    "brandId": 38
+  },
+  {
+    "id": 491,
+    "name": "C15",
+    "engName": "C15",
+    "brandId": 38
+  },
+  {
+    "id": 1099,
+    "name": "C15",
+    "engName": "C15",
+    "brandId": 38
+  },
+  {
+    "id": 493,
+    "name": "ברלינגו דור 1 (עד 2012)",
+    "engName": "Berlingo",
+    "brandId": 38
+  },
+  {
+    "id": 1784,
+    "name": "ברלינגו דור 2 (2008-2019)",
+    "engName": "Berlingo",
+    "brandId": 38
+  },
+  {
+    "id": 3062,
+    "name": "ברלינגו דור 3 (2018 ואילך)",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 3740,
+    "name": "ברלינגו חשמלית",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 2784,
+    "name": "ג'אמפי ארוך",
+    "engName": "Jumpy",
+    "brandId": 38
+  },
+  {
+    "id": 3746,
+    "name": "ג'אמפי חשמלית",
+    "engName": null,
+    "brandId": 38
+  },
+  {
+    "id": 1785,
+    "name": "ג'אמפי קצר/בינוני",
+    "engName": "Jumpy",
+    "brandId": 38
+  },
+  {
+    "id": 495,
+    "name": "ג'אמפר",
+    "engName": "Jumper",
+    "brandId": 38
+  },
+  {
+    "id": 271,
+    "name": "ויזה",
+    "engName": "Visa",
+    "brandId": 38
+  },
+  {
+    "id": 2340,
+    "name": "נמו / Nemo",
+    "engName": "Nemo",
+    "brandId": 38
+  },
+  {
+    "id": 4042,
+    "name": "#1",
+    "engName": null,
+    "brandId": 39
+  },
+  {
+    "id": 4100,
+    "name": "#3",
+    "engName": null,
+    "brandId": 39
+  },
+  {
+    "id": 2631,
+    "name": "בראבוס",
+    "engName": "Brabus",
+    "brandId": 39
+  },
+  {
+    "id": 1255,
+    "name": "פולס",
+    "engName": "Plus",
+    "brandId": 39
+  },
+  {
+    "id": 1758,
+    "name": "פורטו",
+    "engName": "Fourtwo",
+    "brandId": 39
+  },
+  {
+    "id": 2654,
+    "name": "פורפור",
+    "engName": "Fourfour",
+    "brandId": 39
+  },
+  {
+    "id": 284,
+    "name": "פיור",
+    "engName": "Pure",
+    "brandId": 39
+  },
+  {
+    "id": 1256,
+    "name": "פשיין",
+    "engName": "Passion",
+    "brandId": 39
+  },
+  {
+    "id": 1259,
+    "name": "רודסטר",
+    "engName": "Roadster",
+    "brandId": 39
+  },
+  {
+    "id": 276,
+    "name": "אוקטביה",
+    "engName": "Octavia",
+    "brandId": 40
+  },
+  {
+    "id": 3115,
+    "name": "אוקטביה RS",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 1759,
+    "name": "אוקטביה ספייס",
+    "engName": "Octavia Space",
+    "brandId": 40
+  },
+  {
+    "id": 3482,
+    "name": "אניאק",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 1791,
+    "name": "ייטי / Yeti",
+    "engName": "Yeti",
+    "brandId": 40
+  },
+  {
+    "id": 277,
+    "name": "ניו פליסיה",
+    "engName": "New Felicia",
+    "brandId": 40
+  },
+  {
+    "id": 3227,
+    "name": "סופרב (2019 ואילך)",
+    "engName": "Superb",
+    "brandId": 40
+  },
+  {
+    "id": 3228,
+    "name": "סופרב (עד 2019) ",
+    "engName": "Superb",
+    "brandId": 40
+  },
+  {
+    "id": 2345,
+    "name": "סיטיגו / Citigo",
+    "engName": "Citigo",
+    "brandId": 40
+  },
+  {
+    "id": 3346,
+    "name": "סקאלה",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 279,
+    "name": "פאביה",
+    "engName": "Fabia",
+    "brandId": 40
+  },
+  {
+    "id": 1731,
+    "name": "פאביה ספייס",
+    "engName": "Fabia Space",
+    "brandId": 40
+  },
+  {
+    "id": 282,
+    "name": "פורמן",
+    "engName": "Forman",
+    "brandId": 40
+  },
+  {
+    "id": 280,
+    "name": "פיבוריט",
+    "engName": "Favorit",
+    "brandId": 40
+  },
+  {
+    "id": 281,
+    "name": "פליסיה",
+    "engName": "Felicia",
+    "brandId": 40
+  },
+  {
+    "id": 3276,
+    "name": "קאמיק",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 3001,
+    "name": "קארוק",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 2893,
+    "name": "קודיאק",
+    "engName": "Kodiaq",
+    "brandId": 40
+  },
+  {
+    "id": 2372,
+    "name": "ראפיד",
+    "engName": "Rapid",
+    "brandId": 40
+  },
+  {
+    "id": 2675,
+    "name": "ראפיד ספייסבק",
+    "engName": "Spaceback",
+    "brandId": 40
+  },
+  {
+    "id": 1285,
+    "name": "רומסטר",
+    "engName": "Roomster",
+    "brandId": 40
+  },
+  {
+    "id": 3948,
+    "name": "אניאק קופה IV",
+    "engName": null,
+    "brandId": 40
+  },
+  {
+    "id": 496,
+    "name": "ואן",
+    "engName": "Van",
+    "brandId": 40
+  },
+  {
+    "id": 497,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 40
+  },
+  {
+    "id": 498,
+    "name": "פורמן",
+    "engName": "Forman",
+    "brandId": 40
+  },
+  {
+    "id": 3874,
+    "name": "ID.5",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3441,
+    "name": "ID3",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3480,
+    "name": "ID4",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3941,
+    "name": "ID6 CROZZ",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3316,
+    "name": "T- Roc",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3273,
+    "name": "T-Cross",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 3145,
+    "name": "אטלס",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 1286,
+    "name": "איוס",
+    "engName": "EOS",
+    "brandId": 41
+  },
+  {
+    "id": 2488,
+    "name": "אפ / UP",
+    "engName": "Up",
+    "brandId": 41
+  },
+  {
+    "id": 3391,
+    "name": "ארטאון",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 301,
+    "name": "בורה",
+    "engName": "Bora",
+    "brandId": 41
+  },
+  {
+    "id": 302,
+    "name": "ג'טה",
+    "engName": "Jetta",
+    "brandId": 41
+  },
+  {
+    "id": 303,
+    "name": "גולף",
+    "engName": "Golf",
+    "brandId": 41
+  },
+  {
+    "id": 4021,
+    "name": "גולף GTE",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 1648,
+    "name": "גולף GTI",
+    "engName": "Golf GTI",
+    "brandId": 41
+  },
+  {
+    "id": 2685,
+    "name": "גולף R",
+    "engName": "Golf R",
+    "brandId": 41
+  },
+  {
+    "id": 2546,
+    "name": "גולף ספורטוואן",
+    "engName": "Golf",
+    "brandId": 41
+  },
+  {
+    "id": 1287,
+    "name": "גולף פלוס",
+    "engName": "Golf",
+    "brandId": 41
+  },
+  {
+    "id": 305,
+    "name": "ונטו",
+    "engName": "Vento",
+    "brandId": 41
+  },
+  {
+    "id": 306,
+    "name": "חיפושית",
+    "engName": "Beetle",
+    "brandId": 41
+  },
+  {
+    "id": 307,
+    "name": "חיפושית החדשה",
+    "engName": "Beetle",
+    "brandId": 41
+  },
+  {
+    "id": 1511,
+    "name": "טוארג",
+    "engName": "Touareg",
+    "brandId": 41
+  },
+  {
+    "id": 1053,
+    "name": "טוראן",
+    "engName": "Touran",
+    "brandId": 41
+  },
+  {
+    "id": 1315,
+    "name": "טיגואן",
+    "engName": "Tiguan",
+    "brandId": 41
+  },
+  {
+    "id": 308,
+    "name": "פאסאט",
+    "engName": "Passat",
+    "brandId": 41
+  },
+  {
+    "id": 1592,
+    "name": "פאסאט CC",
+    "engName": "Passat CC",
+    "brandId": 41
+  },
+  {
+    "id": 309,
+    "name": "פולו",
+    "engName": "Polo",
+    "brandId": 41
+  },
+  {
+    "id": 2824,
+    "name": "פולו GTI",
+    "engName": "Polo GTI",
+    "brandId": 41
+  },
+  {
+    "id": 1467,
+    "name": "פולו קלאסיק",
+    "engName": "Polo Classic",
+    "brandId": 41
+  },
+  {
+    "id": 1105,
+    "name": "פייטון",
+    "engName": "Python",
+    "brandId": 41
+  },
+  {
+    "id": 310,
+    "name": "קוראדו",
+    "engName": "Corrado",
+    "brandId": 41
+  },
+  {
+    "id": 311,
+    "name": "שירוקו",
+    "engName": "Scirocco",
+    "brandId": 41
+  },
+  {
+    "id": 3942,
+    "name": "ID. Buzz",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 504,
+    "name": "LT",
+    "engName": "LT",
+    "brandId": 41
+  },
+  {
+    "id": 505,
+    "name": "LT 35",
+    "engName": "LT 35",
+    "brandId": 41
+  },
+  {
+    "id": 2382,
+    "name": "אמארוק",
+    "engName": "Amarok",
+    "brandId": 41
+  },
+  {
+    "id": 304,
+    "name": "דרבי",
+    "engName": "Derby",
+    "brandId": 41
+  },
+  {
+    "id": 3278,
+    "name": "טי קרוס**",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 506,
+    "name": "טרנספורטר טנדר",
+    "engName": "Transporter Tender",
+    "brandId": 41
+  },
+  {
+    "id": 510,
+    "name": "טרנספורטר לא פעיל",
+    "engName": "Transporter",
+    "brandId": 41
+  },
+  {
+    "id": 509,
+    "name": "טרנספורטר מסחרי/נוסעים",
+    "engName": "Transporter",
+    "brandId": 41
+  },
+  {
+    "id": 508,
+    "name": "מולטיוואן",
+    "engName": "Multivan",
+    "brandId": 41
+  },
+  {
+    "id": 511,
+    "name": "קאדי",
+    "engName": "Caddy",
+    "brandId": 41
+  },
+  {
+    "id": 512,
+    "name": "קאדי לייף",
+    "engName": "Caddy Life",
+    "brandId": 41
+  },
+  {
+    "id": 1786,
+    "name": "קאדי מקסי",
+    "engName": "Caddy Maxi",
+    "brandId": 41
+  },
+  {
+    "id": 4049,
+    "name": "קליפורניה",
+    "engName": null,
+    "brandId": 41
+  },
+  {
+    "id": 513,
+    "name": "קראוול",
+    "engName": "Caravelle",
+    "brandId": 41
+  },
+  {
+    "id": 1391,
+    "name": "קראפטר",
+    "engName": "Crafter",
+    "brandId": 41
+  },
+  {
+    "id": 514,
+    "name": "שאטל",
+    "engName": "Shuttle",
+    "brandId": 41
+  },
+  {
+    "id": 313,
+    "name": "בונוביל",
+    "engName": "Bonneville",
+    "brandId": 42
+  },
+  {
+    "id": 992,
+    "name": "גרנד אם",
+    "engName": "Grand M",
+    "brandId": 42
+  },
+  {
+    "id": 314,
+    "name": "גרנד פרי",
+    "engName": "Grand Prix",
+    "brandId": 42
+  },
+  {
+    "id": 315,
+    "name": "טמפסט",
+    "engName": "Tempest",
+    "brandId": 42
+  },
+  {
+    "id": 316,
+    "name": "טרנס אם",
+    "engName": "Trans M",
+    "brandId": 42
+  },
+  {
+    "id": 1074,
+    "name": "סולסטיס",
+    "engName": "Solstice",
+    "brandId": 42
+  },
+  {
+    "id": 317,
+    "name": "סנברד",
+    "engName": "Sunbird",
+    "brandId": 42
+  },
+  {
+    "id": 1050,
+    "name": "פיירבירד",
+    "engName": "Firebird",
+    "brandId": 42
+  },
+  {
+    "id": 1455,
+    "name": "G-6",
+    "engName": "G-6",
+    "brandId": 42
+  },
+  {
+    "id": 312,
+    "name": "LE 6000",
+    "engName": "LE 6000",
+    "brandId": 42
+  },
+  {
+    "id": 2926,
+    "name": "אזטק",
+    "engName": "Aztec",
+    "brandId": 42
+  },
+  {
+    "id": 1289,
+    "name": "S-מקס",
+    "engName": "S-Max",
+    "brandId": 43
+  },
+  {
+    "id": 1308,
+    "name": "אדג' / EDGE",
+    "engName": "Edge",
+    "brandId": 43
+  },
+  {
+    "id": 320,
+    "name": "אסקורט",
+    "engName": "Escort",
+    "brandId": 43
+  },
+  {
+    "id": 1439,
+    "name": "אסקייפ",
+    "engName": "Escape",
+    "brandId": 43
+  },
+  {
+    "id": 1477,
+    "name": "אקספדישן",
+    "engName": "Expedition",
+    "brandId": 43
+  },
+  {
+    "id": 609,
+    "name": "אקספלורר",
+    "engName": "Explorer",
+    "brandId": 43
+  },
+  {
+    "id": 3408,
+    "name": "ברונקו",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 1288,
+    "name": "גלאקסי",
+    "engName": "Galaxy",
+    "brandId": 43
+  },
+  {
+    "id": 324,
+    "name": "טאורוס",
+    "engName": "Taurus",
+    "brandId": 43
+  },
+  {
+    "id": 325,
+    "name": "טרייסר",
+    "engName": "Tristar",
+    "brandId": 43
+  },
+  {
+    "id": 2720,
+    "name": "לינקולן-MKC",
+    "engName": "Lincoln MKC",
+    "brandId": 43
+  },
+  {
+    "id": 2723,
+    "name": "לינקולן-MKS",
+    "engName": "Lincoln MKS",
+    "brandId": 43
+  },
+  {
+    "id": 2722,
+    "name": "לינקולן-MKT",
+    "engName": "Lincoln MKT",
+    "brandId": 43
+  },
+  {
+    "id": 2721,
+    "name": "לינקולן-MKZ",
+    "engName": "Lincoln MKZ",
+    "brandId": 43
+  },
+  {
+    "id": 326,
+    "name": "מונדאו",
+    "engName": "Mondeo",
+    "brandId": 43
+  },
+  {
+    "id": 328,
+    "name": "מוסטנג",
+    "engName": "Mustang",
+    "brandId": 43
+  },
+  {
+    "id": 3443,
+    "name": "מוסטנג MACH E",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 327,
+    "name": "סיירה",
+    "engName": "Sierra",
+    "brandId": 43
+  },
+  {
+    "id": 329,
+    "name": "סקורפיו",
+    "engName": "Scorpio",
+    "brandId": 43
+  },
+  {
+    "id": 3419,
+    "name": "פומה",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 330,
+    "name": "פוקוס",
+    "engName": "Focus",
+    "brandId": 43
+  },
+  {
+    "id": 331,
+    "name": "פיאסטה",
+    "engName": "Fiesta",
+    "brandId": 43
+  },
+  {
+    "id": 2587,
+    "name": "פיוז'ן (יבוא מקביל)",
+    "engName": "Fusion",
+    "brandId": 43
+  },
+  {
+    "id": 2367,
+    "name": "קוגה",
+    "engName": "Kuga",
+    "brandId": 43
+  },
+  {
+    "id": 332,
+    "name": "קורטינה",
+    "engName": "Cortina",
+    "brandId": 43
+  },
+  {
+    "id": 983,
+    "name": "Excursion",
+    "engName": "Excursion",
+    "brandId": 43
+  },
+  {
+    "id": 2392,
+    "name": "F-150",
+    "engName": "F150",
+    "brandId": 43
+  },
+  {
+    "id": 3934,
+    "name": "F-150 לייטנינג",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 3182,
+    "name": "F-250",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 1251,
+    "name": "F-350",
+    "engName": "F350",
+    "brandId": 43
+  },
+  {
+    "id": 1460,
+    "name": "GT",
+    "engName": "GT",
+    "brandId": 43
+  },
+  {
+    "id": 318,
+    "name": "אוריון",
+    "engName": "Aurion",
+    "brandId": 43
+  },
+  {
+    "id": 2789,
+    "name": "אירוסטאר ארוך",
+    "engName": "Eurostar",
+    "brandId": 43
+  },
+  {
+    "id": 515,
+    "name": "אירוסטאר קצר",
+    "engName": "Eurostar",
+    "brandId": 43
+  },
+  {
+    "id": 516,
+    "name": "אקונוליין ארוך",
+    "engName": "Econoline",
+    "brandId": 43
+  },
+  {
+    "id": 2791,
+    "name": "אקונוליין קצר",
+    "engName": "Econoline",
+    "brandId": 43
+  },
+  {
+    "id": 321,
+    "name": "ברנדה",
+    "engName": "Brenda",
+    "brandId": 43
+  },
+  {
+    "id": 323,
+    "name": "וינדסטאר",
+    "engName": "Windstar",
+    "brandId": 43
+  },
+  {
+    "id": 2790,
+    "name": "טורנאו קונקט ארוך",
+    "engName": "Tourneo",
+    "brandId": 43
+  },
+  {
+    "id": 517,
+    "name": "טורנאו קונקט קצר",
+    "engName": "Tourneo",
+    "brandId": 43
+  },
+  {
+    "id": 1312,
+    "name": "טנדרבירד",
+    "engName": "Thunderbird",
+    "brandId": 43
+  },
+  {
+    "id": 1664,
+    "name": "טרנזיט",
+    "engName": "Transit",
+    "brandId": 43
+  },
+  {
+    "id": 3282,
+    "name": "טרנזיט קוסטום",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 3755,
+    "name": "מאבריק",
+    "engName": null,
+    "brandId": 43
+  },
+  {
+    "id": 1036,
+    "name": "מרקורי",
+    "engName": "Mercury",
+    "brandId": 43
+  },
+  {
+    "id": 2319,
+    "name": "קונקט",
+    "engName": "Connect",
+    "brandId": 43
+  },
+  {
+    "id": 519,
+    "name": "קורייר",
+    "engName": "Courier",
+    "brandId": 43
+  },
+  {
+    "id": 520,
+    "name": "ריינג'ר",
+    "engName": "Ranger",
+    "brandId": 43
+  },
+  {
+    "id": 333,
+    "name": "718 בוקסטר",
+    "engName": "Boxter",
+    "brandId": 44
+  },
+  {
+    "id": 1024,
+    "name": "718 קאיימן",
+    "engName": "Cayman",
+    "brandId": 44
+  },
+  {
+    "id": 4012,
+    "name": "911 - Sport Classic",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2985,
+    "name": "911 GT2 RS",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2984,
+    "name": "911 GT3",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2989,
+    "name": "911 GTS",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2951,
+    "name": "911 טארגה",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2996,
+    "name": "911 טורבו",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 3243,
+    "name": "911 ספידסטר",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 334,
+    "name": "911 קאררה",
+    "engName": "911 carrera",
+    "brandId": 44
+  },
+  {
+    "id": 3271,
+    "name": "בוקסטר S986",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 3389,
+    "name": "טייקן",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 2505,
+    "name": "מקאן",
+    "engName": "Macan",
+    "brandId": 44
+  },
+  {
+    "id": 3006,
+    "name": "מקאן GTS",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 1671,
+    "name": "פאנאמרה",
+    "engName": "Panamera",
+    "brandId": 44
+  },
+  {
+    "id": 610,
+    "name": "קאיין",
+    "engName": "Cayenne",
+    "brandId": 44
+  },
+  {
+    "id": 2988,
+    "name": "קאיין טורבו",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 3272,
+    "name": "בוקסר S981",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 3270,
+    "name": "בוקסר S987",
+    "engName": null,
+    "brandId": 44
+  },
+  {
+    "id": 335,
+    "name": "127",
+    "engName": "127",
+    "brandId": 45
+  },
+  {
+    "id": 336,
+    "name": "131",
+    "engName": "131",
+    "brandId": 45
+  },
+  {
+    "id": 337,
+    "name": "132",
+    "engName": "132",
+    "brandId": 45
+  },
+  {
+    "id": 1519,
+    "name": "500",
+    "engName": "500",
+    "brandId": 45
+  },
+  {
+    "id": 1761,
+    "name": "500C",
+    "engName": "500C",
+    "brandId": 45
+  },
+  {
+    "id": 2452,
+    "name": "500L",
+    "engName": "500L",
+    "brandId": 45
+  },
+  {
+    "id": 2635,
+    "name": "500X",
+    "engName": "500X",
+    "brandId": 45
+  },
+  {
+    "id": 521,
+    "name": "אוליזה",
+    "engName": "Ulisse",
+    "brandId": 45
+  },
+  {
+    "id": 338,
+    "name": "אונו",
+    "engName": "Uno",
+    "brandId": 45
+  },
+  {
+    "id": 339,
+    "name": "אונו סיליקטה",
+    "engName": "Uno Silicate",
+    "brandId": 45
+  },
+  {
+    "id": 3061,
+    "name": "אלבאה",
+    "engName": null,
+    "brandId": 45
+  },
+  {
+    "id": 340,
+    "name": "בראבה",
+    "engName": "Brava",
+    "brandId": 45
+  },
+  {
+    "id": 1762,
+    "name": "בראבו",
+    "engName": "Bravo",
+    "brandId": 45
+  },
+  {
+    "id": 343,
+    "name": "טיפו",
+    "engName": "Tipo",
+    "brandId": 45
+  },
+  {
+    "id": 344,
+    "name": "טמפרה",
+    "engName": "Tampra",
+    "brandId": 45
+  },
+  {
+    "id": 1290,
+    "name": "כרומה",
+    "engName": "Croma",
+    "brandId": 45
+  },
+  {
+    "id": 3060,
+    "name": "לינאה",
+    "engName": null,
+    "brandId": 45
+  },
+  {
+    "id": 345,
+    "name": "מולטיפלה",
+    "engName": "Multipla",
+    "brandId": 45
+  },
+  {
+    "id": 346,
+    "name": "מריאה",
+    "engName": "Marea",
+    "brandId": 45
+  },
+  {
+    "id": 2370,
+    "name": "סדיצ'י",
+    "engName": "Sedici",
+    "brandId": 45
+  },
+  {
+    "id": 347,
+    "name": "פונטו (דור I)",
+    "engName": "Punto",
+    "brandId": 45
+  },
+  {
+    "id": 1727,
+    "name": "פונטו איבו (דור III מתיחת פנים)",
+    "engName": "Punto Evo",
+    "brandId": 45
+  },
+  {
+    "id": 1043,
+    "name": "פונטו גרנדה (דור III)",
+    "engName": "Punto Grande",
+    "brandId": 45
+  },
+  {
+    "id": 1404,
+    "name": "פונטו ספייס (דור II)",
+    "engName": "Punto Space",
+    "brandId": 45
+  },
+  {
+    "id": 349,
+    "name": "פנדה",
+    "engName": "Panda",
+    "brandId": 45
+  },
+  {
+    "id": 350,
+    "name": "קופה",
+    "engName": "Coupe",
+    "brandId": 45
+  },
+  {
+    "id": 522,
+    "name": "דובלו",
+    "engName": "Doblo",
+    "brandId": 45
+  },
+  {
+    "id": 342,
+    "name": "דונה",
+    "engName": "Duna",
+    "brandId": 45
+  },
+  {
+    "id": 2781,
+    "name": "דוקאטו ארוך",
+    "engName": "Ducato",
+    "brandId": 45
+  },
+  {
+    "id": 524,
+    "name": "דוקאטו הרקולס",
+    "engName": "Ducato",
+    "brandId": 45
+  },
+  {
+    "id": 523,
+    "name": "דוקאטו קצר/בינוני",
+    "engName": "Ducato",
+    "brandId": 45
+  },
+  {
+    "id": 3388,
+    "name": "לידו",
+    "engName": null,
+    "brandId": 45
+  },
+  {
+    "id": 525,
+    "name": "סקודו",
+    "engName": "Scudo",
+    "brandId": 45
+  },
+  {
+    "id": 906,
+    "name": "סקודו",
+    "engName": "Scudo",
+    "brandId": 45
+  },
+  {
+    "id": 2834,
+    "name": "פולבק",
+    "engName": "Fullback",
+    "brandId": 45
+  },
+  {
+    "id": 526,
+    "name": "פיורינו",
+    "engName": "Fiorino",
+    "brandId": 45
+  },
+  {
+    "id": 2343,
+    "name": "קובו / QUBO",
+    "engName": "Qubo",
+    "brandId": 45
+  },
+  {
+    "id": 351,
+    "name": "רגאטה",
+    "engName": "Regata",
+    "brandId": 45
+  },
+  {
+    "id": 352,
+    "name": "ריטמו",
+    "engName": "Ritmo",
+    "brandId": 45
+  },
+  {
+    "id": 287,
+    "name": "106",
+    "engName": "106",
+    "brandId": 46
+  },
+  {
+    "id": 1291,
+    "name": "107",
+    "engName": "107",
+    "brandId": 46
+  },
+  {
+    "id": 2537,
+    "name": "108",
+    "engName": "108",
+    "brandId": 46
+  },
+  {
+    "id": 2413,
+    "name": "2008",
+    "engName": "2008",
+    "brandId": 46
+  },
+  {
+    "id": 288,
+    "name": "205",
+    "engName": "205",
+    "brandId": 46
+  },
+  {
+    "id": 289,
+    "name": "206",
+    "engName": "206",
+    "brandId": 46
+  },
+  {
+    "id": 1763,
+    "name": "206 +",
+    "engName": "206 +",
+    "brandId": 46
+  },
+  {
+    "id": 2767,
+    "name": "206CC",
+    "engName": "206CC",
+    "brandId": 46
+  },
+  {
+    "id": 1196,
+    "name": "207",
+    "engName": "207",
+    "brandId": 46
+  },
+  {
+    "id": 2363,
+    "name": "208",
+    "engName": "208",
+    "brandId": 46
+  },
+  {
+    "id": 2390,
+    "name": "208 GTI",
+    "engName": "208 GTI",
+    "brandId": 46
+  },
+  {
+    "id": 1706,
+    "name": "3008",
+    "engName": "3008",
+    "brandId": 46
+  },
+  {
+    "id": 2361,
+    "name": "301",
+    "engName": "301",
+    "brandId": 46
+  },
+  {
+    "id": 290,
+    "name": "305",
+    "engName": "305",
+    "brandId": 46
+  },
+  {
+    "id": 291,
+    "name": "306",
+    "engName": "306",
+    "brandId": 46
+  },
+  {
+    "id": 292,
+    "name": "307",
+    "engName": "307",
+    "brandId": 46
+  },
+  {
+    "id": 3265,
+    "name": "307CC",
+    "engName": "307",
+    "brandId": 46
+  },
+  {
+    "id": 1342,
+    "name": "308",
+    "engName": "308",
+    "brandId": 46
+  },
+  {
+    "id": 1764,
+    "name": "308CC",
+    "engName": "308CC",
+    "brandId": 46
+  },
+  {
+    "id": 293,
+    "name": "309",
+    "engName": "309",
+    "brandId": 46
+  },
+  {
+    "id": 294,
+    "name": "405",
+    "engName": "405",
+    "brandId": 46
+  },
+  {
+    "id": 295,
+    "name": "406",
+    "engName": "406",
+    "brandId": 46
+  },
+  {
+    "id": 296,
+    "name": "407",
+    "engName": "407",
+    "brandId": 46
+  },
+  {
+    "id": 4001,
+    "name": "408",
+    "engName": null,
+    "brandId": 46
+  },
+  {
+    "id": 1765,
+    "name": "5008",
+    "engName": "5008",
+    "brandId": 46
+  },
+  {
+    "id": 297,
+    "name": "504",
+    "engName": "504",
+    "brandId": 46
+  },
+  {
+    "id": 298,
+    "name": "505",
+    "engName": "505",
+    "brandId": 46
+  },
+  {
+    "id": 1766,
+    "name": "508",
+    "engName": "508",
+    "brandId": 46
+  },
+  {
+    "id": 299,
+    "name": "605",
+    "engName": "605",
+    "brandId": 46
+  },
+  {
+    "id": 300,
+    "name": "607",
+    "engName": "607",
+    "brandId": 46
+  },
+  {
+    "id": 4009,
+    "name": "E-RIFTER",
+    "engName": null,
+    "brandId": 46
+  },
+  {
+    "id": 1768,
+    "name": "RCZ",
+    "engName": "RCZ",
+    "brandId": 46
+  },
+  {
+    "id": 4025,
+    "name": "e -2008",
+    "engName": null,
+    "brandId": 46
+  },
+  {
+    "id": 4026,
+    "name": "e-208",
+    "engName": null,
+    "brandId": 46
+  },
+  {
+    "id": 1767,
+    "name": "iON",
+    "engName": "iON",
+    "brandId": 46
+  },
+  {
+    "id": 4000,
+    "name": "פיג'ו - TRAVELLER",
+    "engName": null,
+    "brandId": 46
+  },
+  {
+    "id": 1237,
+    "name": "204",
+    "engName": "204",
+    "brandId": 46
+  },
+  {
+    "id": 500,
+    "name": "J5",
+    "engName": "J5",
+    "brandId": 46
+  },
+  {
+    "id": 501,
+    "name": "J9",
+    "engName": "J9",
+    "brandId": 46
+  },
+  {
+    "id": 1580,
+    "name": "אקספרט",
+    "engName": "Expert",
+    "brandId": 46
+  },
+  {
+    "id": 499,
+    "name": "בוקסר",
+    "engName": "Boxer",
+    "brandId": 46
+  },
+  {
+    "id": 1788,
+    "name": "ביפר",
+    "engName": "Beeper",
+    "brandId": 46
+  },
+  {
+    "id": 502,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 46
+  },
+  {
+    "id": 503,
+    "name": "פרטנר דור 1 (עד 2008)",
+    "engName": "Partner (till 2012)",
+    "brandId": 46
+  },
+  {
+    "id": 1789,
+    "name": "פרטנר דור 2 (2008-2017)",
+    "engName": "New Partner",
+    "brandId": 46
+  },
+  {
+    "id": 2369,
+    "name": "ATS",
+    "engName": "ATS",
+    "brandId": 47
+  },
+  {
+    "id": 3384,
+    "name": "CT5",
+    "engName": null,
+    "brandId": 47
+  },
+  {
+    "id": 2864,
+    "name": "CT6",
+    "engName": "CT6",
+    "brandId": 47
+  },
+  {
+    "id": 353,
+    "name": "CTS",
+    "engName": "CTS",
+    "brandId": 47
+  },
+  {
+    "id": 1214,
+    "name": "DTS",
+    "engName": "Deville",
+    "brandId": 47
+  },
+  {
+    "id": 1781,
+    "name": "SRX",
+    "engName": "SRX",
+    "brandId": 47
+  },
+  {
+    "id": 1026,
+    "name": "STS",
+    "engName": "STS",
+    "brandId": 47
+  },
+  {
+    "id": 2404,
+    "name": "XLR",
+    "engName": "XLR",
+    "brandId": 47
+  },
+  {
+    "id": 3186,
+    "name": "XT4",
+    "engName": null,
+    "brandId": 47
+  },
+  {
+    "id": 2807,
+    "name": "XT5",
+    "engName": "XT5",
+    "brandId": 47
+  },
+  {
+    "id": 3330,
+    "name": "XT6",
+    "engName": null,
+    "brandId": 47
+  },
+  {
+    "id": 2943,
+    "name": "XTS",
+    "engName": null,
+    "brandId": 47
+  },
+  {
+    "id": 1021,
+    "name": "אסקלייד",
+    "engName": "Escalade",
+    "brandId": 47
+  },
+  {
+    "id": 354,
+    "name": "סוויל",
+    "engName": "Seville",
+    "brandId": 47
+  },
+  {
+    "id": 3689,
+    "name": "EV6",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 4076,
+    "name": "EV9",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 2810,
+    "name": "K900",
+    "engName": "KT900",
+    "brandId": 48
+  },
+  {
+    "id": 3296,
+    "name": "XCEED",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 2342,
+    "name": "אופטימה / Optima",
+    "engName": "Optima",
+    "brandId": 48
+  },
+  {
+    "id": 1292,
+    "name": "אופירוס",
+    "engName": "Oprius",
+    "brandId": 48
+  },
+  {
+    "id": 355,
+    "name": "ג'ויס",
+    "engName": "Joice",
+    "brandId": 48
+  },
+  {
+    "id": 3257,
+    "name": "טלורייד",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 356,
+    "name": "לאו",
+    "engName": "Sephia Leo",
+    "brandId": 48
+  },
+  {
+    "id": 1097,
+    "name": "מג'נטיס",
+    "engName": "Magentis",
+    "brandId": 48
+  },
+  {
+    "id": 357,
+    "name": "מנטור",
+    "engName": "Mentor",
+    "brandId": 48
+  },
+  {
+    "id": 3223,
+    "name": "נירו EV",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 3484,
+    "name": "נירו PHEV",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 2829,
+    "name": "נירו הייבריד",
+    "engName": "Niro Hybrid",
+    "brandId": 48
+  },
+  {
+    "id": 3866,
+    "name": "נירו פלוס",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 1711,
+    "name": "סול",
+    "engName": "Soul",
+    "brandId": 48
+  },
+  {
+    "id": 1782,
+    "name": "סורנטו",
+    "engName": "Sorento",
+    "brandId": 48
+  },
+  {
+    "id": 2997,
+    "name": "סטוניק",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 2998,
+    "name": "סטינגר",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 1429,
+    "name": "סיד / CEED",
+    "engName": "Ceed",
+    "brandId": 48
+  },
+  {
+    "id": 3370,
+    "name": "סלטוס",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 612,
+    "name": "ספורטז'",
+    "engName": "Sportage",
+    "brandId": 48
+  },
+  {
+    "id": 359,
+    "name": "ספיה",
+    "engName": "Sephia",
+    "brandId": 48
+  },
+  {
+    "id": 1310,
+    "name": "סראטו",
+    "engName": "Cerato",
+    "brandId": 48
+  },
+  {
+    "id": 1653,
+    "name": "פורטה",
+    "engName": "Forte",
+    "brandId": 48
+  },
+  {
+    "id": 1293,
+    "name": "פיקנטו",
+    "engName": "Picanto",
+    "brandId": 48
+  },
+  {
+    "id": 360,
+    "name": "פרייד",
+    "engName": "Freed",
+    "brandId": 48
+  },
+  {
+    "id": 991,
+    "name": "קארנס",
+    "engName": "Carens",
+    "brandId": 48
+  },
+  {
+    "id": 2694,
+    "name": "קדנזה",
+    "engName": "Cadenza",
+    "brandId": 48
+  },
+  {
+    "id": 361,
+    "name": "קלארוס",
+    "engName": "Clarus",
+    "brandId": 48
+  },
+  {
+    "id": 363,
+    "name": "קרניבל",
+    "engName": "Carnival",
+    "brandId": 48
+  },
+  {
+    "id": 362,
+    "name": "ריו",
+    "engName": "Rio",
+    "brandId": 48
+  },
+  {
+    "id": 364,
+    "name": "שומה",
+    "engName": "Shuma",
+    "brandId": 48
+  },
+  {
+    "id": 3221,
+    "name": "K2500",
+    "engName": null,
+    "brandId": 48
+  },
+  {
+    "id": 1462,
+    "name": "בורנגו",
+    "engName": "Borrego",
+    "brandId": 48
+  },
+  {
+    "id": 527,
+    "name": "בסטה",
+    "engName": "Besta",
+    "brandId": 48
+  },
+  {
+    "id": 528,
+    "name": "סופרטראק",
+    "engName": "Supertrack",
+    "brandId": 48
+  },
+  {
+    "id": 530,
+    "name": "סרס",
+    "engName": "Ceres",
+    "brandId": 48
+  },
+  {
+    "id": 531,
+    "name": "פרג'יו",
+    "engName": "Pregio",
+    "brandId": 48
+  },
+  {
+    "id": 986,
+    "name": "קריאטו",
+    "engName": "Cerato",
+    "brandId": 48
+  },
+  {
+    "id": 365,
+    "name": "300C",
+    "engName": "300C",
+    "brandId": 49
+  },
+  {
+    "id": 1027,
+    "name": "300C SRT",
+    "engName": "300C SRT",
+    "brandId": 49
+  },
+  {
+    "id": 366,
+    "name": "300M",
+    "engName": "300M",
+    "brandId": 49
+  },
+  {
+    "id": 373,
+    "name": "PT קרוזר",
+    "engName": "PT Cruiser",
+    "brandId": 49
+  },
+  {
+    "id": 1619,
+    "name": "גראנד וויאג'ר",
+    "engName": "Grand-Voyager",
+    "brandId": 49
+  },
+  {
+    "id": 367,
+    "name": "וויאג'ר",
+    "engName": "Voyager",
+    "brandId": 49
+  },
+  {
+    "id": 368,
+    "name": "ויזן",
+    "engName": "Vision",
+    "brandId": 49
+  },
+  {
+    "id": 2737,
+    "name": "טאון קאנטרי",
+    "engName": "Town Country",
+    "brandId": 49
+  },
+  {
+    "id": 369,
+    "name": "נאון",
+    "engName": "Neon",
+    "brandId": 49
+  },
+  {
+    "id": 371,
+    "name": "סברינג",
+    "engName": "Sebring",
+    "brandId": 49
+  },
+  {
+    "id": 370,
+    "name": "סטרטוס",
+    "engName": "Stratus",
+    "brandId": 49
+  },
+  {
+    "id": 372,
+    "name": "סרטוגה",
+    "engName": "Saratoga",
+    "brandId": 49
+  },
+  {
+    "id": 3018,
+    "name": "פסיפיקה",
+    "engName": null,
+    "brandId": 49
+  },
+  {
+    "id": 936,
+    "name": "קרוספייר",
+    "engName": "Crossfire",
+    "brandId": 49
+  },
+  {
+    "id": 2625,
+    "name": "200",
+    "engName": "200",
+    "brandId": 49
+  },
+  {
+    "id": 1073,
+    "name": "אמפריאל",
+    "engName": "Imperial",
+    "brandId": 49
+  },
+  {
+    "id": 2751,
+    "name": "קאליבר",
+    "engName": "Caliber",
+    "brandId": 49
+  },
+  {
+    "id": 375,
+    "name": "214",
+    "engName": "214",
+    "brandId": 50
+  },
+  {
+    "id": 376,
+    "name": "216",
+    "engName": "216",
+    "brandId": 50
+  },
+  {
+    "id": 378,
+    "name": "414",
+    "engName": "414",
+    "brandId": 50
+  },
+  {
+    "id": 379,
+    "name": "416",
+    "engName": "416",
+    "brandId": 50
+  },
+  {
+    "id": 380,
+    "name": "420",
+    "engName": "420",
+    "brandId": 50
+  },
+  {
+    "id": 381,
+    "name": "600",
+    "engName": "600",
+    "brandId": 50
+  },
+  {
+    "id": 382,
+    "name": "620",
+    "engName": "620",
+    "brandId": 50
+  },
+  {
+    "id": 384,
+    "name": "623",
+    "engName": "623",
+    "brandId": 50
+  },
+  {
+    "id": 386,
+    "name": "825",
+    "engName": "825",
+    "brandId": 50
+  },
+  {
+    "id": 387,
+    "name": "827",
+    "engName": "827",
+    "brandId": 50
+  },
+  {
+    "id": 390,
+    "name": "MG VVC",
+    "engName": "MG VVC",
+    "brandId": 50
+  },
+  {
+    "id": 1303,
+    "name": "MG ZR",
+    "engName": "MG ZR",
+    "brandId": 50
+  },
+  {
+    "id": 1302,
+    "name": "MG ZS",
+    "engName": "MG ZS",
+    "brandId": 50
+  },
+  {
+    "id": 1301,
+    "name": "MG ZT",
+    "engName": "MG ZT",
+    "brandId": 50
+  },
+  {
+    "id": 391,
+    "name": "R25",
+    "engName": "R25",
+    "brandId": 50
+  },
+  {
+    "id": 392,
+    "name": "R45",
+    "engName": "R45",
+    "brandId": 50
+  },
+  {
+    "id": 393,
+    "name": "R75",
+    "engName": "R75",
+    "brandId": 50
+  },
+  {
+    "id": 389,
+    "name": "MGF",
+    "engName": "MGF",
+    "brandId": 50
+  },
+  {
+    "id": 395,
+    "name": "11",
+    "engName": "11",
+    "brandId": 51
+  },
+  {
+    "id": 397,
+    "name": "19",
+    "engName": "19",
+    "brandId": 51
+  },
+  {
+    "id": 2321,
+    "name": "21",
+    "engName": "21",
+    "brandId": 51
+  },
+  {
+    "id": 401,
+    "name": "9",
+    "engName": "9",
+    "brandId": 51
+  },
+  {
+    "id": 3989,
+    "name": "אסטרל",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 2518,
+    "name": "אספאס",
+    "engName": "Espace",
+    "brandId": 51
+  },
+  {
+    "id": 3631,
+    "name": "ארקנה",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 3880,
+    "name": "ארקנה הייבריד החדשה",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 1213,
+    "name": "גרנד סניק",
+    "engName": "Grand Scenic",
+    "brandId": 51
+  },
+  {
+    "id": 1601,
+    "name": "וול-סאטיס",
+    "engName": "Vel Satis",
+    "brandId": 51
+  },
+  {
+    "id": 2812,
+    "name": "זואי",
+    "engName": "Zoe",
+    "brandId": 51
+  },
+  {
+    "id": 402,
+    "name": "טווינגו",
+    "engName": "Twingo",
+    "brandId": 51
+  },
+  {
+    "id": 1296,
+    "name": "טליה",
+    "engName": "Thalia",
+    "brandId": 51
+  },
+  {
+    "id": 403,
+    "name": "לגונה",
+    "engName": "Laguna",
+    "brandId": 51
+  },
+  {
+    "id": 1650,
+    "name": "לוגאן MCV",
+    "engName": "Logan MCV",
+    "brandId": 51
+  },
+  {
+    "id": 2362,
+    "name": "לטיטוד",
+    "engName": "Latitude",
+    "brandId": 51
+  },
+  {
+    "id": 3733,
+    "name": "מגאן E-Tech",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 3058,
+    "name": "מגאן אסטייט/ גראנד טור",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 3046,
+    "name": "מגאן גראנד קופה",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 404,
+    "name": "מגאן דור 1 (1996-2004)",
+    "engName": "Megane I",
+    "brandId": 51
+  },
+  {
+    "id": 1299,
+    "name": "מגאן דור 2 (2004-2010)",
+    "engName": "Megane II",
+    "brandId": 51
+  },
+  {
+    "id": 1793,
+    "name": "מגאן דור 3 (2009-2017)",
+    "engName": "Megane New",
+    "brandId": 51
+  },
+  {
+    "id": 1620,
+    "name": "מגאן קופה / ספורט",
+    "engName": "Megane Coupe/Sport",
+    "brandId": 51
+  },
+  {
+    "id": 1629,
+    "name": "סימבול",
+    "engName": "Symbol",
+    "brandId": 51
+  },
+  {
+    "id": 3008,
+    "name": "סנדרו",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 405,
+    "name": "סניק דור 1 (1998-2004)",
+    "engName": "Scenik 1",
+    "brandId": 51
+  },
+  {
+    "id": 1300,
+    "name": "סניק דור 2 (2004-2009)",
+    "engName": "Scenik 2",
+    "brandId": 51
+  },
+  {
+    "id": 1769,
+    "name": "סניק דור 3 (2009-2014)",
+    "engName": "Scenik 3",
+    "brandId": 51
+  },
+  {
+    "id": 945,
+    "name": "ספרן",
+    "engName": "Safrane",
+    "brandId": 51
+  },
+  {
+    "id": 1665,
+    "name": "פלואנס",
+    "engName": "Fluence",
+    "brandId": 51
+  },
+  {
+    "id": 2354,
+    "name": "פלואנס חשמלי",
+    "engName": "Fluence Electro",
+    "brandId": 51
+  },
+  {
+    "id": 2765,
+    "name": "קדגא'ר",
+    "engName": "Kadjar",
+    "brandId": 51
+  },
+  {
+    "id": 620,
+    "name": "קוליאוס",
+    "engName": "Koleos",
+    "brandId": 51
+  },
+  {
+    "id": 1052,
+    "name": "קליאו B",
+    "engName": "Clio B",
+    "brandId": 51
+  },
+  {
+    "id": 1297,
+    "name": "קליאו B II",
+    "engName": "Clio 2 B",
+    "brandId": 51
+  },
+  {
+    "id": 2815,
+    "name": "קליאו אסטייט",
+    "engName": "Clio Estate",
+    "brandId": 51
+  },
+  {
+    "id": 407,
+    "name": "קליאו דור 1 (1992-1999)",
+    "engName": "Clio 1",
+    "brandId": 51
+  },
+  {
+    "id": 1298,
+    "name": "קליאו דור 3 (2006-2014)",
+    "engName": "Clio 3",
+    "brandId": 51
+  },
+  {
+    "id": 2389,
+    "name": "קליאו דור 4 (2013-2019)",
+    "engName": "Clio",
+    "brandId": 51
+  },
+  {
+    "id": 3190,
+    "name": "קליאו דור 5 (2019 ואילך)",
+    "engName": null,
+    "brandId": 51
+  },
+  {
+    "id": 2393,
+    "name": "קפצ'ור",
+    "engName": "Captur",
+    "brandId": 51
+  },
+  {
+    "id": 396,
+    "name": "18",
+    "engName": "18",
+    "brandId": 51
+  },
+  {
+    "id": 399,
+    "name": "25",
+    "engName": "25",
+    "brandId": 51
+  },
+  {
+    "id": 400,
+    "name": "5",
+    "engName": "5",
+    "brandId": 51
+  },
+  {
+    "id": 534,
+    "name": "אקספרס",
+    "engName": "Express",
+    "brandId": 51
+  },
+  {
+    "id": 535,
+    "name": "טראפיק ארוך",
+    "engName": "Traffic",
+    "brandId": 51
+  },
+  {
+    "id": 2788,
+    "name": "טראפיק קצר",
+    "engName": "Traffic",
+    "brandId": 51
+  },
+  {
+    "id": 2785,
+    "name": "מאסטר ארוך",
+    "engName": "Master Long",
+    "brandId": 51
+  },
+  {
+    "id": 536,
+    "name": "מאסטר קצר/בינוני",
+    "engName": "Master Short",
+    "brandId": 51
+  },
+  {
+    "id": 1663,
+    "name": "קנגו  החדשה",
+    "engName": "Kango",
+    "brandId": 51
+  },
+  {
+    "id": 537,
+    "name": "קנגו (עד 2009)",
+    "engName": "Kango",
+    "brandId": 51
+  },
+  {
+    "id": 408,
+    "name": "אבאו",
+    "engName": "Aveo",
+    "brandId": 52
+  },
+  {
+    "id": 409,
+    "name": "אופטרה",
+    "engName": "Optra",
+    "brandId": 52
+  },
+  {
+    "id": 2315,
+    "name": "אורלנדו",
+    "engName": "Orlando",
+    "brandId": 52
+  },
+  {
+    "id": 410,
+    "name": "אימפלה",
+    "engName": "Impala",
+    "brandId": 52
+  },
+  {
+    "id": 411,
+    "name": "אלרו",
+    "engName": "Alero",
+    "brandId": 52
+  },
+  {
+    "id": 413,
+    "name": "אפיקה",
+    "engName": "Epica",
+    "brandId": 52
+  },
+  {
+    "id": 1513,
+    "name": "אפלנדר",
+    "engName": "Uplander",
+    "brandId": 52
+  },
+  {
+    "id": 2757,
+    "name": "אקווינוקס",
+    "engName": "Equinox",
+    "brandId": 52
+  },
+  {
+    "id": 3477,
+    "name": "בולט EV",
+    "engName": null,
+    "brandId": 52
+  },
+  {
+    "id": 621,
+    "name": "בלייזר",
+    "engName": "Blazer",
+    "brandId": 52
+  },
+  {
+    "id": 3191,
+    "name": "בלייזר (2019 ואילך)",
+    "engName": null,
+    "brandId": 52
+  },
+  {
+    "id": 414,
+    "name": "ברטה",
+    "engName": "Beretta",
+    "brandId": 52
+  },
+  {
+    "id": 2472,
+    "name": "וולט",
+    "engName": "Volt",
+    "brandId": 52
+  },
+  {
+    "id": 415,
+    "name": "ויואנט",
+    "engName": "Vivant",
+    "brandId": 52
+  },
+  {
+    "id": 937,
+    "name": "טאהו / יוקון",
+    "engName": "Yukon",
+    "brandId": 52
+  },
+  {
+    "id": 1512,
+    "name": "טראוורס",
+    "engName": "Traverse",
+    "brandId": 52
+  },
+  {
+    "id": 2412,
+    "name": "טראקס",
+    "engName": "Trax",
+    "brandId": 52
+  },
+  {
+    "id": 622,
+    "name": "טרייל בלייזר",
+    "engName": "Trail Blazer",
+    "brandId": 52
+  },
+  {
+    "id": 416,
+    "name": "לומינה",
+    "engName": "Lumina",
+    "brandId": 52
+  },
+  {
+    "id": 417,
+    "name": "מאליבו",
+    "engName": "Malibu",
+    "brandId": 52
+  },
+  {
+    "id": 418,
+    "name": "מונטה קרלו",
+    "engName": "Monte Carlo",
+    "brandId": 52
+  },
+  {
+    "id": 1252,
+    "name": "סוברבן",
+    "engName": "Sovereign",
+    "brandId": 52
+  },
+  {
+    "id": 1770,
+    "name": "סוניק",
+    "engName": "Sonic",
+    "brandId": 52
+  },
+  {
+    "id": 4082,
+    "name": "סילברדו EV",
+    "engName": null,
+    "brandId": 52
+  },
+  {
+    "id": 2311,
+    "name": "סיליבריטי",
+    "engName": "Celebrity",
+    "brandId": 52
+  },
+  {
+    "id": 1700,
+    "name": "ספארק",
+    "engName": "Spark",
+    "brandId": 52
+  },
+  {
+    "id": 420,
+    "name": "קאמארו",
+    "engName": "Camaro",
+    "brandId": 52
+  },
+  {
+    "id": 421,
+    "name": "קוואליר",
+    "engName": "Cavalier",
+    "brandId": 52
+  },
+  {
+    "id": 911,
+    "name": "קורבט",
+    "engName": "Corvette",
+    "brandId": 52
+  },
+  {
+    "id": 1458,
+    "name": "קורבט Z06",
+    "engName": "Corvette",
+    "brandId": 52
+  },
+  {
+    "id": 422,
+    "name": "קורסיקה",
+    "engName": "Corsica",
+    "brandId": 52
+  },
+  {
+    "id": 1042,
+    "name": "קפטיבה",
+    "engName": "Captiva",
+    "brandId": 52
+  },
+  {
+    "id": 423,
+    "name": "קפריס",
+    "engName": "Caprice",
+    "brandId": 52
+  },
+  {
+    "id": 1581,
+    "name": "קרוז",
+    "engName": "Cruze",
+    "brandId": 52
+  },
+  {
+    "id": 2857,
+    "name": "קרוז החדשה",
+    "engName": "Cruze",
+    "brandId": 52
+  },
+  {
+    "id": 1047,
+    "name": "SUT",
+    "engName": "SUT",
+    "brandId": 52
+  },
+  {
+    "id": 1307,
+    "name": "אסטרו",
+    "engName": "Astro",
+    "brandId": 52
+  },
+  {
+    "id": 538,
+    "name": "טנדר",
+    "engName": "Tender",
+    "brandId": 52
+  },
+  {
+    "id": 539,
+    "name": "נוואדה",
+    "engName": "Nevada",
+    "brandId": 52
+  },
+  {
+    "id": 2782,
+    "name": "סוואנה ארוך",
+    "engName": "Savana Long",
+    "brandId": 52
+  },
+  {
+    "id": 541,
+    "name": "סוואנה קצר",
+    "engName": "Savana Short",
+    "brandId": 52
+  },
+  {
+    "id": 542,
+    "name": "סילברדו 2500",
+    "engName": "Silverado Long",
+    "brandId": 52
+  },
+  {
+    "id": 2783,
+    "name": "סילברדו 3500",
+    "engName": "Silverado Short",
+    "brandId": 52
+  },
+  {
+    "id": 543,
+    "name": "ספורט ואן",
+    "engName": "Sportvan",
+    "brandId": 52
+  },
+  {
+    "id": 2312,
+    "name": "קולורדו",
+    "engName": "Colorado",
+    "brandId": 52
+  },
+  {
+    "id": 3479,
+    "name": "קולורדו ZR2",
+    "engName": null,
+    "brandId": 52
+  },
+  {
+    "id": 2838,
+    "name": "124 ספיידר",
+    "engName": "spider 124",
+    "brandId": 53
+  },
+  {
+    "id": 2355,
+    "name": "500",
+    "engName": "Abarth 500",
+    "brandId": 53
+  },
+  {
+    "id": 2356,
+    "name": "500c",
+    "engName": "Abarth 500c",
+    "brandId": 53
+  },
+  {
+    "id": 2861,
+    "name": "595",
+    "engName": "Abarth 595",
+    "brandId": 53
+  },
+  {
+    "id": 2863,
+    "name": "595c",
+    "engName": "Abarth 595C",
+    "brandId": 53
+  },
+  {
+    "id": 2357,
+    "name": "פונטו איבו",
+    "engName": "Abarth Punto Evo",
+    "brandId": 53
+  },
+  {
+    "id": 2855,
+    "name": "DB11",
+    "engName": "DB11",
+    "brandId": 54
+  },
+  {
+    "id": 4108,
+    "name": "DB12",
+    "engName": null,
+    "brandId": 54
+  },
+  {
+    "id": 2549,
+    "name": "DB9",
+    "engName": "DB9",
+    "brandId": 54
+  },
+  {
+    "id": 3387,
+    "name": "DBS",
+    "engName": null,
+    "brandId": 54
+  },
+  {
+    "id": 3386,
+    "name": "DBX",
+    "engName": null,
+    "brandId": 54
+  },
+  {
+    "id": 2632,
+    "name": "ואנקוויש",
+    "engName": "Vanquish",
+    "brandId": 54
+  },
+  {
+    "id": 2550,
+    "name": "ונטאג'",
+    "engName": "Vantage",
+    "brandId": 54
+  },
+  {
+    "id": 2623,
+    "name": "ראפיד",
+    "engName": "Rapid",
+    "brandId": 54
+  },
+  {
+    "id": 3949,
+    "name": "BE53",
+    "engName": null,
+    "brandId": 55
+  },
+  {
+    "id": 3124,
+    "name": "בנטיאגה",
+    "engName": null,
+    "brandId": 55
+  },
+  {
+    "id": 3232,
+    "name": "פליינג ספור",
+    "engName": null,
+    "brandId": 55
+  },
+  {
+    "id": 3125,
+    "name": "קונטיננטל GT",
+    "engName": null,
+    "brandId": 55
+  },
+  {
+    "id": 3254,
+    "name": "M2",
+    "engName": null,
+    "brandId": 56
+  },
+  {
+    "id": 2483,
+    "name": "458",
+    "engName": "458",
+    "brandId": 57
+  },
+  {
+    "id": 2711,
+    "name": "488 GTB",
+    "engName": "488 GTB",
+    "brandId": 57
+  },
+  {
+    "id": 2712,
+    "name": "488 ספיידר",
+    "engName": "488 Spider",
+    "brandId": 57
+  },
+  {
+    "id": 3177,
+    "name": "488 פיסטה",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 2690,
+    "name": "575 מרנלו",
+    "engName": "575 Maranello",
+    "brandId": 57
+  },
+  {
+    "id": 3120,
+    "name": "812 סופרפאסט",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 2709,
+    "name": "F12 ברלינטה",
+    "engName": "F12 Berlinetta",
+    "brandId": 57
+  },
+  {
+    "id": 3344,
+    "name": "F8 טריבוטו",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 2330,
+    "name": "FF",
+    "engName": "FF",
+    "brandId": 57
+  },
+  {
+    "id": 3751,
+    "name": "GTB 296",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 2836,
+    "name": "GTC4Lusso",
+    "engName": "GTC4Lusso",
+    "brandId": 57
+  },
+  {
+    "id": 4078,
+    "name": "פורוסאנגווה",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 3041,
+    "name": "פורטופינו",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 2331,
+    "name": "קליפורניה",
+    "engName": "California",
+    "brandId": 57
+  },
+  {
+    "id": 3409,
+    "name": "רומא",
+    "engName": null,
+    "brandId": 57
+  },
+  {
+    "id": 4081,
+    "name": "Spectre",
+    "engName": null,
+    "brandId": 58
+  },
+  {
+    "id": 1555,
+    "name": "סופה",
+    "engName": "Sufa",
+    "brandId": 59
+  },
+  {
+    "id": 607,
+    "name": "סופה פתוח",
+    "engName": "Sufa Patuah",
+    "brandId": 59
+  },
+  {
+    "id": 83,
+    "name": "אספרו",
+    "engName": "Aspero",
+    "brandId": 60
+  },
+  {
+    "id": 2703,
+    "name": "טאקומה",
+    "engName": "Tacuma",
+    "brandId": 60
+  },
+  {
+    "id": 84,
+    "name": "לאנוס",
+    "engName": "Lanos",
+    "brandId": 60
+  },
+  {
+    "id": 85,
+    "name": "לגנזה",
+    "engName": "Leganza",
+    "brandId": 60
+  },
+  {
+    "id": 86,
+    "name": "מאטיס",
+    "engName": "Matiz",
+    "brandId": 60
+  },
+  {
+    "id": 87,
+    "name": "נובירה",
+    "engName": "Nubira",
+    "brandId": 60
+  },
+  {
+    "id": 88,
+    "name": "נקסייה",
+    "engName": "Nexia",
+    "brandId": 60
+  },
+  {
+    "id": 89,
+    "name": "סופר סלון",
+    "engName": "Super Salon",
+    "brandId": 60
+  },
+  {
+    "id": 90,
+    "name": "סופר רייסר",
+    "engName": "Super Racer",
+    "brandId": 60
+  },
+  {
+    "id": 91,
+    "name": "פרינס",
+    "engName": "Prince",
+    "brandId": 60
+  },
+  {
+    "id": 2704,
+    "name": "צ'רמן",
+    "engName": "Chairman",
+    "brandId": 60
+  },
+  {
+    "id": 92,
+    "name": "רייסר",
+    "engName": "Racer",
+    "brandId": 60
+  },
+  {
+    "id": 3279,
+    "name": "מודל 3",
+    "engName": null,
+    "brandId": 62
+  },
+  {
+    "id": 3281,
+    "name": "מודל S",
+    "engName": null,
+    "brandId": 62
+  },
+  {
+    "id": 3280,
+    "name": "מודל X",
+    "engName": null,
+    "brandId": 62
+  },
+  {
+    "id": 3514,
+    "name": "מודל Y",
+    "engName": null,
+    "brandId": 62
+  },
+  {
+    "id": 4080,
+    "name": "Revuelto",
+    "engName": null,
+    "brandId": 63
+  },
+  {
+    "id": 3719,
+    "name": "אורוס",
+    "engName": null,
+    "brandId": 63
+  },
+  {
+    "id": 3000,
+    "name": "הורקן",
+    "engName": null,
+    "brandId": 63
+  },
+  {
+    "id": 4077,
+    "name": "720S",
+    "engName": null,
+    "brandId": 73
+  },
+  {
+    "id": 12,
+    "name": "אומגה",
+    "engName": "Omega",
+    "brandId": 76
+  },
+  {
+    "id": 13,
+    "name": "דלתא",
+    "engName": "Delta",
+    "brandId": 76
+  },
+  {
+    "id": 14,
+    "name": "קטלס",
+    "engName": "Cutlass",
+    "brandId": 76
+  },
+  {
+    "id": 2627,
+    "name": "אורורה",
+    "engName": "Aurora",
+    "brandId": 76
+  },
+  {
+    "id": 2747,
+    "name": "TXT",
+    "engName": "TXT",
+    "brandId": 77
+  },
+  {
+    "id": 2746,
+    "name": "מונית זוטובוס",
+    "engName": "Taxi",
+    "brandId": 77
+  },
+  {
+    "id": 3033,
+    "name": "סיטי ספיריט",
+    "engName": null,
+    "brandId": 78
+  },
+  {
+    "id": 581,
+    "name": "ניבה",
+    "engName": "Niva",
+    "brandId": 80
+  },
+  {
+    "id": 173,
+    "name": "סמרה",
+    "engName": "Samara",
+    "brandId": 80
+  },
+  {
+    "id": 580,
+    "name": "ויליג'",
+    "engName": "Willig",
+    "brandId": 80
+  },
+  {
+    "id": 2742,
+    "name": "25S18",
+    "engName": "25S18",
+    "brandId": 85
+  },
+  {
+    "id": 2744,
+    "name": "35C15CHC",
+    "engName": "35C15CHC",
+    "brandId": 85
+  },
+  {
+    "id": 4075,
+    "name": "35S16",
+    "engName": null,
+    "brandId": 85
+  },
+  {
+    "id": 2970,
+    "name": "50C15",
+    "engName": null,
+    "brandId": 85
+  },
+  {
+    "id": 3364,
+    "name": "50c14v",
+    "engName": null,
+    "brandId": 85
+  },
+  {
+    "id": 2743,
+    "name": "C15D35",
+    "engName": "C15D35",
+    "brandId": 85
+  },
+  {
+    "id": 2586,
+    "name": "דיילי החדשה",
+    "engName": "Daily",
+    "brandId": 85
+  },
+  {
+    "id": 3317,
+    "name": "TGE",
+    "engName": null,
+    "brandId": 86
+  },
+  {
+    "id": 1775,
+    "name": "סהרה",
+    "engName": "Sahara",
+    "brandId": 87
+  },
+  {
+    "id": 570,
+    "name": "סומו",
+    "engName": "Sumo",
+    "brandId": 87
+  },
+  {
+    "id": 571,
+    "name": "סיירה",
+    "engName": "Sierra",
+    "brandId": 87
+  },
+  {
+    "id": 572,
+    "name": "ספארי",
+    "engName": "Safari",
+    "brandId": 87
+  },
+  {
+    "id": 448,
+    "name": "207",
+    "engName": "207",
+    "brandId": 87
+  },
+  {
+    "id": 449,
+    "name": "טלקוליין 2X4",
+    "engName": "Telcoline",
+    "brandId": 87
+  },
+  {
+    "id": 1566,
+    "name": "טלקוליין 4X4",
+    "engName": "Telcoline",
+    "brandId": 87
+  },
+  {
+    "id": 3147,
+    "name": "גלורי 580",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3142,
+    "name": "C31",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3143,
+    "name": "C32",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3141,
+    "name": "C35",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3144,
+    "name": "K01H",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3614,
+    "name": "KO1",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3615,
+    "name": "KO2",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3616,
+    "name": "KO5",
+    "engName": null,
+    "brandId": 88
+  },
+  {
+    "id": 3899,
+    "name": "+ אי-יוניק 5 E-uniq",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 3416,
+    "name": "אי-יוניק 5 E-uniq",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 3724,
+    "name": "אי-יוניק 6 E-uniq",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 3111,
+    "name": "V80",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 3782,
+    "name": "אי-דליבר 9",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 3414,
+    "name": "דליבר 3",
+    "engName": null,
+    "brandId": 89
+  },
+  {
+    "id": 1790,
+    "name": "פורטר",
+    "engName": "Fortr",
+    "brandId": 90
+  },
+  {
+    "id": 4109,
+    "name": "ראם 1500",
+    "engName": null,
+    "brandId": 91
+  },
+  {
+    "id": 3472,
+    "name": "אטקה",
+    "engName": null,
+    "brandId": 92
+  },
+  {
+    "id": 3865,
+    "name": "בורן",
+    "engName": null,
+    "brandId": 92
+  },
+  {
+    "id": 3471,
+    "name": "לאון",
+    "engName": null,
+    "brandId": 92
+  },
+  {
+    "id": 3473,
+    "name": "פורמנטור",
+    "engName": null,
+    "brandId": 92
+  },
+  {
+    "id": 3430,
+    "name": "G70",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3431,
+    "name": "G80",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3429,
+    "name": "G90",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3438,
+    "name": "GLS",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3692,
+    "name": "GV60",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3432,
+    "name": "GV70",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 3427,
+    "name": "GV80",
+    "engName": null,
+    "brandId": 93
+  },
+  {
+    "id": 77,
+    "name": "פריזם",
+    "engName": "Prizm",
+    "brandId": 94
+  },
+  {
+    "id": 3446,
+    "name": "300",
+    "engName": null,
+    "brandId": 95
+  },
+  {
+    "id": 11,
+    "name": "Y10",
+    "engName": "Y10",
+    "brandId": 96
+  },
+  {
+    "id": 1273,
+    "name": "ג'וניור",
+    "engName": "Junior",
+    "brandId": 96
+  },
+  {
+    "id": 4017,
+    "name": "LOGISTAR 100",
+    "engName": null,
+    "brandId": 97
+  },
+  {
+    "id": 3769,
+    "name": "LOGISTAR 200",
+    "engName": null,
+    "brandId": 97
+  },
+  {
+    "id": 3412,
+    "name": "מטרו פתוח",
+    "engName": null,
+    "brandId": 97
+  },
+  {
+    "id": 3140,
+    "name": "A01",
+    "engName": null,
+    "brandId": 98
+  },
+  {
+    "id": 3487,
+    "name": "E-S4",
+    "engName": null,
+    "brandId": 99
+  },
+  {
+    "id": 3486,
+    "name": "GE3",
+    "engName": null,
+    "brandId": 99
+  },
+  {
+    "id": 3488,
+    "name": "IC5",
+    "engName": null,
+    "brandId": 99
+  },
+  {
+    "id": 3753,
+    "name": "E-JS4 ",
+    "engName": null,
+    "brandId": 99
+  },
+  {
+    "id": 15,
+    "name": "מאסטרו",
+    "engName": "Maestro",
+    "brandId": 102
+  },
+  {
+    "id": 16,
+    "name": "מונטגו",
+    "engName": "Motego",
+    "brandId": 102
+  },
+  {
+    "id": 17,
+    "name": "מטרו",
+    "engName": "Metro",
+    "brandId": 102
+  },
+  {
+    "id": 18,
+    "name": "מיני",
+    "engName": "Mini Minor",
+    "brandId": 102
+  },
+  {
+    "id": 4033,
+    "name": "A110",
+    "engName": null,
+    "brandId": 115
+  },
+  {
+    "id": 3994,
+    "name": "DOLPHIN",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3998,
+    "name": "Seal EV",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3905,
+    "name": "אטו 3",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3864,
+    "name": "אטו 3 / ATTO 3",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3863,
+    "name": "האן / HAN",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3862,
+    "name": "טאנג",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3868,
+    "name": "HAN",
+    "engName": null,
+    "brandId": 141
+  },
+  {
+    "id": 3897,
+    "name": "FX",
+    "engName": null,
+    "brandId": 147
+  },
+  {
+    "id": 4056,
+    "name": "FX EV",
+    "engName": null,
+    "brandId": 147
+  },
+  {
+    "id": 3895,
+    "name": "TIGGO 7 Pro",
+    "engName": null,
+    "brandId": 147
+  },
+  {
+    "id": 3896,
+    "name": "TIGGO 8 Pro",
+    "engName": null,
+    "brandId": 147
+  },
+  {
+    "id": 3747,
+    "name": "E-HS9",
+    "engName": null,
+    "brandId": 168
+  },
+  {
+    "id": 3633,
+    "name": "Geometry C",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3522,
+    "name": "Atlas",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3521,
+    "name": "Azkarra",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3530,
+    "name": "Binray",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3516,
+    "name": "Bo Rui GE",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3525,
+    "name": "Coolray",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3517,
+    "name": "Emgrand EV",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3531,
+    "name": "Emgrand GL",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3526,
+    "name": "Emgrand GS",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3529,
+    "name": "Emgrand GT",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3523,
+    "name": "Emgrand X7",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3527,
+    "name": "GX3",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3524,
+    "name": "Icon",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3518,
+    "name": "Jia Ji",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3532,
+    "name": "New Emgrand",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3520,
+    "name": "Okavango",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3528,
+    "name": "Preface",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3515,
+    "name": "Tugella",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 3519,
+    "name": "Xingyue L",
+    "engName": null,
+    "brandId": 177
+  },
+  {
+    "id": 4007,
+    "name": "PONY",
+    "engName": null,
+    "brandId": 193
+  },
+  {
+    "id": 4053,
+    "name": "E-JS4",
+    "engName": null,
+    "brandId": 200
+  },
+  {
+    "id": 3383,
+    "name": "E-S2",
+    "engName": null,
+    "brandId": 200
+  },
+  {
+    "id": 4093,
+    "name": "GS-6S",
+    "engName": null,
+    "brandId": 203
+  },
+  {
+    "id": 4073,
+    "name": "07",
+    "engName": null,
+    "brandId": 224
+  },
+  {
+    "id": 3931,
+    "name": "Funky Cat",
+    "engName": null,
+    "brandId": 224
+  },
+  {
+    "id": 3915,
+    "name": "פולסטאר2",
+    "engName": null,
+    "brandId": 231
+  },
+  {
+    "id": 3917,
+    "name": "קופי 01 / COFFEE 01",
+    "engName": null,
+    "brandId": 284
+  },
+  {
+    "id": 4015,
+    "name": "קופי 02 / COFFEE 02",
+    "engName": null,
+    "brandId": 284
+  },
+  {
+    "id": 3470,
+    "name": "SERES 3 ",
+    "engName": null,
+    "brandId": 287
+  },
+  {
+    "id": 4016,
+    "name": "SERES 5 ",
+    "engName": null,
+    "brandId": 287
+  },
+  {
+    "id": 3452,
+    "name": "U5",
+    "engName": null,
+    "brandId": 288
+  },
+  {
+    "id": 4013,
+    "name": "U6",
+    "engName": null,
+    "brandId": 288
+  },
+  {
+    "id": 4096,
+    "name": "EL7",
+    "engName": null,
+    "brandId": 289
+  },
+  {
+    "id": 4048,
+    "name": "ES8",
+    "engName": null,
+    "brandId": 289
+  },
+  {
+    "id": 4046,
+    "name": "ET5",
+    "engName": null,
+    "brandId": 289
+  },
+  {
+    "id": 4047,
+    "name": "ET7",
+    "engName": null,
+    "brandId": 289
+  },
+  {
+    "id": 4039,
+    "name": "G3i",
+    "engName": null,
+    "brandId": 290
+  },
+  {
+    "id": 4097,
+    "name": "G6",
+    "engName": null,
+    "brandId": 290
+  },
+  {
+    "id": 4029,
+    "name": "G9",
+    "engName": null,
+    "brandId": 290
+  },
+  {
+    "id": 4038,
+    "name": "P5",
+    "engName": null,
+    "brandId": 290
+  },
+  {
+    "id": 4037,
+    "name": "P7",
+    "engName": null,
+    "brandId": 290
+  },
+  {
+    "id": 4107,
+    "name": "TX",
+    "engName": null,
+    "brandId": 299
+  },
+  {
+    "id": 3510,
+    "name": "e-Camper",
+    "engName": null,
+    "brandId": 299
+  },
+  {
+    "id": 3674,
+    "name": "ET5",
+    "engName": null,
+    "brandId": 300
+  },
+  {
+    "id": 3771,
+    "name": "E-HS9",
+    "engName": null,
+    "brandId": 301
+  },
+  {
+    "id": 3970,
+    "name": "S-SERIES",
+    "engName": null,
+    "brandId": 302
+  },
+  {
+    "id": 3780,
+    "name": "V-SERIES",
+    "engName": null,
+    "brandId": 302
+  },
+  {
+    "id": 3901,
+    "name": "T03",
+    "engName": null,
+    "brandId": 320
+  },
+  {
+    "id": 3943,
+    "name": "01",
+    "engName": null,
+    "brandId": 321
+  },
+  {
+    "id": 4071,
+    "name": "DREAM ",
+    "engName": null,
+    "brandId": 322
+  },
+  {
+    "id": 3955,
+    "name": "וויה פרי /   VOYAH FREE",
+    "engName": null,
+    "brandId": 322
+  },
+  {
+    "id": 3995,
+    "name": "LIMO",
+    "engName": null,
+    "brandId": 323
+  },
+  {
+    "id": 3999,
+    "name": "פיג'ו TRAVELLER",
+    "engName": null,
+    "brandId": 323
+  },
+  {
+    "id": 4041,
+    "name": "001",
+    "engName": null,
+    "brandId": 333
+  },
+  {
+    "id": 4040,
+    "name": "X",
+    "engName": null,
+    "brandId": 333
+  },
+  {
+    "id": 4072,
+    "name": "FRIDAY EV",
+    "engName": null,
+    "brandId": 334
+  },
+  {
+    "id": 4058,
+    "name": "KOMI",
+    "engName": null,
+    "brandId": 346
+  },
+  {
+    "id": 4102,
+    "name": "N7",
+    "engName": null,
+    "brandId": 356
+  },
+  {
+    "id": 4101,
+    "name": "J7",
+    "engName": null,
+    "brandId": 365
+  }
+]
