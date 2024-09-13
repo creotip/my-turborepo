@@ -9,12 +9,23 @@ import {
   decimal,
 } from 'drizzle-orm/pg-core'
 import { relations, sql } from 'drizzle-orm'
-import { brands, vehicles, models } from './vehicle-schema.ts'
+import {
+  brands,
+  models,
+  vehicleCategories,
+  vehicleTypes,
+} from './vehicle-schema.ts'
+import { users } from './user-schema.ts'
 
 export const carPostings = pgTable('car_postings', {
   id: serial('id').primaryKey(),
-  userId: integer('user_id').notNull(), // Assuming you have a users table
-  vehicleId: integer('vehicle_id').references(() => vehicles.id),
+  userId: integer('user_id').notNull(),
+  vehicleCategoryId: integer('vehicle_category_id')
+    .references(() => vehicleCategories.id)
+    .notNull(),
+  vehicleTypeId: integer('vehicle_type_id')
+    .references(() => vehicleTypes.id)
+    .notNull(),
   brandId: integer('brand_id')
     .references(() => brands.id)
     .notNull(),
@@ -42,20 +53,18 @@ export const carPostings = pgTable('car_postings', {
   updatedAt: timestamp('updated_at').defaultNow(),
 })
 
-export const carImages = pgTable('car_images', {
-  id: serial('id').primaryKey(),
-  carPostingId: integer('car_posting_id')
-    .references(() => carPostings.id)
-    .notNull(),
-  imageUrl: varchar('image_url', { length: 255 }).notNull(),
-  isPrimary: boolean('is_primary').default(false),
-  createdAt: timestamp('created_at').defaultNow(),
-})
-
-export const carPostingsRelations = relations(carPostings, ({ one, many }) => ({
-  vehicle: one(vehicles, {
-    fields: [carPostings.vehicleId],
-    references: [vehicles.id],
+export const carPostingsRelations = relations(carPostings, ({ one }) => ({
+  user: one(users, {
+    fields: [carPostings.userId],
+    references: [users.id],
+  }),
+  vehicleCategory: one(vehicleCategories, {
+    fields: [carPostings.vehicleCategoryId],
+    references: [vehicleCategories.id],
+  }),
+  vehicleType: one(vehicleTypes, {
+    fields: [carPostings.vehicleTypeId],
+    references: [vehicleTypes.id],
   }),
   brand: one(brands, {
     fields: [carPostings.brandId],
@@ -65,8 +74,17 @@ export const carPostingsRelations = relations(carPostings, ({ one, many }) => ({
     fields: [carPostings.modelId],
     references: [models.id],
   }),
-  images: many(carImages),
 }))
+
+export const carImages = pgTable('car_images', {
+  id: serial('id').primaryKey(),
+  carPostingId: integer('car_posting_id')
+    .references(() => carPostings.id)
+    .notNull(),
+  imageUrl: varchar('image_url', { length: 255 }).notNull(),
+  isPrimary: boolean('is_primary').default(false),
+  createdAt: timestamp('created_at').defaultNow(),
+})
 
 export const carImagesRelations = relations(carImages, ({ one }) => ({
   carPosting: one(carPostings, {

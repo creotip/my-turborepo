@@ -23,21 +23,30 @@ export const modelsRelations = relations(models, ({ one }) => ({
   }),
 }))
 
-export const vehicles = pgTable('vehicles', {
+// Main vehicle categories
+export const vehicleCategories = pgTable('vehicle_categories', {
   id: serial('id').primaryKey(),
-  brandId: integer('brand_id').references(() => brands.id),
-  modelId: integer('model_id').references(() => models.id),
-  year: integer('year').notNull(),
-  color: varchar('color', { length: 50 }).notNull(),
+  name: text('name').notNull(),
 })
 
-export const vehiclesRelations = relations(vehicles, ({ one }) => ({
-  brand: one(brands, {
-    fields: [vehicles.brandId],
-    references: [brands.id],
+// Vehicle types within each category
+export const vehicleTypes = pgTable('vehicle_types', {
+  id: serial('id').primaryKey(),
+  categoryId: integer('category_id').references(() => vehicleCategories.id),
+  name: text('name').notNull(),
+})
+
+// Relationships
+export const vehicleCategoriesRelations = relations(
+  vehicleCategories,
+  ({ many }) => ({
+    types: many(vehicleTypes),
   }),
-  model: one(models, {
-    fields: [vehicles.modelId],
-    references: [models.id],
+)
+
+export const vehicleTypesRelations = relations(vehicleTypes, ({ one }) => ({
+  category: one(vehicleCategories, {
+    fields: [vehicleTypes.categoryId],
+    references: [vehicleCategories.id],
   }),
 }))
