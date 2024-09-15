@@ -1,0 +1,1 @@
+ALTER TABLE "car_postings" ALTER COLUMN "images" SET NOT NULL;

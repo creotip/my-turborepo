@@ -1,0 +1,1 @@
+ALTER TABLE "car_postings" RENAME COLUMN "tags2" TO "tags";
