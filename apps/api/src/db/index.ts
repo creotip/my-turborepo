@@ -10,4 +10,4 @@ const pool = new Pool({
   database: 'mydb',
 })
 
-export const db = drizzle(pool, { schema })
+export const db = drizzle(pool, { schema, logger: true })
